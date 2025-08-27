@@ -1,4 +1,12 @@
-# Laboratorio de Geología Física
+# **Bienvenidos al Laboratorio de Geología Física**
 
-Material del curso (UNAL – Sede Medellín). Aquí encontrarás guías, prácticas,
-rubricas y recursos. Para dudas o correcciones, usa el botón **Open issue**.
+## Universidad Nacional de Colombia - Sede Medellín
+## Facultad de Minas
+
+## Profesor: Oscar Sanchez
+## Correo electrónico: osanchez@unal.edu.co
+
+
+Este espacio es un libro guía para llevar acabo las prácticas del Laboratorio de Geología Física.
+
+Aquí encontrarás el contenido del curso, los objetivos, las metodologías de evaluación y cada unos de los temas que se trataran durante el semestre.
