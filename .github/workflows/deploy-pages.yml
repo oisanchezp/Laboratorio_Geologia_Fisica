@@ -1,0 +1,30 @@
+name: deploy-book
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy-book:
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install deps
+        run: pip install -r requirements.txt
+      # (opcional) cache de notebooks ejecutados si usas execute: cache
+      - name: Build book
+        run: jupyter-book build .
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _build/html
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+
