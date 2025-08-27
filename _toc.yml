@@ -3,9 +3,9 @@ root: intro
 options:
   numbered: true
 chapters:
-  - file: Objetivo
-  - file: Contenido del curso
-  - file: Metodologia de evaluacion
+  - file: objetivos
+  - file: contenido
+  - file: evaluacion
   - file: practicas/01_introduccion_geologia
   - file: practicas/02_minerales
   - file: practicas/03_ciclo_rocas
