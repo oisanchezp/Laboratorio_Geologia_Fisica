@@ -1,0 +1,23 @@
+title: "Laboratorio de Geología Física"
+author: "Oscar Sánchez Patiño"
+logo: images/logo_unal.png
+
+repository:
+  url: https://github.com/oisanchezp/Laboratorio_Geologia_Fisica
+  branch: main
+  path_to_book: ""   # si tu libro está en la raíz
+
+html:
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
+  favicon: images/logo_unal.png
+
+parse:
+  myst_enable_extensions:
+    - dollarmath
+    - amsmath
+    - colon_fence
+
+execute:
+  execute_notebooks: "off"   # cambia a "auto" si quieres ejecutar en build

@@ -1,0 +1,6 @@
+jupyter-book>=1.0
+jupyterlab
+numpy
+pandas
+matplotlib
+geopandas

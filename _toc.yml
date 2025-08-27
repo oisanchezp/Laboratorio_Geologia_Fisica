@@ -1,0 +1,12 @@
+format: jb-book
+root: intro
+options:
+  numbered: true
+chapters:
+  - file: objetivos
+  - file: contenidos
+  - file: practicas/01_minerales
+  - file: practicas/02_rocas
+  - file: practicas/03_estructuras
+  - file: practicas/04_mapas_geologicos
+  - file: practicas/05_relieve
