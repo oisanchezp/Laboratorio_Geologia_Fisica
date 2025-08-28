@@ -1,15 +1,17 @@
 # **Bienvenidos al Laboratorio de Geología Física**
 
+```{image} images/laboratorio.png
+:width: 50%
+:align: center
+:alt: Imagen del laboratorio
+```
+
 **Universidad Nacional de Colombia – Sede Medellín**  
 **Facultad de Minas**  
 **Profesor:** Oscar Sánchez  
 **Correo:** oisanchezp@unal.edu.co
 
 
-```{image} images/laboratorio.png
-:width: 40%
-:align: center
-:alt: Imagen del laboratorio
 
 
 **Este espacio es un libro guía para llevar acabo las prácticas del Laboratorio de Geología Física.**
