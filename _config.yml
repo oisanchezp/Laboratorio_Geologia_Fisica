@@ -18,6 +18,7 @@ parse:
     - dollarmath
     - amsmath
     - colon_fence
+    - attrs
 
 execute:
   execute_notebooks: "off"   # cambia a "auto" si quieres ejecutar en build
