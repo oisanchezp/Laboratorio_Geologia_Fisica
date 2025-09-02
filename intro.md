@@ -1,4 +1,8 @@
-# **Bienvenidos al Laboratorio de Geología Física**
+```md
+:::{div} text-center
+# Bienvenidos al Laboratorio de Geología Física
+:::
+
 
 ```{image} images/laboratorio.png
 :width: 50%
