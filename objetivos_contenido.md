@@ -1,9 +1,10 @@
 # Laboratorio de Geología Física Semestre 2 - 2025
 
+**Universidad Nacional de Colombia - Sede Medellín**
+
 ## Objetivos del curso
 
-Al finalizar el laboratorio de Geología Física, los estudiantes estarán en capacidad de reconocer, describir y 
-analizar de manera básica los minerales mas comunas y los principales tipos de rocas, así como de utilizar herramientas básicas de campo (brújula, mapas geológicos, GPS) para interpretar principales datos geológicos tanto en laboratorio como en campo.
+Al finalizar el laboratorio de Geología Física, los estudiantes estarán en capacidad de reconocer, describir y analizar de manera básica los minerales más comunes y los principales tipos de rocas, así como de utilizar herramientas fundamentales de campo —como la brújula y los mapas geológicos— para interpretar información geológica esencial tanto en el laboratorio como en el trabajo de campo.
 
 ### Objetivos específicos
 
@@ -13,33 +14,33 @@ analizar de manera básica los minerales mas comunas y los principales tipos de 
 
 ## Contenido del curso
 
-1. Introducción a la Geología
+1. **Introducción a la Geología**
     - Definición y alcance de la geología
     - Importancia de la geología en la comprensión de la Tierra
-2. Minerales
+2. **Minerales**
     - Formación y clasificación de los minerales
     - Propiedades físicas de los minerales
     - Identificación de minerales en muestra de mano
-3. Ciclo de las Rocas
+3. **Ciclo de las Rocas**
     - Formación y clasificación de las rocas
     - Interacciones entre los diferentes tipos de rocas
     - Identificación de rocas ígneas, sedimentarias y metamórficas
-4. Rocas Ígneas
+4. **Rocas Ígneas**
     - Formación y características de las rocas ígneas
     - Tipos de rocas ígneas
     - Identificación de rocas ígneas en muestra de mano
-5. Rocas Sedimentarias
+5. **Rocas Sedimentarias**
     - Formación y características de las rocas sedimentarias
     - Tipos de rocas sedimentarias
     - Identificación de rocas sedimentarias en muestra de mano
-6. Rocas Metamórficas
+6. **Rocas Metamórficas**
     - Formación y características de las rocas metamórficas
     - Tipos de rocas metamórficas
     - Identificación de rocas metamórficas en muestra de mano
-7. Manejo de la Brújula y Mediciones
+7. **Manejo de la Brújula y Mediciones**
     - Uso de la brújula en el campo
     - Técnicas de medición de ángulos y distancias de estructuras geológicas
-8. Mapas Geológicos y Ubicación
+8. **Mapas Geológicos y Ubicación**
     - Técnicas de ubicación y georreferenciación en el terreno
     - Interpretación de mapas topográficos
     - Interpretación de mapas geológicos
@@ -47,31 +48,31 @@ analizar de manera básica los minerales mas comunas y los principales tipos de 
     - Interpretación de columnas estratigráficas
     - Discusión: ¿Para que me sirve todo lo aprendido?
 
-## Calendario y evaluación semestre 2025-02
+## Calendario semestre 2025-02
 
-**Las clases serán todo los miercoles de 2 - 4 p.m Bloque M1-210. Se hará una práctica de campo en la Facultad de Minas.**
+**Las clases serán todos los miércoles de 2:00 a 4:00 p.m. en el Bloque M1-210.  
+Se realizará una práctica de campo en la Facultad de Minas.**
+
+| **Semana** | **Fecha**        | **Tema / Actividad**                                       |
+|:----------:|:----------------:|------------------------------------------------------------|
+| **1**      | 3 de septiembre  | Introducción al laboratorio de Geología                    |
+| **2**      | 10 de septiembre | Minerales                                                  |
+| **3**      | 17 de septiembre | Identificación de minerales en muestra de mano             |
+| **4**      | 24 de septiembre | **Taller 1: Identificación de minerales**                  |
+| **5**      | 1 de octubre     | Identificación de rocas ígneas, sedimentarias y metamórficas |
+| **6**      | 8 de octubre     | Identificación de rocas ígneas en muestra de mano          |
+| **7**      | 15 de octubre    | **Taller 2: Identificación de rocas en muestra de mano**   |
+| **8**      | 22 de octubre    | **Quiz 1**                                                 |
+| **9**      | 29 de octubre    | Identificación de rocas sedimentarias en muestra de mano   |
+| **10**     | 5 de noviembre   | Identificación de rocas metamórficas en muestra de mano    |
+| **11**     | 12 de noviembre  | **Quiz 2**                                                 |
+| **12**     | 19 de noviembre  | Manejo de brújula – Práctica de campo                      |
+| **13**     | 26 de noviembre  | Ubicación, mapas geológicos, cortes y columna estratigráfica |
+| **14**     | 3 de diciembre   | **Taller 3: Mapas geológicos**                             |
+| **15**     | 10 de diciembre  | **Quiz 3**                                                 |
 
 
-
-- **Semana 1 (3 de septiembre de 2025)**: Introducción al laboratorio de Geología
-- **Semana 2 (10 de septiembre de 2025)**: Minerales
-- **Semana 3 (17 de septiembre de 2025)**: Identificación de minerales en muestra de mano
-- **Semana 4 (24 de septiembre de 2025)**: **Taller 1: identificación de minerales**
-- **Semana 5 (1 de octubre de 2025)**: Identificación de rocas ígneas, sedimentarias y metamórficas
-- **Semana 6 (8 de octubre de 2025)**: Identificación de rocas ígneas en muestra de mano 
-- **Semana 7 (15 de octubre de 2025)**: **Taller 2: identificación de rocas en muestra de mano**
-- **Semana 8 (22 de octubre de 2025)**: **Quiz 1**
-- **Semana 9 (29 de octubre de 2025)**: Identificación de rocas sedimentarias en muestra de mano
-- **Semana 10 (5 de noviembre de 2025)**: Identificación de rocas metamórficas en muestra de mano
-- **Semana 11 (12 de noviembre de 2025)**: **Quiz 2**
-- **Semana 12 (19 de noviembre de 2025)**: Manejo Brújula - Práctica de campo **Taller 2: de Brújula**
-- **Semana 13 (26 de noviembre de 2025)**: Ubicación, Mapas Geológicos, cortes geológicos y columna estratigráfica
-- **Semana 14 (3 de diciembre de 2025)**: **Taller 3: Mapa geológicos**
-- **Semana 15 (10 de diciembre de 2025)**: **Quiz 3**
-
-
-
-### Evaluación
+## Evaluación
 
 | Semana | Actividad evaluativa                     | Porcentaje |
 |--------|------------------------------------------|------------|
