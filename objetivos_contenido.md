@@ -84,3 +84,13 @@ Se realizará una práctica de campo en la Facultad de Minas.**
 | 15     | Quiz 3                                   | 20 %       |
 | **Total** |                                          | **100 %**  |
 
+## Libros Guía
+
+1. **Ciencias de la Tierra Una Introducción a la geología física**
+   - Autor: Edward J. Tarbuck and Frederick K. Lutgens
+   - Edición: 2005
+   - [Enlace libro Octava Edición](https://www.xeologosdelmundu.org/wp-content/uploads/2016/03/TARBUCK-y-LUTGENS-Ciencias-de-la-Tierra-8va-ed.-1.pdf)
+
+2. **Laboratory Manual in Physical Geology, 12th edition**
+   - Autor: Vincent Cronin and Dennis G. Tasa
+   - Edición: 2018
