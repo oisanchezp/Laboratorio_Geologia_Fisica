@@ -1,8 +1,5 @@
-```md
-:::{div} text-center
-# Bienvenidos al Laboratorio de Geología Física
-:::
-```
+<h1 style="text-align:center;">Bienvenidos al Laboratorio de Geología Física</h1>
+
 
 
 ```{image} images/laboratorio.png
