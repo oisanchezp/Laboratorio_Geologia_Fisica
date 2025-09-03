@@ -233,5 +233,97 @@ Nota: episodios de “bombardeo tardío” son tema de investigación; su intens
 
 ## Origen del Planeta Tierra
 
+La Tierra se formó hace ~4.5–4.6 miles de millones de años (Ga) a partir del material del **disco protoplanetario** que rodeaba al Sol joven. El proceso combinó **acreción** (choques y agregación de cuerpos cada vez mayores), **calentamiento interno** y **diferenciación** (separación por densidades) hasta producir un planeta con **núcleo metálico**, **manto** y **corteza**.
+
+---
+
+### 1. Etapa inicial: aglomeración y calentamiento
+
+**¿Qué ocurrió?**  
+Pequeños cuerpos ricos en silicatos y metal, llamados **planetesimales**, chocaban entre sí y con el embrión terrestre. Ese bombardeo aportó masa y **energía**.
+
+**Principales fuentes de calor:**
+- **Acreción (impactos):** la **energía cinética** de choques a altísimas velocidades se transformó en **calor** dentro del planeta en crecimiento.  
+- **Compresión gravitacional:** al aumentar la masa, la **gravedad** comprime el interior y **libera energía** adicional.  
+- **Desintegración radiactiva:** isótopos como **Uranio (U), Torio (Th)** y **Potasio-40 (K-40)** se desintegran y liberan calor de forma continua a lo largo de millones de años.  
+
+```{figure} ../images/origin_earth.jpg
+:width: 75%
+:align: center
+:alt: Acreción y fuentes de calor internas
+:name: fig-acrecion
+
+**Acreción y calor interno:** impactos, compresión y radiactividad elevan la temperatura del planeta en crecimiento. Tomado de [astronomy.com](https://www.astronomy.com/science/the-beginning-to-the-end-of-the-universe-the-origins-of-life-on-earth/)
+```
+
+### 2. Calentamiento e “inversión” del planeta: el hierro se hunde
+
+A medida que sube la temperatura, parte del interior se funde. El hierro (más denso) se separa del silicato y “llueve” hacia el centro como gotas metálicas que liberan energía gravitacional al hundirse. Así se forma el núcleo (externo líquido y, más tarde, interno sólido), mientras el material más liviano queda por encima.
+
+Eventos probables que intensificaron el calentamiento:
+
+- **Océanos de magma:** el calor acumulado e impactos gigantes (incluida la colisión que formó la Luna) pudieron fundir buena parte del manto temprano.
+
+- **Impacto gigante (Theia):** además de generar la Luna, habría re-fundido la superficie y favorecido la diferenciación.
+
+```{figure} ../images/origin_earth.jpg
+:width: 75%
+:align: center
+:alt: Acreción y fuentes de calor internas
+:name: fig-acrecion
+
+**Acreción y calor interno:** impactos, compresión y radiactividad elevan la temperatura del planeta en crecimiento. Tomado de [astronomy.com](https://www.astronomy.com/science/the-beginning-to-the-end-of-the-universe-the-origins-of-life-on-earth/)
+```
+
+
+### 3. Diferenciación planetaria y primeras cortezas
+
+Con el interior muy caliente, se establece un océano de **magma** en el manto superior (decenas a ~100 km o más). Al enfriarse:
+
+- Cristalizan minerales menos densos que ascienden y forman corteza primitiva (basáltica al inicio).
+
+- Empieza la convección del manto (material caliente asciende, frío desciende), clave para la tectónica y la evolución térmica.
+
+- Se desgasifica el interior: vapor de agua, CO₂, N₂ y otros gases construyen la atmósfera temprana. Cuando la superficie se enfría lo suficiente, el vapor condensa y se forman océanos tempranos.
+
+
+### Evidencia temprana de agua y corteza:
+
+- Cristales de circones muy antiguos (∼4.4 Ga) preservan firmas isotópicas compatibles con interacción con agua líquida y corteza félsica temprana.
+
+### ¿De dónde vino el agua de la Tierra?
+
+Hoy se propone un origen mixto:
+
+- Parte “local”: materiales del Sistema Solar interno (p. ej., meteoritos tipo condritas enstatita) pudieron aportar hidrógeno y oxígeno suficientes para generar agua durante la acreción y la diferenciación.
+
+- Parte “externa” (aporte tardío): algunos asteroides/cometas contribuyeron más tarde (el llamado “late veneer”).
+
+**Nota:** es probable que el agua tenga múltiples fuentes y que su proporción sea tema de investigación activa.
+
+### Ideas clave
+
+- La Tierra se armó por acreción; el calor de impactos, compresión y radiactividad la llevó a fundirse en parte.
+
+- La diferenciación separó un núcleo metálico denso y una corteza más ligera; la convección del manto arrancó muy temprano.
+
+- La atmósfera y los océanos se originaron por desgasificación y aportes de volátiles; el agua probablemente tiene orígenes mixtos.
+
+### Referencias y lecturas recomendadas (Divulgativas)
+
+- NASA – How did our Solar System form? (visión general de acreción y discos).
+
+- Connelly et al. (2012), Science – Edad de CAIs (marca el inicio del Sistema Solar).
+
+- Yin et al. (2002), Nature / Jacobsen (2005), AREPS – Cronometría Hf-W (ritmos de acreción y formación del núcleo).
+
+- Elkins-Tanton (2012), Annual Review – Océanos de magma y diferenciación.
+
+- NASA – Moon Formation (impacto gigante, océano de magma lunar y analogías para la Tierra).
+
+- Wilde et al. (2001) / Valley et al. (2014) – Zircones ~4.4 Ga (corteza temprana y posible agua).
+
+- Piani et al. (2020), Science – Condritas enstatita y agua “local”; debates recientes sobre el origen del agua.
+
 
 ## Teoría Tectónica de Placas
