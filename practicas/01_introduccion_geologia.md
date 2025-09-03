@@ -48,7 +48,7 @@ Teofrasto (371 - 287 a.C.), un discípulo de Aristóteles, es considerado el "pa
   - Propuso los principios básicos de la estratigrafía: superposición, horizontalidad original y continuidad lateral.  
   - Estableció que los fósiles eran restos de seres vivos.
 
-  ```{figure} images/Niels_stensen.jpg
+  ```{figure} ../images/Niels_stensen.jpg
 :width: 50%
 :align: center
 :alt: Nicolás Steno
@@ -79,7 +79,7 @@ Ocurren debates entre escuelas del pensamientos:
   - Fundador del **uniformismo**: “El presente es la clave del pasado”.
   - Procesos lentos han operado durante millones de años para formar el paisaje actual.
 
-    ```{figure} images/James_Hutton.jpg
+    ```{figure} ../images/James_Hutton.jpg
 :width: 50%
 :align: center
 :alt: James Hutton
@@ -94,7 +94,7 @@ Ocurren debates entre escuelas del pensamientos:
   - Autor de *Principles of Geology*: ataca prejuicios teológicos con respecto a la edad de la Tierra.
   - Difundió el uniformismo y consolidó la geología como ciencia.
 
-      ```{figure} images/charles_lyell.jpg
+      ```{figure} ../images/charles_lyell.jpg
 :width: 50%
 :align: center
 :alt: Charles Lyell
@@ -121,12 +121,14 @@ Al empezar el siglo XX, muchos geólogos habían calculado aproximadamente la ed
   - Décadas de 1960: consolidación de la **Tectónica de Placas**, que unificó la geología.  
 
 
-      ```{figure} images/teoria-deriva-continental.jpg
+      ```{figure} ../images/teoria-deriva-continental.jpg
 :width: 50%
 :align: center
 :alt: Teoría de la Deriva Continental
 
 **Teoría de la Deriva Continental (Alfred Wegener, 1912). Tomado de [educa](https://www.educa2.madrid.org/web/argos/inicio/-/book/apuntes-de-tectonica-de-placas-de-ana-garcia?_book_viewer_WAR_cms_tools_chapterIndex=e51624f6-5259-4503-b639-1ec756dc36d8)**
+
+
 
 ## Siglo XXI
 
