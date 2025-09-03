@@ -85,6 +85,7 @@ Ocurren debates entre escuelas del pensamientos:
     :alt: James Hutton
 
 **James Hutton (1726–1797), considerado el padre de la geología moderna.**
+**James Hutton (1726–1797), considerado el padre de la geología moderna.**
 ```
 
 - **Georges Cuvier (1769–1832):**
@@ -133,13 +134,12 @@ Al empezar el siglo XX, muchos geólogos habían calculado aproximadamente la ed
   - Décadas de 1960: consolidación de la **Tectónica de Placas**, que unificó la geología.  
 
 ```{figure} ../images/teoria-deriva-continental.jpg
-    :width: 50%
+    :width: 30%
     :align: center
     :alt: Teoría de la Deriva Continental
-    
+
 **Teoría de la Deriva Continental (Alfred Wegener, 1912). Tomado de [educa](https://www.educa2.madrid.org/web/argos/inicio/-/book/apuntes-de-tectonica-de-placas-de-ana-garcia?_book_viewer_WAR_cms_tools_chapterIndex=e51624f6-5259-4503-b639-1ec756dc36d8)**
 ```
-
 
 ## Siglo XXI
 
@@ -171,6 +171,8 @@ En el diario vivir el geólogo se especializa en:
 - Investigación y conservación del patrimonio geológico.
 
 ## Origen del Sistema Solar
+
+
 
 ## Origen del Planeta Tierra
 
