@@ -48,13 +48,13 @@ Teofrasto (371 - 287 a.C.), un discípulo de Aristóteles, es considerado el "pa
   - Propuso los principios básicos de la estratigrafía: superposición, horizontalidad original y continuidad lateral.  
   - Estableció que los fósiles eran restos de seres vivos.
 
-  ```{figure} ../images/Niels_stensen.jpg
-:width: 50%
-:align: center
-:alt: Nicolás Steno
+```{figure} ../images/Niels_stensen.jpg
+    :width: 50%
+    :align: center
+    :alt: Nicolás Steno
 
-**Nicolás Steno (1638–1686), considerado el padre de la estratigrafía.**
-
+    **Nicolás Steno (1638–1686), considerado el padre de la estratigrafía.**
+```
 
 - Inicio del método científico en geología: observación → hipótesis → demostración.  
 
@@ -79,12 +79,13 @@ Ocurren debates entre escuelas del pensamientos:
   - Fundador del **uniformismo**: “El presente es la clave del pasado”.
   - Procesos lentos han operado durante millones de años para formar el paisaje actual.
 
-    ```{figure} ../images/James_Hutton.jpg
-:width: 50%
-:align: center
-:alt: James Hutton
+```{figure} ../images/James_Hutton.jpg
+    :width: 50%
+    :align: center
+    :alt: James Hutton
 
-**James Hutton (1726–1797), considerado el padre de la geología moderna.**
+    **James Hutton (1726–1797), considerado el padre de la geología moderna.**
+```
 
 - **Georges Cuvier (1769–1832):**
   - Introdujo el concepto de **catastrofismo**: La Tierra tiene 4.000 años.
@@ -94,12 +95,13 @@ Ocurren debates entre escuelas del pensamientos:
   - Autor de *Principles of Geology*: ataca prejuicios teológicos con respecto a la edad de la Tierra.
   - Difundió el uniformismo y consolidó la geología como ciencia.
 
-      ```{figure} ../images/charles_lyell.jpg
-:width: 50%
-:align: center
-:alt: Charles Lyell
+```{figure} ../images/charles_lyell.jpg
+    :width: 50%
+    :align: center
+    :alt: Charles Lyell
 
-**Charles Lyell (1797–1875)**
+    **Charles Lyell (1797–1875)**
+```
 
 - **William Smith (1769–1839):**
   - Elaboró el primer mapa geológico de Inglaterra.
@@ -120,14 +122,13 @@ Al empezar el siglo XX, muchos geólogos habían calculado aproximadamente la ed
   - Avances en **estratigrafía** y **datación radiométrica**.  
   - Décadas de 1960: consolidación de la **Tectónica de Placas**, que unificó la geología.  
 
+```{figure} ../images/teoria-deriva-continental.jpg
+    :width: 50%
+    :align: center
+    :alt: Teoría de la Deriva Continental
 
-      ```{figure} ../images/teoria-deriva-continental.jpg
-:width: 50%
-:align: center
-:alt: Teoría de la Deriva Continental
-
-**Teoría de la Deriva Continental (Alfred Wegener, 1912). Tomado de [educa](https://www.educa2.madrid.org/web/argos/inicio/-/book/apuntes-de-tectonica-de-placas-de-ana-garcia?_book_viewer_WAR_cms_tools_chapterIndex=e51624f6-5259-4503-b639-1ec756dc36d8)**
-
+    **Teoría de la Deriva Continental (Alfred Wegener, 1912). Tomado de [educa](https://www.educa2.madrid.org/web/argos/inicio/-/book/apuntes-de-tectonica-de-placas-de-ana-garcia?_book_viewer_WAR_cms_tools_chapterIndex=e51624f6-5259-4503-b639-1ec756dc36d8)**
+```
 
 
 ## Siglo XXI
