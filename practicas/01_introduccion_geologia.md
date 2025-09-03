@@ -266,13 +266,14 @@ Eventos probables que intensificaron el calentamiento:
 
 - **Impacto gigante (Theia):** además de generar la Luna, habría re-fundido la superficie y favorecido la diferenciación.
 
-```{figure} ../images/origin_earth.jpg
+```{figure} ../images/inversion.png
 :width: 75%
 :align: center
 :alt: Acreción y fuentes de calor internas
 :name: fig-acrecion
 
-**Acreción y calor interno:** impactos, compresión y radiactividad elevan la temperatura del planeta en crecimiento. Tomado de [astronomy.com](https://www.astronomy.com/science/the-beginning-to-the-end-of-the-universe-the-origins-of-life-on-earth/)
+**Esquema que ilustra la migración del hierro fundido hacia el núcleo de la
+tierra en formación. Una tercera parte de la masa de la tierra está compuesta de hierro.** [Tomado de](https://www.researchgate.net/publication/235702128_Manual_de_Laboratorio_de_GeologiaEjercicios_de_laboratorio_para_estudiantes_de_primer_semestre_de_geologia_o_ciencias_de_la_tierra)
 ```
 
 
