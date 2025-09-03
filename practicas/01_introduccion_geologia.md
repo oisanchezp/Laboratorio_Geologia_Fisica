@@ -49,7 +49,7 @@ Teofrasto (371 - 287 a.C.), un discípulo de Aristóteles, es considerado el "pa
   - Estableció que los fósiles eran restos de seres vivos.
 
 ```{figure} ../images/Niels_stensen.jpg
-    :width: 50%
+    :width: 30%
     :align: center
     :alt: Nicolás Steno
 
@@ -80,7 +80,7 @@ Ocurren debates entre escuelas del pensamientos:
   - Procesos lentos han operado durante millones de años para formar el paisaje actual.
 
 ```{figure} ../images/James_Hutton.jpg
-    :width: 50%
+    :width: 30%
     :align: center
     :alt: James Hutton
 
@@ -96,11 +96,11 @@ Ocurren debates entre escuelas del pensamientos:
   - Difundió el uniformismo y consolidó la geología como ciencia.
 
 ```{figure} ../images/charles_lyell.jpg
-    :width: 50%
+    :width: 30%
     :align: center
     :alt: Charles Lyell
 
-    **Charles Lyell (1797–1875)**
+**Charles Lyell (1797–1875)**
 ```
 
 - **William Smith (1769–1839):**
@@ -127,9 +127,8 @@ Al empezar el siglo XX, muchos geólogos habían calculado aproximadamente la ed
     :align: center
     :alt: Teoría de la Deriva Continental
 
-    **Teoría de la Deriva Continental (Alfred Wegener, 1912). Tomado de [educa](https://www.educa2.madrid.org/web/argos/inicio/-/book/apuntes-de-tectonica-de-placas-de-ana-garcia?_book_viewer_WAR_cms_tools_chapterIndex=e51624f6-5259-4503-b639-1ec756dc36d8)**
 ```
-
+**Teoría de la Deriva Continental (Alfred Wegener, 1912). Tomado de [educa](https://www.educa2.madrid.org/web/argos/inicio/-/book/apuntes-de-tectonica-de-placas-de-ana-garcia?_book_viewer_WAR_cms_tools_chapterIndex=e51624f6-5259-4503-b639-1ec756dc36d8)**
 
 ## Siglo XXI
 
