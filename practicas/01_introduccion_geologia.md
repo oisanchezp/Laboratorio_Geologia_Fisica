@@ -53,7 +53,7 @@ Teofrasto (371 - 287 a.C.), un discípulo de Aristóteles, es considerado el "pa
     :align: center
     :alt: Nicolás Steno
 
-    **Nicolás Steno (1638–1686), considerado el padre de la estratigrafía.**
+**Nicolás Steno (1638–1686), considerado el padre de la estratigrafía.**
 ```
 
 - Inicio del método científico en geología: observación → hipótesis → demostración.  
@@ -84,7 +84,7 @@ Ocurren debates entre escuelas del pensamientos:
     :align: center
     :alt: James Hutton
 
-    **James Hutton (1726–1797), considerado el padre de la geología moderna.**
+**James Hutton (1726–1797), considerado el padre de la geología moderna.**
 ```
 
 - **Georges Cuvier (1769–1832):**
@@ -109,7 +109,17 @@ Ocurren debates entre escuelas del pensamientos:
 
 - Avances en paleontología, geología histórica y cartografía geológica.
 
-- A mediados del siglo XVIII, algunos estudiosos observaban con curiosidad extensas áreas del mundo cubiertas por lechos de roca que, evidentemente fueron en otros tiempos, materia fundida que fluyó debido a su alto calor. ¿Sería posible que gran parte de la superficie del planeta se hubiera formado por rocas incandescentes?. Notaron además que el deshielo producía la disgregación de las rocas, que las temperaturas alteraban su superficie y que las corrientes de agua abrían canales en las laderas de las montañas y en las planicies. ¿Sería posible que valles enteros se hubieran formado por materiales arrastrados desde las montañas y depositados en los cambios de pendiente?. ¿Podrían los ríos, lagos y mares formar extensas capas rocosas endurecidas a partir de sedimentos de roca y precipitados químicos?. ¿Sería posible que el movimiento de la corteza terrestre elevara el fondo de los mares para formar cordilleras en cuyos núcleos se encontraron fósiles marinos?. Todas estas preguntas y muchas más, hicieron que la geología se desarrollara rápidamente durante el siglo XIX.
+- A mediados del siglo XVIII, algunos estudiosos observaban con curiosidad extensas áreas del mundo cubiertas por lechos de roca que, evidentemente fueron en otros tiempos, materia fundida que fluyó debido a su alto calor. 
+
+- ¿Sería posible que gran parte de la superficie del planeta se hubiera formado por rocas incandescentes?. 
+
+- Notaron además que el deshielo producía la disgregación de las rocas, que las temperaturas alteraban su superficie y que las corrientes de agua abrían canales en las laderas de las montañas y en las planicies. 
+
+- ¿Sería posible que valles enteros se hubieran formado por materiales arrastrados desde las montañas y depositados en los cambios de pendiente?. 
+
+- ¿Podrían los ríos, lagos y mares formar extensas capas rocosas endurecidas a partir de sedimentos de roca y precipitados químicos?.
+
+- ¿Sería posible que el movimiento de la corteza terrestre elevara el fondo de los mares para formar cordilleras en cuyos núcleos se encontraron fósiles marinos?. Todas estas preguntas y muchas más, hicieron que la geología se desarrollara rápidamente durante el siglo XIX.
 
 ---
 
@@ -126,9 +136,10 @@ Al empezar el siglo XX, muchos geólogos habían calculado aproximadamente la ed
     :width: 50%
     :align: center
     :alt: Teoría de la Deriva Continental
-
-```
+    
 **Teoría de la Deriva Continental (Alfred Wegener, 1912). Tomado de [educa](https://www.educa2.madrid.org/web/argos/inicio/-/book/apuntes-de-tectonica-de-placas-de-ana-garcia?_book_viewer_WAR_cms_tools_chapterIndex=e51624f6-5259-4503-b639-1ec756dc36d8)**
+```
+
 
 ## Siglo XXI
 
@@ -146,8 +157,22 @@ Al empezar el siglo XX, muchos geólogos habían calculado aproximadamente la ed
 
 ## Campos de estudio de la geología
 
+Aspectos más importantes que estudia esta ciencia:
+
+- La conformación de la tierra como un sistema compuesto de subsistemas interrelacionados: litósfera, atmósfera, hidrosfera y biosfera.
+- La Historia de La Tierra incluyendo la historia de la vida.
+- Los materiales que componen la Tierra: rocas, minerales, suelos y agua.
+- Los procesos geológicos que modelan la Tierra: erosión, sedimentación, tectónica de placas.
+
+En el diario vivir el geólogo se especializa en:
+- Extracción de recursos naturales: petróleo, gas, minerales.
+- Evaluación de riesgos geológicos: terremotos, deslizamientos de tierra.
+- Gestión de recursos hídricos y suelos.
+- Investigación y conservación del patrimonio geológico.
+
 ## Origen del Sistema Solar
 
 ## Origen del Planeta Tierra
+
 
 ## Teoría Tectónica de Placas
