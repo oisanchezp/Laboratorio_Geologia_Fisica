@@ -166,11 +166,64 @@ Aspectos más importantes que estudia esta ciencia:
 
 En el diario vivir el geólogo se especializa en:
 - Extracción de recursos naturales: petróleo, gas, minerales.
-- Evaluación de riesgos geológicos: terremotos, deslizamientos de tierra.
+- Evaluación de riesgos geológicos: terremotos, volcanes, movimientos en masa.
 - Gestión de recursos hídricos y suelos.
 - Investigación y conservación del patrimonio geológico.
 
 ## Origen del Sistema Solar
+
+¿Cómo pasamos de una nube de gas y polvo en el espacio a tener el Sol, planetas, lunas y asteroides?  
+La explicación más aceptada hoy es la **Hipótesis Nebular**: el Sistema Solar nació hace ~4.6 mil millones de años a partir del **colapso** de una nube interestelar (nebulosa) que giraba lentamente. Al colapsar, la mayor parte del material formó el **Sol** y el resto se aplanó en un **disco protoplanetario** donde nacieron los planetas. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 1. De la nube al disco
+
+- **Colapso de la nube:** Una porción de una nebulosa (gas y polvo) empezó a contraerse por **gravedad**. Un detonante posible es la **onda de choque** de una supernova cercana que comprimió la nube y disparó el colapso. :contentReference[oaicite:1]{index=1}
+- **Disco protoplanetario:** Al contraerse, la nube giratoria **se aplanó** por conservación del **momento angular**, formando un disco alrededor de una protoestrella en el centro. Estos discos se **observan hoy** alrededor de estrellas jóvenes; no es solo teoría. :contentReference[oaicite:2]{index=2}
+
+## 2. Nacimiento del Sol y “semillas” sólidas
+
+- **Proto-Sol y encendido:** La materia que cae al centro aumenta presión y temperatura hasta iniciar la fusión nuclear: nace el Sol. El disco que queda contiene gas, hielo y polvo.
+
+- **Primeros sólidos (CAIs y cóndrulos):** En el disco, los primeros sólidos que se formaron son las inclusiones ricas en calcio y aluminio (CAIs) y, poco después, los cóndrulos. Dataciones precisas de meteoritos sitúan los CAIs en 4567.3 ± 0.16 Ma, una marca temporal del inicio del Sistema Solar.
+
+## 3. Del polvo a los planetas
+
+- Polvo → guijarros → planetesimales: Las partículas chocan y se adhieren; crecen a tamaños de centímetros a kilómetros (planetesimales). Procesos colectivos del gas y el polvo en el disco (p.ej., inestabilidades y zonas de presión) favorecen el crecimiento.
+
+- Planetesimales → protoplanetas: La gravedad de los cuerpos mayores acelera la acreción (bolas de nieve gravitacionales). En la región interna, secos y rocosos (Mercurio–Marte); en la externa, abundan hielos y gas (gigantes).
+
+- Migración planetaria: Los planetas gigantes pueden migrar por interacción con el gas y con enjambres de planetesimales, reorganizando órbitas (p.ej., Grand Tack, Nice). Estas ideas ayudan a explicar la arquitectura del Sistema Solar y del cinturón de asteroides.
+
+
+## 4. ¿Qué evidencias tenemos?
+
+- Meteoritos primitivos (condritas): Conservan CAIs y cóndrulos con edades que fechan el inicio del Sistema Solar.
+
+- Discos observados por ALMA: Anillos, huecos y estructuras donde el polvo se concentra; coherente con crecimiento de planetas.
+
+- Modelos y simulaciones: Escenarios con migración de gigantes reproducen mejor la distribución actual de objetos.
+
+## 5. Línea de tiempo
+
+- 4.6 Ga: Colapso de la nebulosa; CAIs marcan el tiempo cero del Sistema Solar.
+
+- 4.5–4.0 Ga: Formación de planetas; la Tierra se diferencia; primeros océanos (etapa Hádica/Arcaica temprana).
+
+Nota: episodios de “bombardeo tardío” son tema de investigación; su intensidad y duración se debaten.
+
+
+```{figure} images/solarsystem-snap_8.5x11.pdf
+:width: 70%
+:align: center
+:alt: Del colapso de una nube al disco protoplanetario
+:name: fig-nebula-disco
+
+**Del colapso de una nube al disco**: la gravedad concentra el material (proto-Sol) y el resto se aplana en un disco giratorio. [Tomado de](https://spaceplace.nasa.gov/solar-system-formation/en/)
+```
+
+
 
 
 
