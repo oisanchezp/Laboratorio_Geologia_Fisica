@@ -85,7 +85,6 @@ Ocurren debates entre escuelas del pensamientos:
     :alt: James Hutton
 
 **James Hutton (1726–1797), considerado el padre de la geología moderna.**
-**James Hutton (1726–1797), considerado el padre de la geología moderna.**
 ```
 
 - **Georges Cuvier (1769–1832):**
@@ -134,14 +133,14 @@ Al empezar el siglo XX, muchos geólogos habían calculado aproximadamente la ed
   - Décadas de 1960: consolidación de la **Tectónica de Placas**, que unificó la geología.  
 
 ```{figure} ../images/teoria-deriva-continental.jpg
-    :width: 30%
+    :width: 70%
     :align: center
     :alt: Teoría de la Deriva Continental
 
 **Teoría de la Deriva Continental (Alfred Wegener, 1912). Tomado de [educa](https://www.educa2.madrid.org/web/argos/inicio/-/book/apuntes-de-tectonica-de-placas-de-ana-garcia?_book_viewer_WAR_cms_tools_chapterIndex=e51624f6-5259-4503-b639-1ec756dc36d8)**
 ```
 
-## Siglo XXI
+### Siglo XXI
 
 - Geología integrada con tecnología digital:  
   - Uso de SIG (Sistemas de Información Geográfica), sensores remotos y modelado 3D.  
@@ -173,22 +172,22 @@ En el diario vivir el geólogo se especializa en:
 ## Origen del Sistema Solar
 
 ¿Cómo pasamos de una nube de gas y polvo en el espacio a tener el Sol, planetas, lunas y asteroides?  
-La explicación más aceptada hoy es la **Hipótesis Nebular**: el Sistema Solar nació hace ~4.6 mil millones de años a partir del **colapso** de una nube interestelar (nebulosa) que giraba lentamente. Al colapsar, la mayor parte del material formó el **Sol** y el resto se aplanó en un **disco protoplanetario** donde nacieron los planetas. :contentReference[oaicite:0]{index=0}
+La explicación más aceptada hoy es la **Hipótesis Nebular**: el Sistema Solar nació hace ~4.6 mil millones de años a partir del **colapso** de una nube interestelar (nebulosa) que giraba lentamente. Al colapsar, la mayor parte del material formó el **Sol** y el resto se aplanó en un **disco protoplanetario** donde nacieron los planetas.
 
 ---
 
-## 1. De la nube al disco
+### 1. De la nube al disco
 
-- **Colapso de la nube:** Una porción de una nebulosa (gas y polvo) empezó a contraerse por **gravedad**. Un detonante posible es la **onda de choque** de una supernova cercana que comprimió la nube y disparó el colapso. :contentReference[oaicite:1]{index=1}
-- **Disco protoplanetario:** Al contraerse, la nube giratoria **se aplanó** por conservación del **momento angular**, formando un disco alrededor de una protoestrella en el centro. Estos discos se **observan hoy** alrededor de estrellas jóvenes; no es solo teoría. :contentReference[oaicite:2]{index=2}
+- **Colapso de la nube:** Una porción de una nebulosa (gas y polvo) empezó a contraerse por **gravedad**. Un detonante posible es la **onda de choque** de una supernova cercana que comprimió la nube y disparó el colapso.
+- **Disco protoplanetario:** Al contraerse, la nube giratoria **se aplanó** por conservación del **momento angular**, formando un disco alrededor de una protoestrella en el centro. Estos discos se **observan hoy** alrededor de estrellas jóvenes; no es solo teoría.
 
-## 2. Nacimiento del Sol y “semillas” sólidas
+### 2. Nacimiento del Sol y “semillas” sólidas
 
 - **Proto-Sol y encendido:** La materia que cae al centro aumenta presión y temperatura hasta iniciar la fusión nuclear: nace el Sol. El disco que queda contiene gas, hielo y polvo.
 
 - **Primeros sólidos (CAIs y cóndrulos):** En el disco, los primeros sólidos que se formaron son las inclusiones ricas en calcio y aluminio (CAIs) y, poco después, los cóndrulos. Dataciones precisas de meteoritos sitúan los CAIs en 4567.3 ± 0.16 Ma, una marca temporal del inicio del Sistema Solar.
 
-## 3. Del polvo a los planetas
+### 3. Del polvo a los planetas
 
 - Polvo → guijarros → planetesimales: Las partículas chocan y se adhieren; crecen a tamaños de centímetros a kilómetros (planetesimales). Procesos colectivos del gas y el polvo en el disco (p.ej., inestabilidades y zonas de presión) favorecen el crecimiento.
 
@@ -197,7 +196,7 @@ La explicación más aceptada hoy es la **Hipótesis Nebular**: el Sistema Solar
 - Migración planetaria: Los planetas gigantes pueden migrar por interacción con el gas y con enjambres de planetesimales, reorganizando órbitas (p.ej., Grand Tack, Nice). Estas ideas ayudan a explicar la arquitectura del Sistema Solar y del cinturón de asteroides.
 
 
-## 4. ¿Qué evidencias tenemos?
+### 4. ¿Qué evidencias tenemos?
 
 - Meteoritos primitivos (condritas): Conservan CAIs y cóndrulos con edades que fechan el inicio del Sistema Solar.
 
@@ -205,7 +204,7 @@ La explicación más aceptada hoy es la **Hipótesis Nebular**: el Sistema Solar
 
 - Modelos y simulaciones: Escenarios con migración de gigantes reproducen mejor la distribución actual de objetos.
 
-## 5. Línea de tiempo
+### 5. Línea de tiempo
 
 - 4.6 Ga: Colapso de la nebulosa; CAIs marcan el tiempo cero del Sistema Solar.
 
@@ -214,7 +213,7 @@ La explicación más aceptada hoy es la **Hipótesis Nebular**: el Sistema Solar
 Nota: episodios de “bombardeo tardío” son tema de investigación; su intensidad y duración se debaten.
 
 
-```{figure} images/solarsystem-snap_8.5x11.pdf
+```{figure} images/system_solar.png
 :width: 70%
 :align: center
 :alt: Del colapso de una nube al disco protoplanetario
