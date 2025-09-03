@@ -1,5 +1,13 @@
 # Introducción al estudio de la geología
 
+```{figure} ../images/tierra.jpg
+    :width: 50%
+    :align: center
+    :alt: Planeta Tierra
+
+**Fotografía del Planeta Tierra tomada por Harrison Schmitt / Apollo 17, Diciembre 1972**
+```
+
 ## ¿Que es Geología?
 
 La palabra Geología proviene del griego "geo", que significa Tierra, y "logia", que significa estudio. Por lo tanto, la Geología es el estudio de la Tierra, su composición, estructura y los procesos que la han formado a lo largo del tiempo.
@@ -213,7 +221,7 @@ La explicación más aceptada hoy es la **Hipótesis Nebular**: el Sistema Solar
 Nota: episodios de “bombardeo tardío” son tema de investigación; su intensidad y duración se debaten.
 
 
-```{figure} images/system_solar.png
+```{figure} ../images/system_solar.png
 :width: 70%
 :align: center
 :alt: Del colapso de una nube al disco protoplanetario
@@ -221,9 +229,6 @@ Nota: episodios de “bombardeo tardío” son tema de investigación; su intens
 
 **Del colapso de una nube al disco**: la gravedad concentra el material (proto-Sol) y el resto se aplana en un disco giratorio. [Tomado de](https://spaceplace.nasa.gov/solar-system-formation/en/)
 ```
-
-
-
 
 
 ## Origen del Planeta Tierra
