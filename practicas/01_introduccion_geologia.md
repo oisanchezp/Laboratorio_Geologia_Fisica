@@ -267,7 +267,7 @@ Eventos probables que intensificaron el calentamiento:
 - **Impacto gigante (Theia):** además de generar la Luna, habría re-fundido la superficie y favorecido la diferenciación.
 
 ```{figure} ../images/inversion.png
-:width: 75%
+:width: 50%
 :align: center
 :alt: Acreción y fuentes de calor internas
 :name: fig-acrecion
