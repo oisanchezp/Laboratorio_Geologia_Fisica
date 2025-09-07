@@ -62,14 +62,14 @@ Se realizará una práctica de campo en la Facultad de Minas.**
 | **5**      | 1 de octubre     | Identificación de rocas ígneas, sedimentarias y metamórficas |
 | **6**      | 8 de octubre     | Identificación de rocas ígneas en muestra de mano          |
 | **7**      | 15 de octubre    | **Taller 2: Identificación de rocas en muestra de mano**   |
-| **8**      | 22 de octubre    | **Quiz 1**                                                 |
+| **8**      | 22 de octubre    | **Quiz 1**: Minerales y Rocas Ígneas                       |
 | **9**      | 29 de octubre    | Identificación de rocas sedimentarias en muestra de mano   |
 | **10**     | 5 de noviembre   | Identificación de rocas metamórficas en muestra de mano    |
-| **11**     | 12 de noviembre  | **Quiz 2**                                                 |
-| **12**     | 19 de noviembre  | Manejo de brújula – Práctica de campo                      |
-| **13**     | 26 de noviembre  | Ubicación, mapas geológicos, cortes y columna estratigráfica |
+| **11**     | 12 de noviembre  | Práctica Precampo: Ubicación, Manejo Brújula y mapas geológicos      |
+| **12**     | 19 de noviembre  | **Quiz 2**: Rocas Ígneas, Sedimentarias y Metamórficas     |
+| **13**     | 26 de noviembre  | Mapas geológicos, cortes y columna estratigráfica          |
 | **14**     | 3 de diciembre   | **Taller 3: Mapas geológicos**                             |
-| **15**     | 10 de diciembre  | **Quiz 3**                                                 |
+| **15**     | 10 de diciembre  | **Quiz 3**: Mapas geológicos, cortes y columna estratigráfica |
 
 
 ## Evaluación
