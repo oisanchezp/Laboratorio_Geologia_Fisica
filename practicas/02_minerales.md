@@ -173,7 +173,7 @@ Este proceso puede ocurrir de varias maneras, dependiendo de las condiciones amb
 
 ```{figure} ../images/cristalizacion.png
     :name: fig-cristalizacion
-    :width: 40%
+    :width: 70%
     :align: center
     :alt: Cristalización
 
@@ -184,7 +184,7 @@ Este proceso puede ocurrir de varias maneras, dependiendo de las condiciones amb
 
 ```{figure} ../images/mina_sal.jpg
     :name: fig-sal
-    :width: 40%
+    :width: 60%
     :align: center
     :alt: Mina de Sal
 
@@ -195,7 +195,7 @@ Este proceso puede ocurrir de varias maneras, dependiendo de las condiciones amb
 
 ```{figure} ../images/metamorfismo.jpg
     :name: fig-metamorfismo
-    :width: 40%
+    :width: 70%
     :align: center
     :alt: Metamorfismo
 
@@ -206,7 +206,7 @@ Este proceso puede ocurrir de varias maneras, dependiendo de las condiciones amb
 
 ```{figure} ../images/carbonatos.png
     :name: fig-carbonatos
-    :width: 40%
+    :width: 70%
     :align: center
     :alt: Carbonatos
 
@@ -239,10 +239,12 @@ La identificación de minerales en muestra de mano se basa en la observación y 
      - **Resinoso:** Brillo similar al de la resina. Ejemplos: ámbar, obsidiana.
 
 
-4. **Raya**: Frotar el mineral sobre una placa de porcelana sin esmaltar para observar el color de su polvo. La raya puede ser diferente del color del mineral mismo y es una propiedad más consistente para la identificación. Los minerales metálicos tienen en general una raya densa y oscura, mientras que los minerales con brillos no metálicos tienen una raya que normalmente es de color claro. Debe observarse que no todos los minerales producen una raya cuando se utiliza una placa de raya. Por ejemplo si el mineral es más duro que la placa, no se observará raya.
+4. **Raya**: Frotar el mineral sobre una placa de porcelana sin esmaltar para observar el color de su polvo. La raya puede ser diferente del color del mineral mismo y es una propiedad más consistente para la identificación. 
+
+   - Los minerales metálicos tienen en general una raya densa y oscura, mientras que los minerales con brillos no metálicos tienen una raya que normalmente es de color claro. Debe observarse que no todos los minerales producen una raya cuando se utiliza una placa de raya. Por ejemplo si el mineral es más duro que la placa, no se observará raya.
 
 
-4. **Forma cristalina**: Examinar la forma de un solo cristal del mineral, en general puede ser: 
+5. **Forma cristalina**: Examinar la forma de un solo cristal del mineral, en general puede ser: 
    - **Euhedral:** Cristales bien formados con caras externas definidas.
    - **Subhedral:** Cristales parcialmente formados con algunas caras definidas.
    - **Anhedral:** Cristales sin caras externas definidas, generalmente debido a la competencia con otros cristales durante el crecimiento.
@@ -277,5 +279,90 @@ La identificación de minerales en muestra de mano se basa en la observación y 
 ---
 ## ¿Cómo se clasifican los minerales?
 
+Los minerales se pueden clasificar de varias maneras, pero una de las clasificaciones más comunes es según su composición química y estructura cristalina. A continuación, se describen las principales clases de minerales:
+
+1. **Silicatos**: Son la clase más abundante de minerales y están compuestos principalmente por silicio y oxígeno, junto con otros elementos como aluminio, hierro, magnesio, calcio, sodio y potasio. Los silicatos se dividen en varios subgrupos según la disposición de los tetraedros de silicio-oxígeno:
+   - **Nesosilicatos**: Tetraedros aislados (Ejemplo: olivino).
+   - **Sorosilicatos**: Tetraedros agrupados en pares (Ejemplo: epidota).
+   - **Ciclosilicatos**: Tetraedros formando anillos (Ejemplo: berilo).
+   - **Inosilicatos**: Tetraedros formando cadenas simples o dobles (Ejemplo: piroxenos y anfíboles).
+   - **Filosilicatos**: Tetraedros formando láminas (Ejemplo: mica, talco).
+   - **Tectosilicatos**: Tetraedros formando una red tridimensional (Ejemplo: cuarzo, feldespatos).
+   - **Ejemplos comunes**: cuarzo, feldespato, mica, olivino, piroxeno, anfíbol.
+   - **Importancia**: Los silicatos son fundamentales en la formación de rocas ígneas, metamórficas y sedimentarias. Constituyen la mayor parte de la corteza terrestre y son esenciales para la geología y la mineralogía.
+   - **Usos**: Se utilizan en la fabricación de vidrio, cerámica, componentes electrónicos y como materiales de construcción.
+   - **Propiedades**: Los silicatos suelen ser duros y resistentes, con una amplia variedad de colores y formas cristalinas. Muchos tienen una alta resistencia a la intemperie y son estables en la superficie terrestre.
+  
+2. **Carbonatos**: Minerales que contienen el ion carbonato (CO3)2-. Son comunes en ambientes sedimentarios y se forman principalmente por precipitación química o biológica. 
+   - **Ejemplos comunes**: calcita, aragonita, dolomita.
+   - **Importancia**: Los carbonatos son esenciales en la formación de rocas sedimentarias como la caliza y el mármol. También juegan un papel crucial en los ciclos biogeoquímicos del carbono.
+   - **Usos**: Se utilizan en la construcción (caliza y mármol), en la fabricación de cemento, y como material para neutralizar ácidos en suelos y aguas.
+   - **Reacción con ácidos**: Los carbonatos reaccionan vigorosamente con ácidos diluidos, liberando dióxido de carbono (CO2), lo que es una característica distintiva para su identificación.
+3. **Óxidos**: Minerales compuestos por oxígeno y uno o más metales. Son importantes en la formación de minerales metálicos y se encuentran comúnmente en depósitos minerales. 
+   - **Ejemplos comunes**: hematita, magnetita, corindón.
+   - **Importancia**: Los óxidos son fuentes importantes de metales como el hierro y el aluminio. Son fundamentales en la formación de minerales metálicos y se encuentran comúnmente en depósitos minerales.
+   - **Usos**: Se utilizan en la producción de acero (hematita y magnetita), en abrasivos (corindón) y en pigmentos (óxidos de hierro).
+   - **Propiedades**: Los óxidos suelen ser duros y tienen un brillo metálico o submetálico. Muchos son opacos y tienen una alta densidad.
+   - **Ejemplos**: La hematita (Fe2O3) es una importante mena de hierro utilizada en la producción de acero. La magnetita (Fe3O4) es otro mineral de hierro con propiedades magnéticas. El corindón (Al2O3) es un mineral muy duro utilizado en abrasivos y como gema (zafiro y rubí).
+   - **Importancia económica**: Los óxidos son cruciales en la industria minera y metalúrgica, y su extracción y procesamiento tienen un gran impacto económico a nivel global.
+  
+4. **Sulfatos**: Minerales que contienen el ion sulfato (SO4)2-. Se forman principalmente en ambientes evaporíticos y en la oxidación de minerales sulfurados. 
+   - **Ejemplos comunes**: yeso, anhidrita, barita.
+   - **Importancia**: Los sulfatos son comunes en ambientes evaporíticos y en la oxidación de minerales sulfurados. Juegan un papel importante en la geología sedimentaria.
+   - **Usos**: Se utilizan en la construcción (yeso), en la fabricación de papel y en la industria química (barita).
+   - **Propiedades**: Los sulfatos suelen ser solubles en agua y tienen una dureza baja. El yeso, por ejemplo, es blando y se puede rayar con la uña.
+   - **Ejemplos**: El yeso (CaSO4·2H2O) se utiliza en la construcción y en la fabricación de paneles de yeso. La anhidrita (CaSO4) es similar al yeso pero sin agua en su estructura cristalina. La barita (BaSO4) se utiliza en la industria del petróleo como aditivo para fluidos de perforación.
+   - **Importancia económica**: Los sulfatos son importantes en la industria de la construcción y química, y su extracción puede ser económicamente significativa.
+   - **Usos**: El yeso se utiliza en la construcción y en la fabricación de paneles de yeso. La barita se utiliza en la industria del petróleo como aditivo para fluidos de perforación.
+   - **Propiedades**: Los sulfatos suelen ser solubles en agua y tienen una dureza baja. El yeso, por ejemplo, es blando y se puede rayar con la uña.
+  
+5. **Haluros**: Minerales compuestos por halógenos (fluoruro, cloruro, bromuro, yoduro) y un metal. Son comunes en ambientes evaporíticos. 
+   - **Ejemplos comunes**: halita (sal común), fluorita, sylvita.
+   - **Importancia**: Los haluros son comunes en ambientes evaporíticos y son esenciales para la industria química y alimentaria.
+   - **Usos**: La halita se utiliza como sal de mesa y en la industria química. La fluorita se utiliza en la fabricación de lentes y en la industria del acero.
+   - **Propiedades**: Los haluros suelen ser solubles en agua y tienen una dureza baja. La halita, por ejemplo, tiene un sabor salado característico.
+   - **Ejemplos**: La halita (NaCl) es la sal común utilizada en la alimentación y en la industria química. La fluorita (CaF2) se utiliza en la fabricación de lentes y en la industria del acero. La sylvita (KCl) es una fuente importante de potasio para fertilizantes.
+   - **Importancia económica**: Los haluros son importantes en la industria química y alimentaria, y su extracción puede ser económicamente significativa.
+6. **Sulfuros**: Minerales compuestos por azufre y uno o más metales. Son importantes en la formación de depósitos minerales metálicos. 
+   - **Ejemplos comunes**: pirita, galena, esfalerita.
+   - **Importancia**: Los sulfuros son fuentes importantes de metales como el cobre, plomo y zinc. Son fundamentales en la formación de depósitos minerales metálicos.
+   - **Usos**: Se utilizan en la producción de metales (galena para plomo, esfalerita para zinc).
+   - **Propiedades**: Los sulfuros suelen tener un brillo metálico y son opacos. Muchos son frágiles y se rompen con facilidad.
+   - **Ejemplos**: La pirita (FeS2), conocida como "el oro de los tontos", es un sulfuro común que se utiliza en la producción de ácido sulfúrico. La galena (PbS) es la principal mena de plomo y se utiliza en baterías y soldaduras. La esfalerita (ZnS) es la principal mena de zinc, utilizado en galvanización y aleaciones.
+  
+7. **Elementos nativos**: Minerales compuestos por un solo elemento químico. 
+   - **Ejemplos comunes**: oro, plata, cobre, azufre.
+   - **Importancia**: Los elementos nativos son minerales compuestos por un solo elemento químico. Son importantes en la minería y la joyería.
+   - **Usos**: Se utilizan en joyería (oro, plata), en la industria eléctrica (cobre) y en la fabricación de productos químicos (azufre).
+   - **Propiedades**: Los elementos nativos suelen tener propiedades metálicas, como alta conductividad eléctrica y térmica, maleabilidad y ductilidad.
+   - **Ejemplos**: El oro (Au) es un elemento nativo conocido por su brillo metálico y resistencia a la corrosión. La plata (Ag) es otro elemento nativo utilizado en joyería y electrónica debido a su alta conductividad eléctrica. El cobre (Cu) es ampliamente utilizado en la industria eléctrica y de construcción.
+   - **Importancia económica**: Los elementos nativos, especialmente el oro y la plata, tienen un gran valor económico y se utilizan como reserva de valor y en la fabricación de joyas. El cobre es esencial en la industria eléctrica y de construcción debido a su alta conductividad.
+   - **Usos**: Se utilizan en joyería (oro, plata), en la industria eléctrica (cobre) y en la fabricación de productos químicos (azufre).
+
+
+
 ---
 ## ¿Para que sirven los minerales?
+
+Los minerales tienen una amplia variedad de usos en diferentes industrias y aplicaciones debido a sus propiedades físicas y químicas únicas. A continuación, se describen algunos de los principales usos de los minerales:
+1. **Construcción**: Muchos minerales se utilizan como materiales de construcción. Por ejemplo, la arena y la grava (compuestos principalmente de cuarzo) se utilizan en la fabricación de concreto, mientras que la caliza y el yeso se emplean en la producción de cemento y paneles de yeso.
+2. **Joyas y ornamentación**: Minerales como el diamante, el rubí, el zafiro y la esmeralda son altamente valorados por su belleza y se utilizan en la fabricación de joyas. Otros minerales, como el cuarzo y la turquesa, también se emplean en la creación de objetos decorativos.
+3. **Tecnología y electrónica**: Minerales como el silicio, el cobre, el oro y la plata son esenciales en la fabricación de componentes electrónicos, como semiconductores, circuitos integrados y cables eléctricos.
+4. **Industria química**: Muchos minerales se utilizan como materias primas en la industria química. Por ejemplo, la halita (sal común) se utiliza en la producción de cloro y sosa cáustica, mientras que el yeso se emplea en la fabricación de productos químicos y fertilizantes.
+5. **Energía**: Algunos minerales, como el uranio, se utilizan como fuente de energía en reactores nucleares. Otros minerales, como el carbón y el petróleo, aunque no son minerales en el sentido estricto, son recursos energéticos importantes.
+6. **Medicina**: Minerales como el yeso y la bentonita se utilizan en aplicaciones médicas, como en la fabricación de yesos para inmovilizar fracturas óseas y en productos para el cuidado de la piel.
+7. **Agricultura**: Minerales como la apatita se utilizan en la fabricación de fertilizantes para mejorar la productividad del suelo y promover el crecimiento de las plantas.
+8. **Industria del vidrio y cerámica**: Minerales como el cuarzo, la feldespato y la arcilla son componentes clave en la fabricación de vidrio y productos cerámicos.
+9. **Pigmentos y colorantes**: Minerales como la hematita (rojo), la malaquita (verde) y la azurita (azul) se utilizan como pigmentos en pinturas y colorantes.
+10. **Abrasivos**: Minerales como el corindón y el diamante se utilizan como abrasivos en herramientas de corte y pulido debido a su dureza.
+11. **Filtración y purificación**: Minerales como la zeolita y la bentonita se utilizan en procesos de filtración y purificación de agua y otros líquidos.
+12. **Industria del petróleo**: Minerales como la barita se utilizan en la perforación de pozos de petróleo para aumentar la densidad del lodo de perforación y estabilizar el pozo.
+13. **Fabricación de papel**: Minerales como la caolinita se utilizan como relleno y recubrimiento en la fabricación de papel para mejorar su calidad y apariencia.
+14. **Producción de acero y otros metales**: Minerales como la hematita y la magnetita son menas importantes para la producción de hierro y acero, mientras que la bauxita es la principal fuente de aluminio.
+15. **Industria textil**: Minerales como el talco se utilizan en la fabricación de productos textiles para mejorar la suavidad y reducir la fricción.
+16. **Cosméticos**: Minerales como el talco, la mica y el óxido de zinc se utilizan en la fabricación de productos cosméticos, como polvos faciales, sombras de ojos y protectores solares.
+17. **Producción de caucho**: Minerales como el azufre se utilizan en el proceso de vulcanización del caucho para mejorar su elasticidad y durabilidad.
+18. **Industria alimentaria**: Minerales como la sal (halita) se utilizan como condimento y conservante en la alimentación. Otros minerales, como el carbonato de calcio, se utilizan como suplementos dietéticos.
+19. **Tratamiento de aguas**: Minerales como la zeolita se utilizan en el tratamiento de aguas para eliminar contaminantes y mejorar la calidad del agua potable.
+20. **Fabricación de baterías**: Minerales como la galena (PbS) y la pirita (FeS2) se utilizan en la fabricación de baterías debido a sus propiedades electroquímicas.
+21. **Industria del caucho**: Minerales como el azufre se utilizan en el proceso de vulcanización del caucho para mejorar su elasticidad y durabilidad.   
