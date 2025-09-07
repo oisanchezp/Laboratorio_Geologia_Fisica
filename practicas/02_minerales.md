@@ -1,11 +1,11 @@
 # Minerales
 
 ```{figure} ../images/minerales.jpg
-    :width: 50%
+    :width: 70%
     :align: center
     :alt: Minerales
 
-**Tomado de [fuente]**(https://www.yanacocha.com.pe/minerales-del-mundo/)
+**Tomado de [fuente](https://www.yanacocha.com.pe/minerales-del-mundo/)**
 ```
 
 ## ¿Qué es un mineral?
@@ -25,9 +25,9 @@ Para que algo se le considere un mineral debe cumplir con los siguientes 5 requi
 
 Entendemos lo que significa estado sólido, inorgánico y natural pero que significa que tenga una composición química definida y una estructura cristalina?
 
-Empecemo primero enteniendo que es tener una **composición quimica definida**. Para ello tenemos que entender que todo lo que nos rodea esta formado por átomos, y que estos átomos se combinan entre si para formar moléculas. Por ejemplo el agua (H2O) es una molécula formada por dos átomos de hidrógeno y uno de oxígeno. Ahora bien, si tenemos una sustancia que siempre tiene la misma composición química, es decir, siempre tiene la misma proporción de átomos, entonces podemos decir que tiene una composición química definida. Por ejemplo, el agua siempre tiene dos átomos de hidrógeno por cada átomo de oxígeno, sin importar si es en un vaso o en un río.
+Empecemos primero entendiendo que es tener una **composición quimica definida**. Para ello tenemos que entender que todo lo que nos rodea esta formado por átomos, y que estos átomos se combinan entre si para formar moléculas. Por ejemplo el agua (H2O) es una molécula formada por dos átomos de hidrógeno y uno de oxígeno. Ahora bien, si tenemos una sustancia que siempre tiene la misma composición química, es decir, siempre tiene la misma proporción de átomos, entonces podemos decir que tiene una **composición química definida**. 
 
-Pero entonces **¿Qúe es el átomo:?**
+Por ejemplo, el agua siempre tiene dos átomos de hidrógeno por cada átomo de oxígeno, sin importar si es en un vaso o en un río. Pero entonces **¿Qúe es el átomo:?**
 
 ### Átomo
 
