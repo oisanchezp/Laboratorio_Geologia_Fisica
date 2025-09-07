@@ -171,11 +171,47 @@ Este proceso puede ocurrir de varias maneras, dependiendo de las condiciones amb
 
 1. **Cristalización a partir de magma o lava**: Cuando el magma (roca fundida bajo la superficie de la Tierra) o la lava (roca fundida en la superficie) se enfría, los minerales comienzan a cristalizar a medida que los átomos se organizan en estructuras ordenadas. La velocidad de enfriamiento afecta el tamaño de los cristales; un enfriamiento lento permite la formación de cristales más grandes, mientras que un enfriamiento rápido produce cristales más pequeños.
 
+```{figure} ../images/cristalizacion.png
+    :name: fig-cristalizacion
+    :width: 40%
+    :align: center
+    :alt: Cristalización
+
+**Cristalización fraccionada de un magma. Tomado de [fuente](https://es.wikipedia.org/wiki/Cristalizaci%C3%B3n_fraccionada_%28geolog%C3%ADa%29)**
+```
+
 2. **Precipitación de soluciones acuosas**: Los minerales también pueden formarse cuando los iones disueltos en agua se combinan y precipitan fuera de la solución. Esto puede ocurrir en ambientes como lagos salinos, aguas termales o cuevas, donde la evaporación del agua o cambios en la temperatura y presión provocan la formación de minerales como la halita (sal común) o el yeso. Ejemoplo interesante, denominado **Geoda de Pulpí**, ubicada en Almería, España, es una cueva famosa por sus impresionantes cristales de yeso que se formaron a lo largo de millones de años. Estos cristales son algunos de los más grandes del mundo y ofrecen una visión fascinante del proceso de cristalización a partir de soluciones acuosas.
+
+```{figure} ../images/mina_sal.jpg
+    :name: fig-sal
+    :width: 40%
+    :align: center
+    :alt: Mina de Sal
+
+**Mina de sal Cardona, España. Tomado de [fuente](https://www.liligo.es/magazine-viajes/las-minas-de-sal-mas-impresionantes-del-mundo-166273.html)**
+```
 
 3. **Metamorfismo de rocas preexistentes**: Los minerales también pueden formarse a través de procesos metamórficos, donde las rocas preexistentes son sometidas a altas presiones y temperaturas, lo que provoca cambios en su estructura mineral. Este proceso puede dar lugar a la formación de nuevos minerales que no estaban presentes en la roca original.
 
+```{figure} ../images/metamorfismo.jpg
+    :name: fig-metamorfismo
+    :width: 40%
+    :align: center
+    :alt: Metamorfismo
+
+**Proceso formación de minerales metamórficos. Tomado de [fuente](https://ambientech.org/las-rocas-sedimentarias-metamorficas-e-igneas-comprende-sus-diferencias)**
+```
+
 4. **Actividad biológica**: Algunos minerales se forman como resultado de la actividad de organismos vivos. Por ejemplo, los corales y ciertos tipos de algas pueden precipitar carbonato de calcio para formar sus esqueletos y conchas, lo que contribuye a la formación de minerales como la calcita y la aragonita.
+
+```{figure} ../images/carbonatos.png
+    :name: fig-carbonatos
+    :width: 40%
+    :align: center
+    :alt: Carbonatos
+
+**Formación de Carbonatos. Tomado de [fuente](https://www.geovirtual2.cl/geologiageneral/ggcap05c-3.htm)**
+```
 
 
 ---
