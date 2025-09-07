@@ -84,7 +84,58 @@ Por ejemplo, en un mineral de circonio (ZrSiO4), el isótopo radiactivo uranio-2
 
 Una estructura cristalina es la disposición ordenada y repetitiva de átomos, iones o moléculas en un sólido. En un cristal, los componentes están organizados en un patrón tridimensional que se repite a lo largo de todo el material. Esta estructura ordenada es lo que le da a los cristales sus propiedades físicas únicas, como la forma geométrica, la dureza y la forma en que interactúan con la luz.
 
+En la mayoría de los minerales, la disposición atómica es más complicada que la observada en los metales nativos, porque consisten por lo menos en dos iones diferentes (a menudo de tamaños muy diferentes). En la Figura {numref}`fig-iones` se ilustran los tamaños relativos de algunos de los iones más comunes encontrados en los minerales. Nótese que los aniones, esto es, átomos que ganan electrones, tienden a ser mayores que los cationes, que los pierden.
+
+```{figure} ../images/iones.png
+    :name: fig-iones
+    :width: 40%
+    :align: center
+    :alt: Iones
+
+**Representación de iones. Tomado de {cite}`Tarbuck2013`**
+```
+
+
+La mayoría de las estructuras cristalinas pueden considerarse colecciones tridimensionales de esferas más grandes (aniones) con esferas más pequeñas (cationes) localizadas en los espacios que quedan entre las primeras, de forma que las cargas positivas y negativas se neutralizan unas con otras. Consideremos el mineral halita (NaCl), que tiene una estructura relativamente simple compuesto por un número igual de iones sodio con carga positiva y de iones cloro cargados negativamente.
+
+Dado que los aniones repelen a los aniones, y que los cationes repelen a los cationes, los iones de carga similar están situados lo más lejos posible unos de otros. Por consiguiente, en la halita, cada ion sodio (Na+) está rodeado por todas partes por iones cloro, y viceversa (Figura {numref}`fig-halita`). Esta disposición del empaquetado particular provoca unidades de construcción básicos, denominados **celdas unidad o unitarias** que tienen formas cúbicas.
+
+
+```{figure} ../images/halita.png
+    :name: fig-halita
+    :width: 40%
+    :align: center
+    :alt: Halita
+
+**Disposición ordenada de los iones de sodio y cloro en el mineral halita. La disposición de los átomos en unidades básicas de construcción con una forma cúbica tiene como resultado unos cristales cúbicos de forma regular. Tomado de {cite}`Tarbuck2013`**
+```
+
 Las estructuras cristalinas se caracterizan por su **celda unitaria**, que es la unidad más pequeña de la estructura que, al repetirse en todas las direcciones, forma el cristal completo. La celda unitaria define la simetría y las dimensiones del cristal.
+
+Sin embargo, dos minerales pueden estar construidos con unidades geométricamente similares y exhibir, no obstante, formas externas diferentes. Por ejemplo, los minerales fluorita, magnetita y granate están construidos por celdas unitarias cúbicas. Sin embargo, estas celdas pueden unirse para producir cristales de muchas formas. Normalmente los cristales de fluorita son cubos, mientras que los de magnetita son octaedros, y los granates forman dodecaedros construidos por muchos cubos pequeños, como se muestra en la Figura {numref}`fig-cristales`. 
+
+```{figure} ../images/cristales.png
+    :name: fig-cristales
+    :width: 40%
+    :align: center
+    :alt: Cristales
+
+** Celdas unitarias cúbicas se apilan de diferente manera para producir cristales que exhiben formas diferentes. La fluorita (A) tiende a mostrar cristales cúbicos, mientras que los cristales de magnetita (B) suelen ser octaedros y los granates (C) suelen aparecer como
+dodecaedros (Fotos de Dennis Tasa).** Tomado de {cite}`Tarbuck2013`
+```
+
+
+Pese al hecho de que los cristales naturales rara vez son perfectos, los ángulos entre caras de cristal equivalentes del mismo mineral son notablemente constantes. Esta observación se denomina normalmente Ley de Steno, como la Ley de la constancia de los ángulos interfaciales, porque se aplica a todos los minerales. La **ley de Steno** establece que los ángulos entre caras equivalentes de cristales del mismo mineral son siempre los mismos. Steno encontró que los ángulos entre caras adyacentes de prismas de cristales de cuarzo son de 120°, con independencia del tamaño de la muestra, el tamaño de las caras del cristal o de donde se recogieran los cristales (Figura {numref}`fig-cristal_cuarzo`). Por esta razón, la forma del cristal suele ser una herramienta valiosa para la identificación mineral.
+
+```{figure} ../images/cristal_cuarzo.png
+    :name: fig-cristal_cuarzo
+    :width: 40%
+    :align: center
+    :alt: Cristal Cuarzo
+
+**Ilustración de la ley de Steno. Dado que algunas caras de un cristal pueden crecer más que otras, dos cristales del mismo mineral pueden no tener formas idénticas. No obstante, los ángulos entre caras equivalentes son notablemente constantes.** Tomado de {cite}`Tarbuck2013`
+```
+
 
 Existen varios tipos de estructuras cristalinas, que se clasifican según la disposición de los átomos y la simetría del patrón. Algunos de los sistemas cristalinos más comunes incluyen:
 
