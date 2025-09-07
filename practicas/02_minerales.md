@@ -220,31 +220,56 @@ Este proceso puede ocurrir de varias maneras, dependiendo de las condiciones amb
 
 La identificación de minerales en muestra de mano se basa en la observación y análisis de sus propiedades físicas y químicas. A continuación, se describen algunos de los métodos más comunes para identificar minerales:
 
-1. **Color**: Observar el color del mineral puede proporcionar pistas sobre su identidad, aunque no siempre es confiable debido a la variabilidad en los minerales.
+1. **Color**: Observar el color del mineral puede proporcionar pistas sobre su identidad, aunque no siempre es confiable debido a la variabilidad en los minerales. Ligeras impurezas en el mineral común cuarzo, por ejemplo, le proporcionan una diversidad de colores, entre ellos el rosa, el morado, el amarillo, el blanco, el gris e incluso el negro. El uso del color como una manera de identificación suele ser ambigua e incluso llevar a confusión.
 
-2. **Transparencia**: Evaluar si el mineral es transparente, translúcido u opaco.
+2. **Transparencia**: Evaluar si el mineral es: 
+   - **Transparente:** luz e imagen son visibles a través de la muestra. Ejemplos: cuarzo, fluorita.
+   - **Translúcido:** Se transmite la luz, pero no una imagen (imagen borrosa). Ejemplos: calcita, moscovita.
+   - **Opaco:** No se transmite ni luz ni imagen. Ejemplos: Pirita, Galena, Magnetita.
 
-3. **Forma cristalina**: Examinar la forma y el hábito del cristal, que puede ser indicativo de ciertos minerales.
+3. **Brillo**: Examinar cómo refleja la luz el mineral. Puede ser ***Metálicos*** y ***No metálicos***:
+   - **Metálico:** Aspecto de metal. Minerales Opacos. Ejemplos: pirita, galena.
+   - **Submetalico:** Algunos minerales metálicos, como el cobre nativo y la galena, desarrollan una cubierta opaca o deslustre al ser expuestos a la atmósfera. Ejemplos: bornita, malaquita.
+   - **No metálico**:
+     - **Vitreo:** Refleja la luz de manera similar al vidrio. Ejemplos: cuarzo, fluorita.
+     - **Sedoso:** Presenta un brillo suave y sedoso. Ejemplos: yeso, talco.
+     - **Terroso o mate:** Tiene un brillo apagado y mate. Ejemplos: Olivino.
+     - **Perlado:** Brillo similar al de una perla. Ejemplos: moscovita
+     - **Graso:** Parece estar cubierto de una capa delgada de aceite. Ejemplos: serpentina, grafito.
+     - **Resinoso:** Brillo similar al de la resina. Ejemplos: ámbar, obsidiana.
 
-4. **Brillo**: Examinar cómo refleja la luz el mineral. Puede ser metálico, vítreo, sedoso, terroso, entre otros.
+
+4. **Raya**: Frotar el mineral sobre una placa de porcelana sin esmaltar para observar el color de su polvo. La raya puede ser diferente del color del mineral mismo y es una propiedad más consistente para la identificación. Los minerales metálicos tienen en general una raya densa y oscura, mientras que los minerales con brillos no metálicos tienen una raya que normalmente es de color claro. Debe observarse que no todos los minerales producen una raya cuando se utiliza una placa de raya. Por ejemplo si el mineral es más duro que la placa, no se observará raya.
+
+
+4. **Forma cristalina**: Examinar la forma de un solo cristal del mineral, en general puede ser: 
+   - **Euhedral:** Cristales bien formados con caras externas definidas.
+   - **Subhedral:** Cristales parcialmente formados con algunas caras definidas.
+   - **Anhedral:** Cristales sin caras externas definidas, generalmente debido a la competencia con otros cristales durante el crecimiento.
+
+
+5. **Habito**: La forma en que crecen un conjuntos de cristales del mismo mineral. Pueden ser:
+    - **Masivo:** Sin forma definida, como en la mayoría de las rocas.
+    - **Granular:** Compuesto por granos visibles a simple vista.
+    - **Fibroso:** Compuesto por fibras delgadas y alargadas.
+    - **Columnar:** Cristales alargados que forman columnas.
+    - **Botrioidal:** Superficie con forma de racimo de uvas.
+    - **Reniforme:** Superficie con forma de riñón o globo.
+
+
+6. **Dureza**: Utilizar la escala de Mohs para determinar la dureza del mineral, que va del 1 (talco) al 10 (diamante). Esto se puede hacer rayando el mineral con objetos de dureza conocida.
    
-5. **Habito**: La forma en que crece un mineral, como prismático, acicular, masivo, etc.
+7. **Clivaje**: Observar cómo se divide el mineral a lo largo de planos específicos. La clivaje es la tendencia del mineral a romperse a lo largo de superficies planas y lisas, que están relacionadas con la estructura cristalina del mineral.
 
-6. **Raya**: Frotar el mineral sobre una placa de porcelana sin esmaltar para observar el color de su polvo. La raya puede ser diferente del color del mineral mismo y es una propiedad más consistente para la identificación.
+8.  **Exfoliación y fractura**: Observar cómo se rompe el mineral. La exfoliación se refiere a la tendencia del mineral a romperse a lo largo de planos específicos, mientras que la fractura es una ruptura irregular.
 
-7. **Dureza**: Utilizar la escala de Mohs para determinar la dureza del mineral, que va del 1 (talco) al 10 (diamante). Esto se puede hacer rayando el mineral con objetos de dureza conocida.
-   
-9. **Clivaje**: Observar cómo se divide el mineral a lo largo de planos específicos. La clivaje es la tendencia del mineral a romperse a lo largo de superficies planas y lisas, que están relacionadas con la estructura cristalina del mineral.
+9.  **Densidad**: Medir la densidad del mineral, que es la relación entre su masa y su volumen. Esto puede ayudar a diferenciar minerales con propiedades similares.
 
-10. **Exfoliación y fractura**: Observar cómo se rompe el mineral. La exfoliación se refiere a la tendencia del mineral a romperse a lo largo de planos específicos, mientras que la fractura es una ruptura irregular.
+10. **Magnetismo**: Probar si el mineral es magnético utilizando un imán. Algunos minerales, como la magnetita, tienen propiedades magnéticas.
 
-11. **Densidad**: Medir la densidad del mineral, que es la relación entre su masa y su volumen. Esto puede ayudar a diferenciar minerales con propiedades similares.
-
-12. **Magnetismo**: Probar si el mineral es magnético utilizando un imán. Algunos minerales, como la magnetita, tienen propiedades magnéticas.
-
-13. **Reacción con ácidos**: Aplicar una gota de ácido clorhídrico diluido para observar si el mineral reacciona (efervescencia). Esto es útil para identificar minerales carbonatados como la calcita.
+11. **Reacción con ácidos**: Aplicar una gota de ácido clorhídrico diluido para observar si el mineral reacciona (efervescencia). Esto es útil para identificar minerales carbonatados como la calcita.
     
-14. **Olor y sabor**: Algunos minerales tienen olores o sabores distintivos, aunque este método debe usarse con precaución debido a posibles riesgos para la salud.
+12. **Olor y sabor**: Algunos minerales tienen olores o sabores distintivos, aunque este método debe usarse con precaución debido a posibles riesgos para la salud.
 
 
 
