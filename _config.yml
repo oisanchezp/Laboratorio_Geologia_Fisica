@@ -22,3 +22,9 @@ parse:
 
 execute:
   execute_notebooks: "off"   # cambia a "auto" si quieres ejecutar en build
+
+bibtex:
+  bibliography: references.bib
+  csl: apa.csl
+  style: apa
+  locale: es-ES
