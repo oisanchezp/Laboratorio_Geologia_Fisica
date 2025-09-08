@@ -223,20 +223,20 @@ La identificación de minerales en muestra de mano se basa en la observación y 
 1. **Color**: Observar el color del mineral puede proporcionar pistas sobre su identidad, aunque no siempre es confiable debido a la variabilidad en los minerales. Ligeras impurezas en el mineral común cuarzo, por ejemplo, le proporcionan una diversidad de colores, entre ellos el rosa, el morado, el amarillo, el blanco, el gris e incluso el negro. El uso del color como una manera de identificación suele ser ambigua e incluso llevar a confusión.
 
 2. **Transparencia**: Evaluar si el mineral es: 
-   - **Transparente:** luz e imagen son visibles a través de la muestra. Ejemplos: cuarzo, fluorita.
-   - **Translúcido:** Se transmite la luz, pero no una imagen (imagen borrosa). Ejemplos: calcita, moscovita.
+   - **Transparente:** luz e imagen son visibles a través de la muestra. Ejemplos: cuarzo, calcita, yeso.
+   - **Translúcido:** Se transmite la luz, pero no una imagen (imagen borrosa). Ejemplos: Fluorita, Ópalo.
    - **Opaco:** No se transmite ni luz ni imagen. Ejemplos: Pirita, Galena, Magnetita.
 
 3. **Brillo**: Examinar cómo refleja la luz el mineral. Puede ser ***Metálicos*** y ***No metálicos***:
-   - **Metálico:** Aspecto de metal. Minerales Opacos. Ejemplos: pirita, galena.
-   - **Submetalico:** Algunos minerales metálicos, como el cobre nativo y la galena, desarrollan una cubierta opaca o deslustre al ser expuestos a la atmósfera. Ejemplos: bornita, malaquita.
+   - **Metálico:** Aspecto de metal. Minerales Opacos. Ejemplos: Pirita, Galena, Magnetita, Cobre, Hematita.
+   - **Submetalico:** Algunos minerales metálicos, como el cobre nativo y la galena, desarrollan una cubierta opaca o deslustre al ser expuestos a la atmósfera. Ejemplos: Ilmenita, Esfalerita, Cromita, Corindón.
    - **No metálico**:
-     - **Vitreo:** Refleja la luz de manera similar al vidrio. Ejemplos: cuarzo, fluorita.
-     - **Sedoso:** Presenta un brillo suave y sedoso. Ejemplos: yeso, talco.
-     - **Terroso o mate:** Tiene un brillo apagado y mate. Ejemplos: Olivino.
-     - **Perlado:** Brillo similar al de una perla. Ejemplos: moscovita
-     - **Graso:** Parece estar cubierto de una capa delgada de aceite. Ejemplos: serpentina, grafito.
-     - **Resinoso:** Brillo similar al de la resina. Ejemplos: ámbar, obsidiana.
+     - **Vitreo:** Refleja la luz de manera similar al vidrio. Ejemplos: Cuarzo, Olivino, Berilo, Feldespato, Apatito.
+     - **Sedoso:** Presenta un brillo suave y sedoso. Ejemplos: Asbesto, Yeso fibroso, Serpentina, Malaquita.
+     - **Terroso o mate:** Tiene un brillo apagado y mate. Ejemplos: Caolinita, Bauxita, Limonita, Hematita, Montmorillonita.
+     - **Perlado:** Brillo similar al de una perla. Ejemplos: Talco, Moscovita, Yeso, Lepidolita, Clorita.
+     - **Graso:** Parece estar cubierto de una capa delgada de aceite. Ejemplos: Serpentina, Grafito, Cuarzo lechoso.
+     - **Resinoso:** Brillo similar al de la resina dura de un árbol. Ejemplos: Ópalo, Colofana.
 
 
 4. **Raya**: Frotar el mineral sobre una placa de porcelana sin esmaltar para observar el color de su polvo. La raya puede ser diferente del color del mineral mismo y es una propiedad más consistente para la identificación. 
@@ -259,8 +259,30 @@ La identificación de minerales en muestra de mano se basa en la observación y 
     - **Reniforme:** Superficie con forma de riñón o globo.
 
 
-6. **Dureza**: Utilizar la escala de Mohs para determinar la dureza del mineral, que va del 1 (talco) al 10 (diamante). Esto se puede hacer rayando el mineral con objetos de dureza conocida.
-   
+6. **Dureza**: Utilizar la escala de Mohs para determinar la dureza del mineral, que va del 1 (talco) al 10 (diamante). Esto se puede hacer rayando el mineral con objetos de dureza conocida. 
+   - Escala de Mohs:
+     1. Talco
+     2. Yeso
+     3. Calcita
+     4. Fluorita
+     5. Apatito
+     6. Ortoclasa (Feldespato)
+     7. Cuarzo
+     8. Topacio
+     9. Corindón
+     10. Diamante
+   - Uña (2.5), Navaja (3.5), Vidrio (5.5), Acero (6.5)
+  
+```{figure} ../images/escala_mohs.jpg
+    :name: fig-escala-mohs
+    :width: 70%
+    :align: center
+    :alt: Escala de Mohs
+
+**Escala de Mohs. Tomado de [fuente](https://www.forodeminerales.com/2015/06/la-dureza-de-los-minerales.html)**
+```
+
+
 7. **Clivaje**: Observar cómo se divide el mineral a lo largo de planos específicos. La clivaje es la tendencia del mineral a romperse a lo largo de superficies planas y lisas, que están relacionadas con la estructura cristalina del mineral.
 
 8.  **Exfoliación y fractura**: Observar cómo se rompe el mineral. La exfoliación se refiere a la tendencia del mineral a romperse a lo largo de planos específicos, mientras que la fractura es una ruptura irregular.
