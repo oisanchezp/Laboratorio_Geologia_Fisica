@@ -396,6 +396,16 @@ La identificación de minerales en muestra de mano se basa en la observación y 
 
 8.  **Exfoliación y fractura**: En la estructura cristalina de muchos minerales, algunos enlaces atómicos son más débiles que otros. Es a lo largo de estos enlaces débiles que los minerales tienden a romperse cuando sometidos a tensión.
    - **Exfoliación**: La tendencia de un mineral a romperse a lo largo de planos específicos de debilidad en su estructura cristalina, produciendo superficies lisas y planas. La exfoliación se describe por el número de direcciones en las que un mineral puede dividirse fácilmente y la calidad de las superficies resultantes (perfecta, buena, pobre).
+
+```{figure} ../images/exfoliacion.png
+    :name: fig-exfoliacion
+    :width: 70%
+    :align: center
+    :alt: Exfoliación
+
+**Exfoliación. Tomado de [fuente](https://www.facebook.com/photo/?fbid=346468437629426&set=a.116703240605948)**
+```
+
    - **Fractura**: La ruptura irregular de un mineral que no sigue planos específicos de debilidad. Los minerales con enlaces químicos de fuerza igual o prácticamente igual en todas direcciones exhiben una propiedad denominada fractura. La fractura puede ser:
      - **Concoidea**: Superficie curva y lisa, similar a la concha de un molusco (Ejemplo: Cuarzo).
      - **Terrosa**: Superficie áspera y granulada, similar a la tierra (Ejemplo: Hematita).
@@ -412,11 +422,11 @@ La identificación de minerales en muestra de mano se basa en la observación y 
 ```
 
 
-10. **Magnetismo**: Probar si el mineral es magnético utilizando un imán. Algunos minerales, como la magnetita, tienen propiedades magnéticas.
+1.  **Magnetismo**: Probar si el mineral es magnético utilizando un imán. Algunos minerales, como la magnetita, tienen propiedades magnéticas.
 
-11. **Reacción con ácidos**: Aplicar una gota de ácido clorhídrico diluido para observar si el mineral reacciona (efervescencia). Esto es útil para identificar minerales carbonatados como la calcita.
+2.  **Reacción con ácidos**: Aplicar una gota de ácido clorhídrico diluido para observar si el mineral reacciona (efervescencia). Esto es útil para identificar minerales carbonatados como la calcita.
     
-12. **Olor y sabor**: Algunos minerales tienen olores o sabores distintivos, aunque este método debe usarse con precaución debido a posibles riesgos para la salud.
+3.  **Olor y sabor**: Algunos minerales tienen olores o sabores distintivos, aunque este método debe usarse con precaución debido a posibles riesgos para la salud.
 
 
 
