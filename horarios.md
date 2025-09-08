@@ -4,5 +4,7 @@ En la siguiente tabla se presentan los horarios de clases y monitorías del seme
 
 ```{image} images/horarios_monitorias_GF_022025.jpeg
 :alt: Horarios de clases y monitorías
-:width: 90%
+:width: 100%
 :align: center
+:class: with-shadow
+```
