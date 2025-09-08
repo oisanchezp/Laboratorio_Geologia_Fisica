@@ -3,7 +3,7 @@
 
 
 ```{image} images/laboratorio.png
-:width: 50%
+:width: 60%
 :align: center
 :alt: Imagen del laboratorio
 ```

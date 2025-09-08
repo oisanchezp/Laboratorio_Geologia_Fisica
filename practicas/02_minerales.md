@@ -1,7 +1,7 @@
 # Minerales
 
 ```{figure} ../images/minerales.jpg
-    :width: 70%
+    :width: 80%
     :align: center
     :alt: Minerales
 
@@ -56,9 +56,9 @@ En las ilustraciones a menudo representamos los electrones orbitando alrededor d
 
 Los electrones muestran que se mueven en una región alrededor del núcleo en regiones llamadas **capas principales**. Cada capa puede contener un número máximo de electrones, y los electrones en la capa más externa (**capa de valencia**) son los que participan en las reacciones químicas y en la formación de enlaces con otros átomos.
 
-El número de protones en el núcleo de un átomo determina el elemento químico al que pertenece. Por ejemplo, todos los átomos con 1 protón son hidrógeno, mientras que todos los átomos con 6 protones son carbono. Acrualmente se conocen 118 elementos químicos, cada uno con propiedades únicas.
+El número de protones en el núcleo de un átomo determina el elemento químico al que pertenece. Por ejemplo, todos los átomos con 1 protón son hidrógeno, mientras que todos los átomos con 6 protones son carbono. Actualmente se conocen 118 elementos químicos, cada uno con propiedades únicas.
 
-La mayoría de los elementos tienden a unirsen a átomos de otros elementos para formar **compuestos químicos**. Por ejemplo, el agua (H2O) es un compuesto formado por dos átomos de hidrógeno y uno de oxígeno. La sal común (NaCl) es otro compuesto formado por átomos de sodio y cloro.
+La mayoría de los elementos tienden a unirse a átomos de otros elementos para formar **compuestos químicos**. Por ejemplo, el agua (H2O) es un compuesto formado por dos átomos de hidrógeno y uno de oxígeno. La sal común (NaCl) es otro compuesto formado por átomos de sodio y cloro.
 
 ### ¿Por que se unen los átomos?
 
@@ -88,7 +88,7 @@ En la mayoría de los minerales, la disposición atómica es más complicada que
 
 ```{figure} ../images/iones.png
     :name: fig-iones
-    :width: 40%
+    :width: 70%
     :align: center
     :alt: Iones
 
@@ -103,7 +103,7 @@ Dado que los aniones repelen a los aniones, y que los cationes repelen a los cat
 
 ```{figure} ../images/halita.png
     :name: fig-halita
-    :width: 40%
+    :width: 70%
     :align: center
     :alt: Halita
 
@@ -116,11 +116,11 @@ Sin embargo, dos minerales pueden estar construidos con unidades geométricament
 
 ```{figure} ../images/cristales.png
     :name: fig-cristales
-    :width: 40%
+    :width: 70%
     :align: center
     :alt: Cristales
 
-** Celdas unitarias cúbicas se apilan de diferente manera para producir cristales que exhiben formas diferentes. La fluorita (A) tiende a mostrar cristales cúbicos, mientras que los cristales de magnetita (B) suelen ser octaedros y los granates (C) suelen aparecer como
+**Celdas unitarias cúbicas se apilan de diferente manera para producir cristales que exhiben formas diferentes. La fluorita (A) tiende a mostrar cristales cúbicos, mientras que los cristales de magnetita (B) suelen ser octaedros y los granates (C) suelen aparecer como
 dodecaedros (Fotos de Dennis Tasa).** Tomado de {cite}`Tarbuck2013`
 ```
 
@@ -129,7 +129,7 @@ Pese al hecho de que los cristales naturales rara vez son perfectos, los ángulo
 
 ```{figure} ../images/cristal_cuarzo.png
     :name: fig-cristal_cuarzo
-    :width: 40%
+    :width: 70%
     :align: center
     :alt: Cristal Cuarzo
 
@@ -155,7 +155,7 @@ Por ejemplo, el cuarzo (SiO2) tiene una estructura cristalina hexagonal, donde l
 
 ```{figure} ../images/cristal.jpg
     :name: fig-cuarzo
-    :width: 50%
+    :width: 70%
     :align: center
     :alt: Cuarzo
 
@@ -173,18 +173,18 @@ Este proceso puede ocurrir de varias maneras, dependiendo de las condiciones amb
 
 ```{figure} ../images/cristalizacion.png
     :name: fig-cristalizacion
-    :width: 70%
+    :width: 75%
     :align: center
     :alt: Cristalización
 
 **Cristalización fraccionada de un magma. Tomado de [fuente](https://es.wikipedia.org/wiki/Cristalizaci%C3%B3n_fraccionada_%28geolog%C3%ADa%29)**
 ```
 
-2. **Precipitación de soluciones acuosas**: Los minerales también pueden formarse cuando los iones disueltos en agua se combinan y precipitan fuera de la solución. Esto puede ocurrir en ambientes como lagos salinos, aguas termales o cuevas, donde la evaporación del agua o cambios en la temperatura y presión provocan la formación de minerales como la halita (sal común) o el yeso. Ejemoplo interesante, denominado **Geoda de Pulpí**, ubicada en Almería, España, es una cueva famosa por sus impresionantes cristales de yeso que se formaron a lo largo de millones de años. Estos cristales son algunos de los más grandes del mundo y ofrecen una visión fascinante del proceso de cristalización a partir de soluciones acuosas.
+2. **Precipitación de soluciones acuosas**: Los minerales también pueden formarse cuando los iones disueltos en agua se combinan y precipitan fuera de la solución. Esto puede ocurrir en ambientes como lagos salinos, aguas termales o cuevas, donde la evaporación del agua o cambios en la temperatura y presión provocan la formación de minerales como la halita (sal común) o el yeso. Ejemplo interesante, denominado **Geoda de Pulpí**, ubicada en Almería, España, es una cueva famosa por sus impresionantes cristales de yeso que se formaron a lo largo de millones de años. Estos cristales son algunos de los más grandes del mundo y ofrecen una visión fascinante del proceso de cristalización a partir de soluciones acuosas.
 
 ```{figure} ../images/mina_sal.jpg
     :name: fig-sal
-    :width: 60%
+    :width: 70%
     :align: center
     :alt: Mina de Sal
 
@@ -195,7 +195,7 @@ Este proceso puede ocurrir de varias maneras, dependiendo de las condiciones amb
 
 ```{figure} ../images/metamorfismo.jpg
     :name: fig-metamorfismo
-    :width: 70%
+    :width: 75%
     :align: center
     :alt: Metamorfismo
 
@@ -206,7 +206,7 @@ Este proceso puede ocurrir de varias maneras, dependiendo de las condiciones amb
 
 ```{figure} ../images/carbonatos.png
     :name: fig-carbonatos
-    :width: 70%
+    :width: 75%
     :align: center
     :alt: Carbonatos
 
@@ -227,6 +227,15 @@ La identificación de minerales en muestra de mano se basa en la observación y 
    - **Translúcido:** Se transmite la luz, pero no una imagen (imagen borrosa). Ejemplos: Fluorita, Ópalo.
    - **Opaco:** No se transmite ni luz ni imagen. Ejemplos: Pirita, Galena, Magnetita.
 
+```{figure} ../images/transparencia.png
+    :name: fig-transparencia
+    :width: 75%
+    :align: center
+    :alt: Transparencia
+
+**Grados de Transparencia. Tomado de [fuente](https://web.ua.es/es/lpa/minerales-visu/propiedades/propiedades.html)**
+```
+
 3. **Brillo**: Examinar cómo refleja la luz el mineral. Puede ser ***Metálicos*** y ***No metálicos***:
    - **Metálico:** Aspecto de metal. Minerales Opacos. Ejemplos: Pirita, Galena, Magnetita, Cobre, Hematita.
    - **Submetalico:** Algunos minerales metálicos, como el cobre nativo y la galena, desarrollan una cubierta opaca o deslustre al ser expuestos a la atmósfera. Ejemplos: Ilmenita, Esfalerita, Cromita, Corindón.
@@ -238,28 +247,121 @@ La identificación de minerales en muestra de mano se basa en la observación y 
      - **Graso:** Parece estar cubierto de una capa delgada de aceite. Ejemplos: Serpentina, Grafito, Cuarzo lechoso.
      - **Resinoso:** Brillo similar al de la resina dura de un árbol. Ejemplos: Ópalo, Colofana.
 
+```{figure} ../images/brillo_metalico.png
+    :name: fig-brillo-metalico
+    :width: 75%
+    :align: center
+    :alt: Brillo Metálico
+
+**Brillo Metálico. Tomado de [fuente](https://www.youtube.com/watch?v=6hUgpy375ug)**
+```
+```{figure} ../images/brillo_vitreo.png
+    :name: fig-brillo-vitreoso
+    :width: 75%
+    :align: center
+    :alt: Brillo Vitreo
+
+**Brillo Vítreo. Tomado de [fuente](https://www.youtube.com/watch?v=6hUgpy375ug)**
+```
+```{figure} ../images/brillo_mate.png
+    :name: fig-brillo-mate
+    :width: 75%
+    :align: center
+    :alt: Brillo Mate
+
+**Brillo Mate. Tomado de [fuente](https://www.youtube.com/watch?v=6hUgpy375ug)**
+```
+```{figure} ../images/brillo_perlado.png
+    :name: fig-brillo-perlado
+    :width: 75%
+    :align: center
+    :alt: Brillo Perlado
+
+**Brillo Perlado. Tomado de [fuente](https://www.youtube.com/watch?v=6hUgpy375ug)**
+```
+
+```{figure} ../images/brillos.png
+    :name: fig-brillos
+    :width: 75%
+    :align: center
+    :alt: Brillos
+
+**Brillos. Tomado de [fuente](https://joachim.cl/geologia/html2/007mineralogia/003_propiedades_fisicas.htm)**
+```
+
 
 4. **Raya**: Frotar el mineral sobre una placa de porcelana sin esmaltar para observar el color de su polvo. La raya puede ser diferente del color del mineral mismo y es una propiedad más consistente para la identificación. 
 
    - Los minerales metálicos tienen en general una raya densa y oscura, mientras que los minerales con brillos no metálicos tienen una raya que normalmente es de color claro. Debe observarse que no todos los minerales producen una raya cuando se utiliza una placa de raya. Por ejemplo si el mineral es más duro que la placa, no se observará raya.
+ - Ejemplos:
+     - Hematita: raya roja o marrón.
+     - Pirita: raya negra o verde oscuro.
+     - Cuarzo: no produce raya (más duro que la placa).
+     - Calcita: raya blanca.
+     - Yeso: raya blanca.
+     - Fluorita: raya blanca.
+     - Galena: raya gris oscuro o negra.
 
+```{figure} ../images/raya.png
+    :name: fig-raya
+    :width: 75%
+    :align: center
+    :alt: Raya
+
+**Color de raya de algunos minerales. Tomado de [fuente](https://joachim.cl/geologia/html2/007mineralogia/003_propiedades_fisicas.htm)**
+```
 
 5. **Forma cristalina**: Examinar la forma de un solo cristal del mineral, en general puede ser: 
    - **Euhedral:** Cristales bien formados con caras externas definidas.
    - **Subhedral:** Cristales parcialmente formados con algunas caras definidas.
    - **Anhedral:** Cristales sin caras externas definidas, generalmente debido a la competencia con otros cristales durante el crecimiento.
 
+6. **Habito**: La forma en que crecen un conjuntos de cristales del mismo mineral. Pueden ser:
+    - **Acicular:** Cristales delgados y alargados, como agujas. Ejemplos: Rutilo, Actinolita.
+    - **Botrioidal:** Superficie con forma de racimo de uvas. Ejemplos: Hematita, Goethita.
+    - **Columnar:** Cristales alargados que forman columnas. Ejemplos: Aragonito, Celestina.
+    - **Nodular:** Cristales que forman nódulos o masas redondeadas. Ejemplos: Smithsonita, Hemimorfita.
+    - **Dendrítico:** Cristales que se ramifican como ramas de un árbol. Ejemplos: Pirita, Manganeso.
+    - **Reniforme:** Superficie con forma de riñón o globo. Ejemplos: Hematita, Goethita.
+    - **Masivo:** Sin forma cristalina definida, generalmente en grandes masas. Ejemplos: Cuarzo, Calcita.
+    - **Granular:** Compuesto por granos visibles a simple vista. Ejemplos: Granate, Olivino.
+    - **Fibroso:** Compuesto por fibras delgadas y alargadas. Ejemplos: Asbesto, Serpentina.
+    - **Laminar:** Compuesto por láminas delgadas y planas. Ejemplos: Mica, Talco.
+    - **Tabular:** Cristales con forma de tablas o placas. Ejemplos: Barita, Celestina.
+    - **Prismático:** Cristales alargados con caras paralelas. Ejemplos: Cuarzo.
+    - **Drusa:** Superficie cubierta de pequeños cristales que crecen hacia afuera desde una matriz. Ejemplos: Cuarzo, Amatista.
+    - **Radial:** Cristales que se extienden desde un punto central en forma de rayos. Ejemplos: Natrolita, Mesolita.
+    - **Reticular**: Cristales que forman una red o malla. Ejemplos: Epidota, Zoisita.
 
-5. **Habito**: La forma en que crecen un conjuntos de cristales del mismo mineral. Pueden ser:
-    - **Masivo:** Sin forma definida, como en la mayoría de las rocas.
-    - **Granular:** Compuesto por granos visibles a simple vista.
-    - **Fibroso:** Compuesto por fibras delgadas y alargadas.
-    - **Columnar:** Cristales alargados que forman columnas.
-    - **Botrioidal:** Superficie con forma de racimo de uvas.
-    - **Reniforme:** Superficie con forma de riñón o globo.
+```{figure} ../images/habitos.png
+    :name: fig-habitos
+    :width: 75%
+    :align: center
+    :alt: Hábitos cristalinos
+
+**Hábitos cristalinos de algunos minerales. Tomado de [fuente](https://joachim.cl/geologia/html2/007mineralogia/003_propiedades_fisicas.htm)**
+```
+
+```{figure} ../images/habitos_2.png
+    :name: fig-habitos-2
+    :width: 75%
+    :align: center
+    :alt: Habitos 2
+
+**Hábitos de algunos minerales. Tomado de [fuente](https://joachim.cl/geologia/html2/007mineralogia/003_propiedades_fisicas.htm)**
+```
+
+```{figure} ../images/habitos_3.png
+    :name: fig-habitos-3
+    :width: 75%
+    :align: center
+    :alt: Habitos 3
+
+**Hábitos de algunos minerales. Tomado de [fuente](https://joachim.cl/geologia/html2/007mineralogia/003_propiedades_fisicas.htm)**
+```
 
 
-6. **Dureza**: Utilizar la escala de Mohs para determinar la dureza del mineral, que va del 1 (talco) al 10 (diamante). Esto se puede hacer rayando el mineral con objetos de dureza conocida. 
+7. **Dureza**: Medida de la resistencia de un mineral a la abrasión o al rayado.Utilizar la escala de Mohs para determinar la dureza del mineral, que va del 1 (talco) al 10 (diamante). Esto se puede hacer rayando el mineral con objetos de dureza conocida. 
    - Escala de Mohs:
      1. Talco
      2. Yeso
@@ -281,13 +383,34 @@ La identificación de minerales en muestra de mano se basa en la observación y 
 
 **Escala de Mohs. Tomado de [fuente](https://www.forodeminerales.com/2015/06/la-dureza-de-los-minerales.html)**
 ```
+```{figure} ../images/escala_dureza.png
+    :name: fig-escala-dureza
+    :width: 70%
+    :align: center
+    :alt: Escala de dureza
 
+**Escala de dureza. Tomado de [fuente](https://www.forodeminerales.com/2015/06/la-dureza-de-los-minerales.html)**
+```
 
 7. **Clivaje**: Observar cómo se divide el mineral a lo largo de planos específicos. La clivaje es la tendencia del mineral a romperse a lo largo de superficies planas y lisas, que están relacionadas con la estructura cristalina del mineral.
 
-8.  **Exfoliación y fractura**: Observar cómo se rompe el mineral. La exfoliación se refiere a la tendencia del mineral a romperse a lo largo de planos específicos, mientras que la fractura es una ruptura irregular.
+8.  **Exfoliación y fractura**: En la estructura cristalina de muchos minerales, algunos enlaces atómicos son más débiles que otros. Es a lo largo de estos enlaces débiles que los minerales tienden a romperse cuando sometidos a tensión.
+   - **Exfoliación**: La tendencia de un mineral a romperse a lo largo de planos específicos de debilidad en su estructura cristalina, produciendo superficies lisas y planas. La exfoliación se describe por el número de direcciones en las que un mineral puede dividirse fácilmente y la calidad de las superficies resultantes (perfecta, buena, pobre).
+   - **Fractura**: La ruptura irregular de un mineral que no sigue planos específicos de debilidad. Los minerales con enlaces químicos de fuerza igual o prácticamente igual en todas direcciones exhiben una propiedad denominada fractura. La fractura puede ser:
+     - **Concoidea**: Superficie curva y lisa, similar a la concha de un molusco (Ejemplo: Cuarzo).
+     - **Terrosa**: Superficie áspera y granulada, similar a la tierra (Ejemplo: Hematita).
+     - **Irregular**: Superficie rugosa y desigual (Ejemplo: Pirita).
+     - **Fibrosa**: Superficie que parece estar compuesta por fibras (Ejemplo: Asbesto).
 
-9.  **Densidad**: Medir la densidad del mineral, que es la relación entre su masa y su volumen. Esto puede ayudar a diferenciar minerales con propiedades similares.
+```{figure} ../images/fracturas.png
+    :name: fig-fracturas
+    :width: 70%
+    :align: center
+    :alt: Fracturas
+
+**Fracturas. Tomado de [fuente](https://www.facebook.com/photo/?fbid=346468437629426&set=a.116703240605948)**
+```
+
 
 10. **Magnetismo**: Probar si el mineral es magnético utilizando un imán. Algunos minerales, como la magnetita, tienen propiedades magnéticas.
 
