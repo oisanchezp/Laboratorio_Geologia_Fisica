@@ -434,9 +434,34 @@ La identificación de minerales en muestra de mano se basa en la observación y 
 ---
 ## ¿Cómo se clasifican los minerales?
 
-Los minerales se pueden clasificar de varias maneras, pero una de las clasificaciones más comunes es según su composición química y estructura cristalina. A continuación, se describen las principales clases de minerales:
+Los minerales se sitúan en categorías de una manera muy parecida a como se clasifican los animales y las plantas. Los mineralogistas utilizan el término especie mineral para un conjunto de especímenes que exhiben estructuras internas y composiciones químicas similares.
 
-1. **Silicatos**: Son la clase más abundante de minerales y están compuestos principalmente por silicio y oxígeno, junto con otros elementos como aluminio, hierro, magnesio, calcio, sodio y potasio. Los silicatos se dividen en varios subgrupos según la disposición de los tetraedros de silicio-oxígeno:
+Las especies minerales suelen asignarse a una clase mineral en función de sus aniones, o complejos aniónicos, como se muestra en la Tabla.
+
+```{figure} ../images/clases_minerales.png
+    :name: fig-clases
+    :width: 70%
+    :align: center
+    :alt: Clases de minerales
+
+**Clases de minerales.**
+```
+
+Solo ocho elementos constituyen la mayor parte de los minerales formadores de rocas y representan más del 98 por ciento (en peso) de la corteza continental Figura {numref}`fig-elementos`. Estos elementos son oxígeno (O), silicio (Si), aluminio (Al), hierro (Fe), calcio (Ca), sodio (Na), potasio (K) y magnesio (Mg). El oxígeno y el silicio son los dos elementos más abundantes en la corteza continental, y juntos constituyen aproximadamente el 75 por ciento del peso total de la corteza. La combinación de oxígeno y silicio forma el anión complejo silicato (SiO4)4-, que es el componente básico de la mayoría de los minerales. Los **Silicatos** representan más del 90 por ciento de la corteza continental.
+
+```{figure} ../images/elementos.png
+    :name: fig-elementos
+    :width: 70%
+    :align: center
+    :alt: Elementos
+
+**Elementos químicos más abundantes en la Tierra.**
+```
+
+1. **Silicatos**: Todo silicato contiene los dos elementos más abundantes de la corteza terrestre, oxígeno y silicio, que juntos forman el anión complejo silicato (SiO4)4-. Son la clase más abundante de minerales y están compuestos principalmente por silicio y oxígeno, junto con otros elementos como aluminio, hierro, magnesio, calcio, sodio y potasio.
+
+   
+Los silicatos se dividen en varios subgrupos según la disposición de los tetraedros de silicio-oxígeno:
    - **Nesosilicatos**: Tetraedros aislados (Ejemplo: olivino).
    - **Sorosilicatos**: Tetraedros agrupados en pares (Ejemplo: epidota).
    - **Ciclosilicatos**: Tetraedros formando anillos (Ejemplo: berilo).
@@ -478,14 +503,14 @@ Los minerales se pueden clasificar de varias maneras, pero una de las clasificac
    - **Propiedades**: Los haluros suelen ser solubles en agua y tienen una dureza baja. La halita, por ejemplo, tiene un sabor salado característico.
    - **Ejemplos**: La halita (NaCl) es la sal común utilizada en la alimentación y en la industria química. La fluorita (CaF2) se utiliza en la fabricación de lentes y en la industria del acero. La sylvita (KCl) es una fuente importante de potasio para fertilizantes.
    - **Importancia económica**: Los haluros son importantes en la industria química y alimentaria, y su extracción puede ser económicamente significativa.
-6. **Sulfuros**: Minerales compuestos por azufre y uno o más metales. Son importantes en la formación de depósitos minerales metálicos. 
+6.  **Sulfuros**: Minerales compuestos por azufre y uno o más metales. Son importantes en la formación de depósitos minerales metálicos. 
    - **Ejemplos comunes**: pirita, galena, esfalerita.
    - **Importancia**: Los sulfuros son fuentes importantes de metales como el cobre, plomo y zinc. Son fundamentales en la formación de depósitos minerales metálicos.
    - **Usos**: Se utilizan en la producción de metales (galena para plomo, esfalerita para zinc).
    - **Propiedades**: Los sulfuros suelen tener un brillo metálico y son opacos. Muchos son frágiles y se rompen con facilidad.
    - **Ejemplos**: La pirita (FeS2), conocida como "el oro de los tontos", es un sulfuro común que se utiliza en la producción de ácido sulfúrico. La galena (PbS) es la principal mena de plomo y se utiliza en baterías y soldaduras. La esfalerita (ZnS) es la principal mena de zinc, utilizado en galvanización y aleaciones.
   
-7. **Elementos nativos**: Minerales compuestos por un solo elemento químico. 
+7.  **Elementos nativos**: Minerales compuestos por un solo elemento químico. 
    - **Ejemplos comunes**: oro, plata, cobre, azufre.
    - **Importancia**: Los elementos nativos son minerales compuestos por un solo elemento químico. Son importantes en la minería y la joyería.
    - **Usos**: Se utilizan en joyería (oro, plata), en la industria eléctrica (cobre) y en la fabricación de productos químicos (azufre).
