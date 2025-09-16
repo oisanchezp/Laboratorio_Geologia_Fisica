@@ -53,23 +53,23 @@ Al finalizar el laboratorio de Geología Física, los estudiantes estarán en ca
 **Las clases serán todos los miércoles de 2:00 a 4:00 p.m. en el Bloque M1-210.  
 Se realizará una práctica de campo en la Facultad de Minas.**
 
-| **Semana** | **Fecha**        | **Tema / Actividad**                                       |
-|:----------:|:----------------:|------------------------------------------------------------|
-| **1**      | 3 de septiembre  | Introducción al laboratorio de Geología                    |
-| **2**      | 10 de septiembre | Minerales                                                  |
-| **3**      | 17 de septiembre | Identificación de minerales en muestra de mano             |
-| **4**      | 24 de septiembre | Ciclo de las rocas / **Taller 1: Identificación de minerales**                  |
-| **5**      | 1 de octubre     | Rocas Ígneas                                               |
-| **6**      | 8 de octubre     | Identificación de rocas ígneas en muestra de mano          |
-| **7**      | 15 de octubre    | Rocas Sedimentarias / **Taller 2: Identificación de rocas en muestra de mano**   |
-| **8**      | 22 de octubre    | **Quiz 1**: Minerales y Rocas Ígneas                       |
-| **9**      | 29 de octubre    | Identificación de rocas sedimentarias en muestra de mano   |
-| **10**     | 5 de noviembre   | Rocas Metamórficas / Identificación de rocas metamórficas en muestra de mano    |
-| **11**     | 12 de noviembre  | Práctica Precampo: Ubicación, Manejo Brújula y mapas geológicos      |
-| **12**     | 19 de noviembre  | **Quiz 2**: Rocas Ígneas, Sedimentarias y Metamórficas     |
-| **13**     | 26 de noviembre  | Mapas geológicos, cortes y columna estratigráfica          |
-| **14**     | 3 de diciembre   | **Taller 3: Mapas geológicos**                             |
-| **15**     | 10 de diciembre  | **Quiz 3**: Mapas geológicos, cortes y columna estratigráfica |
+| **Semana** | **Fecha**        | **Tema / Actividad**                                                |
+|:----------:|:----------------:|---------------------------------------------------------------------|
+| **1**      | 3 de septiembre  | Introducción al laboratorio de Geología                             |
+| **2**      | 10 de septiembre | Minerales                                                           |
+| **3**      | 17 de septiembre | Identificación de minerales en muestra de mano                      |
+| **4**      | 24 de septiembre | Ciclo de las rocas / **Taller 1: Identificación de minerales**      |
+| **5**      | 1 de octubre     | Rocas Ígneas                                                        |
+| **6**      | 8 de octubre     | Identificación de rocas ígneas en muestra de mano                   |
+| **7**      | 15 de octubre    | Rocas Sedimentarias / **Taller 2: Identificación de rocas en mano** |
+| **8**      | 22 de octubre    | **Quiz 1**: Minerales y Rocas Ígneas                                |
+| **9**      | 29 de octubre    | Identificación de rocas sedimentarias en muestra de mano            |
+| **10**     | 5 de noviembre   | Rocas Metamórficas / Identificación de rocas metamórficas en mano   |
+| **11**     | 12 de noviembre  | Práctica Precampo: Ubicación, manejo de brújula y mapas geológicos  |
+| **12**     | 19 de noviembre  | **Quiz 2**: Rocas Ígneas, Sedimentarias y Metamórficas              |
+| **13**     | 26 de noviembre  | Mapas geológicos, cortes y columna estratigráfica                   |
+| **14**     | 3 de diciembre   | **Taller 3: Mapas geológicos**                                      |
+| **15**     | 10 de diciembre  | **Quiz 3**: Mapas geológicos, cortes y columna estratigráfica       |
 
 
 ## Evaluación
