@@ -33,9 +33,9 @@
 
 - **Minerales parecidos:** Puede confundirse con **apatita** verde (hábito **hexagonal**, menor dureza/densidad). También con **turmalina** o **diopsido** (formas y óptica distintas).
 
-- **Imagen:** 
+
 ```{figure} ../images/olivino.jpg
-    :width: 70%
+    :width: 60%
     :align: center
     :alt: Olivino
 
@@ -43,7 +43,7 @@
 ```
 
 ```{figure} ../images/olivino_2.jpg
-    :width: 70%
+    :width: 60%
     :align: center
     :alt: Olivino_2
 
