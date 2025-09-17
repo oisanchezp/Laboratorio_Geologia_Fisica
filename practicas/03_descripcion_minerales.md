@@ -267,7 +267,6 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 - **Alteración:** A **caolinita**, **muscovita** y otros filosilicatos por hidrotermalismo/meteorización.
 - **Usos:** Gemas (esmeralda, aguamarina, etc.) y **mena de berilio**.
 - **Minerales parecidos:** **Apatita** (más blanda, 5), **cuarzo** (sin clivaje, menor densidad), **topacio** (clivaje perfecto y mayor densidad).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:Beryl-37577.jpg  *(Wikimedia Commons)*
 
 ---
 
@@ -291,7 +290,6 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 - **Alteración:** Relativamente estable; puede descomponerse a **micas** y **óxidos de Fe** superficialmente.
 - **Usos:** **Gemas** muy apreciadas; propiedades **piro/piezoeléctricas** (uso limitado).
 - **Minerales parecidos:** **Anfíboles** (hornblenda) y **piroxenos** oscuros (pero la turmalina muestra **estriaciones y sección triangular**, sin buen clivaje).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:Elbaite-Tourmaline-182828.jpg  *(Wikimedia Commons)*
 
 ---
 
@@ -317,8 +315,6 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 - **Alteración:** A **anfíbol** (uralitización), **clorita**, **serpentina** y arcillas.
 - **Usos:** **Jadeíta** como gema; **diopsido** gema menor; otros, usos geológicos.
 - **Minerales parecidos:** **Anfíboles** (hornblenda) — clivaje a **56°/124°** vs **~90°** en piroxenos; **olivino** (sin clivaje, fractura concoidea).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:Augite-118284.jpg  *(Wikimedia Commons)*
-
 ---
 
 ### Grupo de los Anfíboles — **Hornblenda**
@@ -341,7 +337,6 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 - **Alteración:** A **clorita**, **epidota**, **biotita**; meteorización a **óxidos de Fe** y arcillas.
 - **Usos:** Mineral formador de roca; relevancia petrográfica.
 - **Minerales parecidos:** **Piroxenos** (clivaje ~90°), **turmalina** (estriada y sección triangular, sin buen clivaje).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:HornblendeUSGOV.jpg  *(Wikimedia Commons)*
 
 ---
 
@@ -365,7 +360,6 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 - **Alteración:** Puede evolucionar a **talco** (metamorfismo con CO₂), **brucita**, **magnetita**.
 - **Usos:** Piedra ornamental (“serpentina”); **crisotilo** usado históricamente como asbesto (uso hoy restringido).
 - **Minerales parecidos:** **Talc** (más blando, H=1, tacto muy jabonoso), **clorita** (verde, H=2–2.5, laminada).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:SerpentineUSGOV.jpg  *(Wikimedia Commons)*
 
 ---
 
@@ -389,7 +383,6 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 - **Alteración:** Puede transformarse en **illita** o **gibbsite** según ambiente.
 - **Usos:** **Cerámica/porcelana**, **papel** (carga y estucado), **pinturas**, **fármacos** (excipient).
 - **Minerales parecidos:** **Talc** (más blando, tacto jabonoso), **yeso** (efervescencia con HCl caliente débil y H=2), **caliza** (efervesce en HCl).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:KaoliniteUSGOV.jpg  *(Wikimedia Commons)*
 
 ---
 
@@ -413,7 +406,6 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 - **Alteración:** Puede hidratarse a **brucita** o degradar a **arcillas** finas.
 - **Usos:** **Polvos cosméticos/industriales**, **carga** en papel/plásticos/pinturas, **cerámica**; piedra jabón para tallas.
 - **Minerales parecidos:** **Serpentina** (más dura 2.5–4), **clorita** (H=2–2.5, láminas verdes).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:Talc_block.jpg  *(Wikimedia Commons)*
 
 ---
 
@@ -537,10 +529,59 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Fuentes sugeridas para ampliar (selección)
-- **Mindat.org** — fichas minerales y fotos libres.  
-- **WebMineral** — propiedades cristalográficas y físicas.  
-- **Mineralogy Database (Princeton y otras)** — datos cristalográficos.  
-- **Minerals Education Coalition** — usos y ocurrencia.  
-- **Servicio Geológico Mexicano** — propiedades físicas de minerales.  
-- **Wikimedia Commons** — imágenes con licencia libre.
+### Cuarzo
+
+```{figure} ../images/cuarzo.jpg
+    :width: 50%
+    :align: center
+    :alt: Cuarzo cristal de roca
+
+**Tomado de [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:QuartzUSGOV.jpg)**
+```
+
+```{figure}
+Copiar código
+    :width: 40%
+    :align: center
+    :alt: Geoda de amatista (variedad de cuarzo)
+
+**Tomado de [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amethyst_Geode.jpg)**
+Química: SiO₂ (dióxido de silicio); polimorfo trigonal del sistema cuarzo–tridimita–cristobalita.
+```
+
+- **Color:** Típicamente incoloro (cristal de roca) o blanco lechoso; variedades comunes: violeta (amatista), amarillo (citrino), ahumado (marrón–gris), rosa (cuarzo rosa), negro (morión). La sílice criptocristalina (calcedonia) muestra colores muy diversos (ágata, jaspe, ónix, cornalina).
+
+- **Transparencia:** Transparente a translúcido; masivo/criptocristalino puede ser traslúcido a opaco.
+
+- **Brillo:** Vítreo (a veces grasoso en fractura); céreo en variedades criptocristalinas.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Trigonal (familia hexagonal). Cristales prismáticos hexagonales con terminaciones piramidales; maclas comunes (p. ej., Brasil, Dauphiné).
+
+- **Hábito:** Prismático bien formado en geodas y vetas; drusa; masivo/granular (cuarcitas), cristal de roca en venas, criptocristalino como calcedonia/ágata/jaspe.
+
+- **Dureza:** 7 (Mohs). Raya vidrio; no se raya con navaja (~5.5); no se raya con moneda (~3–3.5) ni uña (~2.5).
+
+- **Peso específico:** ~2,65 g/cm³ (sensación ligera comparado con granate/olivino).
+
+- **Clivaje:** Nulo (sin exfoliación); muestra fractura concoidea marcada.
+
+- **Fractura:** Concoidea a desigual; quebradizo.
+
+- **Magnetismo:** No magnético.
+
+- **Efervescencia con HCl:** No efervesce (insoluble en HCl diluido a T ambiente).
+
+- **Origen y ocurrencia:** Ubicuo. Ígneas (granitos, riolitas; mineral tardío en pegmatitas y vetas hidrotermales), metamórficas (cuarcitas, gneises), y sedimentarias (cemento de areniscas, nódulos de sílice). Frecuente en geodas (amatista), venas de cuarzo y como detrítico muy resistente.
+
+- **Variedades:** Cristal de roca, amatista, citrino, cuarzo ahumado, cuarzo rosa, morión; criptocristalinas: calcedonia, ágata, ónix, jaspe, cornalina, prasio.
+
+- **Alteración:** Muy resistente a meteorización; puede disolverse/sílice coloidal en condiciones hidrotermales. A alta P–T transforma a coesita/stishovita (no meteórico). Superficialmente puede opalizarse (sílice amorfa).
+
+- **Usos:** Vidrio y sílice industrial (arenas de cuarzo), electrónica (cuarzo alfa piezoeléctrico en osciladores), óptica (ventanas/óptica UV), abrasivos (arenado), gemas (variedades coloreadas), fundición.
+
+- **Minerales parecidos:** Calcita (H=3 y efervescencia en HCl), feldespatos (dos clivajes a ~90°), topacio (H=8 y clivaje perfecto), berilo (prismas hexagonales pero H=7.5–8 y clivaje pobre basal). La fractura concoidea sin clivaje y H=7 son diagnósticos del cuarzo.
+
+
+
