@@ -9,6 +9,22 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ### Olivino (Grupo del Olivino)
 
+```{figure} ../images/olivino.jpg
+    :width: 50%
+    :align: center
+    :alt: Olivino
+
+**Tomado de [fuente](https://www.jovageology.com/2025/02/dunitas-rocas-ultramaficas-ricas-en.html)**
+```
+
+```{figure} ../images/olivino_2.jpg
+    :width: 40%
+    :align: center
+    :alt: Olivino_2
+
+**Tomado de [fuente](https://www.jovageology.com/2014/04/olivino-olivine-mineral.html)**
+```
+
 - **Química:**  Nesosilicato de magnesio y hierro, fórmula general (Mg,Fe)\_2SiO\_4 (serie isomórfica entre forsterita Mg\_2SiO\_4 y fayalita Fe\_2SiO\_4).
 - **Color:** Típicamente verde oliva, aunque puede variar de verde amarillento a verde brillante. Las variedades ricas en hierro tienden a ser verde parduzco a marrón.
 - **Transparencia:** Generalmente **translúcido** en cristales de calidad gema (peridoto) y **opaco a translúcido** en masas granulares.
@@ -36,27 +52,25 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 - **Minerales parecidos:** Puede confundirse con **apatita** verde (hábito **hexagonal**, menor dureza/densidad). También con **turmalina** o **diopsido** (formas y óptica distintas).
 
-
-```{figure} ../images/olivino.jpg
-    :width: 50%
-    :align: center
-    :alt: Olivino
-
-**Tomado de [fuente](https://www.jovageology.com/2025/02/dunitas-rocas-ultramaficas-ricas-en.html)**
-```
-
-```{figure} ../images/olivino_2.jpg
-    :width: 40%
-    :align: center
-    :alt: Olivino_2
-
-**Tomado de [fuente](https://www.jovageology.com/2014/04/olivino-olivine-mineral.html)**
-```
-
-
 ---
 
 ### Granate (Grupo de los Granates)
+
+```{figure} ../images/granate.jpg
+    :width: 50%
+    :align: center
+    :alt: Granate
+
+**Granate variedad Almandino, Tomado de [fuente](https://museomine.unizar.es/almandino/)**
+```
+
+```{figure} ../images/granate_2.jpg
+    :width: 50%
+    :align: center
+    :alt: Granate
+
+**Pequeños cristales de almandino en eclogita., Tomado de [fuente](https://museomine.unizar.es/almandino/)**
+```
 
 - **Química:** Nesosilicato complejo **X\_3Y\_2(SiO\_4)\_3**; X = Ca²⁺, Mg²⁺, Fe²⁺, Mn²⁺; Y = Al³⁺, Fe³⁺, Cr³⁺, etc. *[Fuente: es.wikipedia.org]*  
   Ejemplos: **almandino** Fe\_3Al\_2(SiO\_4)\_3; **grossularia** Ca\_3Al\_2(SiO\_4)\_3.
@@ -101,8 +115,6 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 - **Usos:** Desde la **Edad de Bronce** como **gemas** (enero: piedra de nacimiento). Industrialmente, como **abrasivos** (papel de lija, arenado, corte por chorro de agua), alternativa a la arena silícea; también **filtros** y prospección de minerales pesados. *[Fuente: es.wikipedia.org]*
 
 - **Minerales parecidos:** Por color rojo, se confunde con **rubí (corindón)** o **espinela** (más duros). Naranjas: con **zircón** o **topacio imperial** (zircón más denso; topacio con clivaje perfecto). Amarillos: con **cuarzo citrino** (menor densidad). En rocas, puede parecerse a **estaurolita** (pero esta tiene maclas en cruz y hábito prismático).
-
-- **Imagen:** 
 
 ---
 
@@ -388,7 +400,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-### Minerales arcillosos — **Talc**
+### Minerales arcillosos — **Talco**
 
 - **Química:** **Mg₃Si₄O₁₀(OH)₂**.
 - **Color:** Blanco a verdoso pálido.
@@ -412,7 +424,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-### Grupo de las Micas — **Muscovita**
+### Grupo de las Micas — **Moscovita**
 
 - **Química:** **KAl₂(AlSi₃O₁₀)(OH)₂**.
 - **Color:** Incolora a plateada; a veces amarillenta.
