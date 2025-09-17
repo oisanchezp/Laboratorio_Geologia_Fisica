@@ -117,6 +117,14 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ### Circón (Zircón)
 
+```{figure} ../images/circon.jpg
+    :width: 50%
+    :align: center
+    :alt: Circón
+
+**Tomado de [fuente](https://geologiaweb.com/minerales/circon/)**
+```
+
 - **Química:** **Silicato de circonio**, **ZrSiO\_4**.
   Puede contener **Hf, Th, U** sustituyendo al Zr, modificando ligeramente la densidad.
 
@@ -167,6 +175,16 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 ---
 
 ### Topacio
+
+```{figure} ../images/topacio.jpg
+    :width: 50%
+    :align: center
+    :alt: Topacio
+
+**Tomado de [fuente](https://mineriaenlinea.com/rocas_y_minerales/topacio/)**
+```
+
+
 
 - **Química:** **Aluminosilicato con flúor y OH**, **Al₂SiO₄(F,OH)₂**.
   La proporción F/OH puede variar (F ≫ OH en topacios poco alterados).
@@ -225,6 +243,15 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ### Epidota
 
+```{figure} ../images/epidota.jpg
+    :width: 50%
+    :align: center
+    :alt: Epidota
+
+**Tomado de [fuente](https://vivescortadaimport.com/diccionario-minerales/minerales/epidota/index.php)**
+```
+
+
 - **Química:** Ca₂(Al,Fe)₃(SiO₄)₃(OH) (serie con **clinozoisita**; Mn-rica = **piemontita**).
 - **Color:** Verde pistacho a verde amarillento; con Mn puede ser rosado/rojizo (piemontita).
 - **Transparencia:** Transparente a translúcida (masiva: opaca).
@@ -249,6 +276,14 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ### Berilo
 
+```{figure} ../images/berilo.jpg
+    :width: 50%
+    :align: center
+    :alt: Berilo
+
+**Berilo Tomado de [fuente](https://geologiaweb.com/minerales/berilo/)**
+```
+
 - **Química:** **Be₃Al₂Si₆O₁₈**.
 - **Color:** Muy variable: **esmeralda** (verde Cr/V), **aguamarina** (azul), **heliodoro** (amarillo), **morganita** (rosa), **goshenita** (incoloro).
 - **Transparencia:** Transparente a translúcido; masivo, opaco.
@@ -271,6 +306,15 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 ---
 
 ### Turmalina (Grupo)
+
+
+```{figure} ../images/turmalina.jpg
+    :width: 50%
+    :align: center
+    :alt: Turmalina
+
+**Turmalina Tomado de [fuente](https://vivescortadaimport.com/diccionario-minerales/minerales/turmalina/index.php)**
+```
 
 - **Química:** Borosilicatos complejos (p. ej., **schorl** NaFe²⁺₃Al₆Si₆O₁₈(BO₃)₃(OH)₄; **dravita** NaMg₃…; **elbaíta** Na(Li,Al)₃…).
 - **Color:** Extremadamente variable: negro (schorl), verde, azul (**indicolita**), rosa (**rubelita**), bicolor (**sandía**), incoloro, etc.
@@ -582,6 +626,8 @@ Química: SiO₂ (dióxido de silicio); polimorfo trigonal del sistema cuarzo–
 - **Usos:** Vidrio y sílice industrial (arenas de cuarzo), electrónica (cuarzo alfa piezoeléctrico en osciladores), óptica (ventanas/óptica UV), abrasivos (arenado), gemas (variedades coloreadas), fundición.
 
 - **Minerales parecidos:** Calcita (H=3 y efervescencia en HCl), feldespatos (dos clivajes a ~90°), topacio (H=8 y clivaje perfecto), berilo (prismas hexagonales pero H=7.5–8 y clivaje pobre basal). La fractura concoidea sin clivaje y H=7 son diagnósticos del cuarzo.
+
+
 
 
 
