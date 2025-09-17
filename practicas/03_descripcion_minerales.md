@@ -1,12 +1,13 @@
 # Descripción de Minerales
 
+**Principales Minerales y sus Propiedades Físicas**
+
 Se describen los principales minerales que se encuentran en rocas ígneas, metamórficas y sedimentarias, con énfasis en sus propiedades físicas y químicas para su identificación en el laboratorio.
 
-## Principales Minerales y sus Propiedades Físicas
+---
+## Silicatos
 
-### Silicatos
-
-#### Olivino (Grupo del Olivino)
+### Olivino (Grupo del Olivino)
 
 - **Química:**  Nesosilicato de magnesio y hierro, fórmula general (Mg,Fe)\_2SiO\_4 (serie isomórfica entre forsterita Mg\_2SiO\_4 y fayalita Fe\_2SiO\_4).
 - **Color:** Típicamente verde oliva, aunque puede variar de verde amarillento a verde brillante. Las variedades ricas en hierro tienden a ser verde parduzco a marrón.
@@ -55,7 +56,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-  ## Granate (Grupo de los Granates)
+### Granate (Grupo de los Granates)
 
 - **Química:** Nesosilicato complejo **X\_3Y\_2(SiO\_4)\_3**; X = Ca²⁺, Mg²⁺, Fe²⁺, Mn²⁺; Y = Al³⁺, Fe³⁺, Cr³⁺, etc. *[Fuente: es.wikipedia.org]*  
   Ejemplos: **almandino** Fe\_3Al\_2(SiO\_4)\_3; **grossularia** Ca\_3Al\_2(SiO\_4)\_3.
@@ -105,7 +106,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Circón (Zircón)
+### Circón (Zircón)
 
 - **Química:** **Silicato de circonio**, **ZrSiO\_4**. *[Fuente: es.wikipedia.org]*  
   Puede contener **Hf, Th, U** sustituyendo al Zr, modificando ligeramente la densidad. *[Fuente: es.wikipedia.org]*
@@ -159,7 +160,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Topacio
+### Topacio
 
 - **Química:** **Aluminosilicato con flúor y OH**, **Al₂SiO₄(F,OH)₂**. *[Fuente: es.wikipedia.org]*  
   La proporción F/OH puede variar (F ≫ OH en topacios poco alterados).
@@ -217,7 +218,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 ---
 
 
-## Epidota
+### Epidota
 
 - **Química:** Ca₂(Al,Fe)₃(SiO₄)₃(OH) (serie con **clinozoisita**; Mn-rica = **piemontita**).
 - **Color:** Verde pistacho a verde amarillento; con Mn puede ser rosado/rojizo (piemontita).
@@ -241,7 +242,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Berilo
+### Berilo
 
 - **Química:** **Be₃Al₂Si₆O₁₈**.
 - **Color:** Muy variable: **esmeralda** (verde Cr/V), **aguamarina** (azul), **heliodoro** (amarillo), **morganita** (rosa), **goshenita** (incoloro).
@@ -265,7 +266,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Turmalina (Grupo)
+### Turmalina (Grupo)
 
 - **Química:** Borosilicatos complejos (p. ej., **schorl** NaFe²⁺₃Al₆Si₆O₁₈(BO₃)₃(OH)₄; **dravita** NaMg₃…; **elbaíta** Na(Li,Al)₃…).
 - **Color:** Extremadamente variable: negro (schorl), verde, azul (**indicolita**), rosa (**rubelita**), bicolor (**sandía**), incoloro, etc.
@@ -289,7 +290,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Grupo de los Piroxenos
+### Grupo de los Piroxenos
 
 - **Química:** Inosilicatos de **cadena simple**.  
   **Clinopiroxenos:** diopsido CaMgSi₂O₆, hedenbergita CaFeSi₂O₆, **augita** (Ca–Fe–Mg); **aegirina** NaFe³⁺Si₂O₆.  
@@ -315,7 +316,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Grupo de los Anfíboles — **Hornblenda**
+### Grupo de los Anfíboles — **Hornblenda**
 
 - **Química:** Inosilicato de **doble cadena**; fórmula general compleja (Ca,Na)₂–₃(Mg,Fe,Al)₅(Al,Si)₈O₂₂(OH,F)₂.
 - **Color:** Negro a verde oscuro.
@@ -339,7 +340,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Serpentina (Grupo)
+### Serpentina (Grupo)
 
 - **Química:** Aproximada **Mg₃Si₂O₅(OH)₄**; polimorfos: **antigorita**, **lizardita** (laminares), **crisotilo** (fibroso).
 - **Color:** Verde claro a verde amarillento; a veces moteado.
@@ -363,7 +364,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Minerales arcillosos — **Caolinita**
+### Minerales arcillosos — **Caolinita**
 
 - **Química:** **Al₂Si₂O₅(OH)₄**.
 - **Color:** Blanco, crema; a veces gris.
@@ -387,7 +388,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Minerales arcillosos — **Talc**
+### Minerales arcillosos — **Talc**
 
 - **Química:** **Mg₃Si₄O₁₀(OH)₂**.
 - **Color:** Blanco a verdoso pálido.
@@ -411,7 +412,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Grupo de las Micas — **Muscovita**
+### Grupo de las Micas — **Muscovita**
 
 - **Química:** **KAl₂(AlSi₃O₁₀)(OH)₂**.
 - **Color:** Incolora a plateada; a veces amarillenta.
@@ -435,7 +436,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Grupo de las Micas — **Biotita**
+### Grupo de las Micas — **Biotita**
 
 - **Química:** **K(Mg,Fe)₃AlSi₃O₁₀(OH)₂** (serie con **annita** Fe-rica y **phlogopita** Mg-rica).
 - **Color:** Pardo oscuro a **negro**; phlogopita, pardo dorado.
@@ -459,7 +460,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Grupo de las Micas — **Clorita** (grupo)
+### Grupo de las Micas — **Clorita** (grupo)
 
 - **Química:** (Mg,Fe,Al)₆(Si,Al)₄O₁₀(OH)₈ (p. ej., **clinochlore**, **chamosita**).
 - **Color:** **Verde** claro a oscuro.
@@ -483,7 +484,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Grupo de los Feldespatos — **Feldespatos potásicos (K-feldespatos)**
+### Grupo de los Feldespatos — **Feldespatos potásicos (K-feldespatos)**
 
 - **Química:** **KAlSi₃O₈** — **microclina**, **ortoclasa**, **sanidina** (polimorfos).
 - **Color:** Blanco, **rosado/salmón**, crema.
@@ -507,7 +508,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## Grupo de los Feldespatos — **Serie de las Plagioclasas**
+### Grupo de los Feldespatos — **Serie de las Plagioclasas**
 
 - **Química:** Serie **(Na,Ca)Al(Al,Si)Si₂O₈** de **albita (Na)** ↔ **anortita (Ca)**; términos intermedios: **oligoclasa**, **andesina**, **labradorita**, **bytownita**.
 - **Color:** Blanco a gris; **labradorita** puede mostrar **labradorescencia** (irisaciones azules/verdosas).
