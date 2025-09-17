@@ -99,10 +99,7 @@
 
 - **Minerales parecidos:** Por color rojo, se confunde con **rubí (corindón)** o **espinela** (más duros). Naranjas: con **zircón** o **topacio imperial** (zircón más denso; topacio con clivaje perfecto). Amarillos: con **cuarzo citrino** (menor densidad). En rocas, puede parecerse a **estaurolita** (pero esta tiene maclas en cruz y hábito prismático).
 
-- **Imagen:** Grupo de **cristales de granate** café–anaranjado (grossularia) de hábito dodecaédrico, sobre calcita.  
-  *Se aprecian cristales isométricos de 12–24 caras, brillo vítreo y ausencia de exfoliación.*  
-  *[Fuentes: es.wikipedia.org]*
-
+- **Imagen:** 
 
 ---
 

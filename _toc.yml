@@ -7,9 +7,10 @@ chapters:
   - file: horarios
   - file: practicas/01_introduccion_geologia
   - file: practicas/02_minerales
-  - file: practicas/03_ciclo_rocas
-  - file: practicas/04_rocas_igneas
-  - file: practicas/05_rocas_sedimentarias
-  - file: practicas/06_rocas_metamorficas
-  - file: practicas/07_manejo_brujula_medicion
-  - file: practicas/08_mapas_geologicos_ubicacion
+  - file: practicas/03_minerales_2
+  - file: practicas/04_ciclo_rocas
+  - file: practicas/05_rocas_igneas
+  - file: practicas/06_rocas_sedimentarias
+  - file: practicas/07_rocas_metamorficas
+  - file: practicas/08_manejo_brujula_medicion
+  - file: practicas/09_mapas_geologicos_ubicacion
