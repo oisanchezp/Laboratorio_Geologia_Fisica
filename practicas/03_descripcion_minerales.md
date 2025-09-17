@@ -72,47 +72,44 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 **Pequeños cristales de almandino en eclogita., Tomado de [fuente](https://museomine.unizar.es/almandino/)**
 ```
 
-- **Química:** Nesosilicato complejo **X\_3Y\_2(SiO\_4)\_3**; X = Ca²⁺, Mg²⁺, Fe²⁺, Mn²⁺; Y = Al³⁺, Fe³⁺, Cr³⁺, etc. *[Fuente: es.wikipedia.org]*  
+- **Química:** Nesosilicato complejo **X\_3Y\_2(SiO\_4)\_3**; X = Ca²⁺, Mg²⁺, Fe²⁺, Mn²⁺; Y = Al³⁺, Fe³⁺, Cr³⁺, etc.  
   Ejemplos: **almandino** Fe\_3Al\_2(SiO\_4)\_3; **grossularia** Ca\_3Al\_2(SiO\_4)\_3.
 
-- **Color:** **Muy variable**. El típico es rojo oscuro, pero hay casi **todos los colores excepto azul**. *[Fuente: es.wikipedia.org]*  
-  Rojos (almandino, piropo), naranjas (espesartina), amarillos/canela (hessonita, grossularia), verdes (uvarovita, demantoide), incoloros o negros. *[Fuente: es.wikipedia.org]*
+- **Color:** **Muy variable**. El típico es rojo oscuro, pero hay casi **todos los colores excepto azul**.   
+  Rojos (almandino, piropo), naranjas (espesartina), amarillos/canela (hessonita, grossularia), verdes (uvarovita, demantoide), incoloros o negros.
 
-- **Transparencia:** **Transparente a opaco**, según especie y pureza. *[Fuente: es.wikipedia.org]*  
+- **Transparencia:** **Transparente a opaco**, según especie y pureza.   
   Gemas: transparentes–translúcidas; en rocas metamórficas: a menudo opacos.
 
-- **Brillo:** **No metálico vítreo**, a veces **resinoso**. *[Fuente: es.wikipedia.org]*
+- **Brillo:** **No metálico vítreo**, a veces **resinoso**.
+- **Raya:** **Blanca** o incolora (a menudo no deja raya por su dureza). 
 
-- **Raya:** **Blanca** o incolora (a menudo no deja raya por su dureza). *[Fuente: es.wikipedia.org]*
-
-- **Forma cristalina:** **Isométrica (cúbica)**. *[Fuente: es.wikipedia.org]*  
-  Típicos **dodecaedros** (12 caras) o **trapezoedros** (24 caras). *[Fuente: es.wikipedia.org]*
+- **Forma cristalina:** **Isométrica (cúbica)**.  
+  Típicos **dodecaedros** (12 caras) o **trapezoedros** (24 caras).
 
 - **Hábito:** **Cristales equidimensionales** en matriz (p. ej., dodecaedros rojizos en esquistos); también **granos redondeados** en sedimentos y **masas granulares** metamórficas.
 
-- **Dureza:** **6,5 – 7,5** (Mohs). *[Fuente: es.wikipedia.org]*  
-  Rayan vidrio; cuarzo (~7) puede rayar granates más blandos.
+- **Dureza:** **6,5 – 7,5** (Mohs).Rayan vidrio; cuarzo (~7) puede rayar granates más blandos.
 
-- **Peso específico:** **3,1 – 4,3 g/cm³**, según composición. *[Fuente: es.wikipedia.org]*  
-  Densidad alta para silicato; Fe/Mn ricos (almandino ~4,2) se sienten **pesados**.
+- **Peso específico:** **3,1 – 4,3 g/cm³**, según composición. Densidad alta para silicato; Fe/Mn ricos (almandino ~4,2) se sienten **pesados**.
 
-- **Clivaje:** **Nulo o muy pobre**; **sin exfoliación** evidente. *[Fuente: es.wikipedia.org]*
+- **Clivaje:** **Nulo o muy pobre**; **sin exfoliación** evidente.
 
-- **Fractura:** **Concoidea a desigual**. *[Fuente: es.wikipedia.org]*
+- **Fractura:** **Concoidea a desigual**.
 
 - **Magnetismo:** **No** magnéticos en condiciones normales.
 
 - **Efervescencia con HCl:** **No** reaccionan (insolubles en HCl diluido).
 
 - **Origen y ocurrencia:** Típicos de **metamorfismo** medio–alto grado.  
-  **Almandino** (Fe): esquistos y gneises; **grossularia** (Ca): rocas calcáreas metamorfizadas (skarn); **espesartina** (Mn): metamorfismo con Mn alto; **piropo** (Mg): peridotitas del manto y xenolitos (indicador de kimberlitas); también en **pegmatitas graníticas** y **riolitas** (ciertas especies) y depósitos de **contacto metasomático**. Resisten erosión y son comunes como **granos detríticos**. *[Fuente: es.wikipedia.org]*
+  **Almandino** (Fe): esquistos y gneises; **grossularia** (Ca): rocas calcáreas metamorfizadas (skarn); **espesartina** (Mn): metamorfismo con Mn alto; **piropo** (Mg): peridotitas del manto y xenolitos (indicador de kimberlitas); también en **pegmatitas graníticas** y **riolitas** (ciertas especies) y depósitos de **contacto metasomático**. Resisten erosión y son comunes como **granos detríticos**.
 
-- **Variedades:** Seis especies principales: **Almandino** (Fe²⁺\_3Al\_2), **Piropo** (Mg\_3Al\_2), **Espesartina** (Mn\_3Al\_2), **Grossularia** (Ca\_3Al\_2), **Andradita** (Ca\_3Fe\_2), **Uvarovita** (Cr\_3Ca\_2). *[Fuente: es.wikipedia.org]*  
+- **Variedades:** Seis especies principales: **Almandino** (Fe²⁺\_3Al\_2), **Piropo** (Mg\_3Al\_2), **Espesartina** (Mn\_3Al\_2), **Grossularia** (Ca\_3Al\_2), **Andradita** (Ca\_3Fe\_2), **Uvarovita** (Cr\_3Ca\_2).
   Nombres gemológicos: **rodolita** (piropo-almandino), **hessonita** (grossularia naranja), **tsavorita** (grossularia verde), **demantoide** (andradita verde), etc.
 
-- **Alteración:** Generalmente **estables**, pero pueden pseudomorfizarse a **clorita** (y micas) en condiciones hidrotermales/bajo grado; liberan óxidos de Fe al alterarse. Granates cálcicos pueden alterar a **epidota**. *[Fuentes: edafologia.ugr.es | ugr.es]*
+- **Alteración:** Generalmente **estables**, pero pueden pseudomorfizarse a **clorita** (y micas) en condiciones hidrotermales/bajo grado; liberan óxidos de Fe al alterarse. Granates cálcicos pueden alterar a **epidota**.
 
-- **Usos:** Desde la **Edad de Bronce** como **gemas** (enero: piedra de nacimiento). Industrialmente, como **abrasivos** (papel de lija, arenado, corte por chorro de agua), alternativa a la arena silícea; también **filtros** y prospección de minerales pesados. *[Fuente: es.wikipedia.org]*
+- **Usos:** Desde la **Edad de Bronce** como **gemas** (enero: piedra de nacimiento). Industrialmente, como **abrasivos** (papel de lija, arenado, corte por chorro de agua), alternativa a la arena silícea; también **filtros** y prospección de minerales pesados.
 
 - **Minerales parecidos:** Por color rojo, se confunde con **rubí (corindón)** o **espinela** (más duros). Naranjas: con **zircón** o **topacio imperial** (zircón más denso; topacio con clivaje perfecto). Amarillos: con **cuarzo citrino** (menor densidad). En rocas, puede parecerse a **estaurolita** (pero esta tiene maclas en cruz y hábito prismático).
 
@@ -120,86 +117,83 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ### Circón (Zircón)
 
-- **Química:** **Silicato de circonio**, **ZrSiO\_4**. *[Fuente: es.wikipedia.org]*  
-  Puede contener **Hf, Th, U** sustituyendo al Zr, modificando ligeramente la densidad. *[Fuente: es.wikipedia.org]*
+- **Química:** **Silicato de circonio**, **ZrSiO\_4**.
+  Puede contener **Hf, Th, U** sustituyendo al Zr, modificando ligeramente la densidad.
 
-- **Color:** Muy variable. Comúnmente **pardo rojizo a marrón**; también **incoloro, amarillo, naranja, verde, azulado o violeta**. *[Fuente: es.wikipedia.org]*  
-  El color depende de trazas e **irradiación**; algunos circones son marrón-oscuros por **daño radiogénico**.
+- **Color:** Muy variable. Comúnmente **pardo rojizo a marrón**; también **incoloro, amarillo, naranja, verde, azulado o violeta**. El color depende de trazas e **irradiación**; algunos circones son marrón-oscuros por **daño radiogénico**.
 
-- **Transparencia:** **Transparente a opaco**. *[Fuente: es.wikipedia.org]*  
-  Circones frescos: transparente–translúcidos; **metamícticos**: opacos, aspecto resinoso.
+- **Transparencia:** **Transparente a opaco**. Circones frescos: transparente–translúcidos; **metamícticos**: opacos, aspecto resinoso.
 
-- **Brillo:** **Vítreo a adamantino** (sub-adamantino). *[Fuente: es.wikipedia.org]*
+- **Brillo:** **Vítreo a adamantino** (sub-adamantino).
 
-- **Raya:** **Blanca** (rara vez deja raya por dureza 7.5). *[Fuente: es.wikipedia.org]*
+- **Raya:** **Blanca** (rara vez deja raya por dureza 7.5).
 
-- **Forma cristalina:** **Tetragonal**; cristales prismáticos de sección cuadrada, a menudo con **bipirámides**. *[Fuente: es.wikipedia.org]*
+- **Forma cristalina:** **Tetragonal**; cristales prismáticos de sección cuadrada, a menudo con **bipirámides**.
 
 - **Hábito:** **Prismas tetragonales** cortos a tabulares; cristales milimétricos en ígneas. También **granos detríticos** redondeados en sedimentos; en matriz, pequeñas **agujas** o bipirámides engarzadas.
 
-- **Dureza:** **7,5** (Mohs). *[Fuente: es.wikipedia.org]*
+- **Dureza:** **7,5** (Mohs).
 
-- **Peso específico:** **4,6 – 4,7 g/cm³** (muy alto para silicato). *[Fuente: es.wikipedia.org]*
+- **Peso específico:** **4,6 – 4,7 g/cm³** (muy alto para silicato).
 
-- **Clivaje:** **Indistinto** (planos pobres {110}, {111}, rara vez visibles). *[Fuente: es.wikipedia.org]*
+- **Clivaje:** **Indistinto** (planos pobres {110}, {111}, rara vez visibles).
 
-- **Fractura:** **Concoidea a desigual**. *[Fuente: es.wikipedia.org]*
+- **Fractura:** **Concoidea a desigual**.
 
 - **Magnetismo:** **No** magnético.
 
 - **Efervescencia con HCl:** **No** efervescencia; químicamente muy resistente.
 
-- **Origen y ocurrencia:** Accesorio **muy común en ígneas** (granitos, sienitas, pegmatitas y otras félsicas). *[Fuente: es.wikipedia.org]*  
-  Altamente estable: sobrevive **metamorfismo y erosión** → común en metamórficas (recristalizado) y **sedimentos/areniscas** (placeres de minerales pesados). Los más antiguos (Jack Hills, Australia) tienen ~4.4 Ga. *[Fuente: es.wikipedia.org]*
+- **Origen y ocurrencia:** Accesorio **muy común en ígneas** (granitos, sienitas, pegmatitas y otras félsicas).  
+  Altamente estable: sobrevive **metamorfismo y erosión** → común en metamórficas (recristalizado) y **sedimentos/areniscas** (placeres de minerales pesados). Los más antiguos (Jack Hills, Australia) tienen ~4.4 Ga.
 
-- **Variedades:** “**Jacinto**” o “**jacinto de Compostela**” (rojo–naranja), “**jargón**” (amarillo ahumado/incoloro). *[Fuente: es.wikipedia.org]*  
+- **Variedades:** “**Jacinto**” o “**jacinto de Compostela**” (rojo–naranja), “**jargón**” (amarillo ahumado/incoloro).
   El **azul** brillante suele obtenerse por **tratamiento térmico**. Circones con alto U/Th pueden volverse **metamícticos**. **Zirconita/zirconia cúbica** es **sintética** (no variedad natural).
 
-- **Alteración:** Con irradiación intensa (U/Th) sufre **daño estructural** → **metamíctico**, pierde brillo y parte de dureza. *[Fuente: es.wikipedia.org]*  
-  Puede **hidratarse** y disminuir densidad. *[Fuente: es.wikipedia.org]*  
+- **Alteración:** Con irradiación intensa (U/Th) sufre **daño estructural** → **metamíctico**, pierde brillo y parte de dureza.
+  Puede **hidratarse** y disminuir densidad.
   Rara vez se descompone a **baddeleyita (ZrO₂)** + cuarzo en condiciones extremas; en meteorización normal es muy resistente.
 
-- **Usos:** **Gema** (azul, dorado, rojo); tallado facetado (cuidado por **birrefringencia** alta). *[Fuente: es.wikipedia.org]*  
+- **Usos:** **Gema** (azul, dorado, rojo); tallado facetado (cuidado por **birrefringencia** alta).  
   Principal **fuente de circonio** (metal y compuestos para **combustible nuclear**, aleaciones y **cerámicas avanzadas**). **Zirconia (ZrO₂)**: refractario, cuchillos cerámicos, joyería (zirconia cúbica sintética). Arenas de circón: **moldes de fundición** y **filtración**. Clave en **geocronología U–Pb**.
 
 - **Minerales parecidos:** **Casiterita (SnO₂)** y **rutilo (TiO₂)** (ambos tetragonales con brillo adamantino). Casiterita: mucho más densa (~7 g/cm³); rutilo: más blando (6) y **acicular**.  
-  En gemas **incoloras**, puede simular **diamante**, pero el circón es más blando (7.5 vs 10) y muestra **doble refracción**; no confundir con **zirconia cúbica** (sintética, isotrópica). *[Fuente: es.wikipedia.org]*
+  En gemas **incoloras**, puede simular **diamante**, pero el circón es más blando (7.5 vs 10) y muestra **doble refracción**; no confundir con **zirconia cúbica** (sintética, isotrópica).
 
 - **Imagen:** Cristal prismático de **circón pardo** en matriz granítica (Península de Kola, Rusia).  
-  *Se observan caras prismáticas y terminaciones tetragonales (≈43 mm). Brillo adamantino y color pardo característicos.*  
-  *[Fuentes: es.wikipedia.org]*
+  *Se observan caras prismáticas y terminaciones tetragonales (≈43 mm). Brillo adamantino y color pardo característicos.
 
 
 ---
 
 ### Topacio
 
-- **Química:** **Aluminosilicato con flúor y OH**, **Al₂SiO₄(F,OH)₂**. *[Fuente: es.wikipedia.org]*  
+- **Química:** **Aluminosilicato con flúor y OH**, **Al₂SiO₄(F,OH)₂**.
   La proporción F/OH puede variar (F ≫ OH en topacios poco alterados).
 
-- **Color:** Comúnmente **amarillo vino a pardo amarillento**. *[Fuente: es.wikipedia.org]*  
-  También **incoloro**, **azul** (usualmente tratado; natural es raro), **rosado–rosado naranja** (imperial, por Cr), **verdoso pálido** o **rojo** (muy raro). *[Fuente: es.wikipedia.org]*  
+- **Color:** Comúnmente **amarillo vino a pardo amarillento**.  
+  También **incoloro**, **azul** (usualmente tratado; natural es raro), **rosado–rosado naranja** (imperial, por Cr), **verdoso pálido** o **rojo** (muy raro).   
   Muchos azules comerciales son topacios **incoloros irradiados y recocidos**.
 
 - **Transparencia:** Generalmente **transparente** en cristales gemológicos; masivo/microcristalino puede ser **translúcido**. *[Fuente: es.wikipedia.org]*
 
-- **Brillo:** **Vítreo** intenso en caras frescas. *[Fuente: es.wikipedia.org]*
+- **Brillo:** **Vítreo** intenso en caras frescas. 
 
-- **Raya:** **Blanca** (poco visible por dureza). *[Fuente: es.wikipedia.org]*
+- **Raya:** **Blanca** (poco visible por dureza).
 
-- **Forma cristalina:** **Ortorrómbica**. *[Fuente: es.wikipedia.org]*
+- **Forma cristalina:** **Ortorrómbica**. 
 
-- **Hábito:** Típicamente **prismático** (alargado ‖ [001], sección casi rectangular), con **estriaciones longitudinales** frecuentes. *[Fuente: commons.wikimedia.org]*  
+- **Hábito:** Típicamente **prismático** (alargado ‖ [001], sección casi rectangular), con **estriaciones longitudinales** frecuentes.  
   Terminaciones en **pinaoides** {001} (planas) y a veces domos/pirámides; también **masas columnares o granulares** en cavidades pegmatíticas.
 
-- **Dureza:** **8** (Mohs). *[Fuente: es.wikipedia.org]*  
+- **Dureza:** **8** (Mohs).   
   Raya vidrio y acero; sólo corindón/diamante lo rayan. **Frágil a impactos** por clivaje perfecto.
 
-- **Peso específico:** **3,4 – 3,6 g/cm³** (≈3,55). *[Fuente: es.wikipedia.org]*  
-  ~25% más denso que cuarzo (~2,65); útil para distinguirlos. *[Fuente: es.wikipedia.org]*
+- **Peso específico:** **3,4 – 3,6 g/cm³** (≈3,55).  
+  ~25% más denso que cuarzo (~2,65); útil para distinguirlos.
 
-- **Clivaje:** **Exfoliación perfecta basal** {001}. *[Fuente: es.wikipedia.org]*  
-  Se parte fácilmente en láminas paralelas a la base; propiedad diagnóstica (cuarzo **no** tiene clivaje). Requiere cuidado al tallar/engastar. *[Fuente: es.wikipedia.org]*
+- **Clivaje:** **Exfoliación perfecta basal** {001}. 
+  Se parte fácilmente en láminas paralelas a la base; propiedad diagnóstica (cuarzo **no** tiene clivaje). Requiere cuidado al tallar/engastar.
 
 - **Fractura:** **Subconcoidea a irregular** (cuando no rompe por el clivaje); el clivaje perfecto suele dominar.
 
@@ -207,24 +201,23 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 - **Efervescencia con HCl:** **No** hace efervescencia; sólo atacable por ácidos fuertes calientes.
 
-- **Origen y ocurrencia:** Típico de **pegmatitas graníticas** y **vetas hidrotermales** silíceas ricas en volátiles (greisen con casiterita/wolframita); también en cavidades de **riolitas** (p. ej., Topaz Mountain, Utah). *[Fuente: commons.wikimedia.org]*  
+- **Origen y ocurrencia:** Típico de **pegmatitas graníticas** y **vetas hidrotermales** silíceas ricas en volátiles (greisen con casiterita/wolframita); también en cavidades de **riolitas** (p. ej., Topaz Mountain, Utah).
   Raramente en metamórficas alumínicas. Yacimientos clásicos: **Ouro Preto (Brasil)** — topacio imperial; **Siberia** y **Pakistán** — rosados; **Cornwall (Inglaterra)** y **México** — incoloros en greisen. Presente en **depósitos aluviales**.
 
-- **Variedades:** **Topacio Imperial** (amarillo dorado a rosado intenso); **Topacio azul** (casi siempre tratado; azul natural es pálido); **Topacio incoloro** (históricamente confundido con “diamante”); **Topacio Champagne** (marrón claro); **Topacio rosado** (natural muy raro). *[Fuente: es.wikipedia.org]*  
-  *Nota:* antiguamente “topacio” se aplicaba a **cualquier gema amarilla** (p. ej., citrina). *[Fuente: es.wikipedia.org]*
+- **Variedades:** **Topacio Imperial** (amarillo dorado a rosado intenso); **Topacio azul** (casi siempre tratado; azul natural es pálido); **Topacio incoloro** (históricamente confundido con “diamante”); **Topacio Champagne** (marrón claro); **Topacio rosado** (natural muy raro).
+  *Nota:* antiguamente “topacio” se aplicaba a **cualquier gema amarilla** (p. ej., citrina). 
 
-- **Alteración:** Químicamente **resistente**; en meteorización extrema puede formar **caolinita** y **fluorita** (raro). El **color** puede modificarse por **calor** o **irradiación** (marrones palidecen al sol; incoloros pueden amarillear). *[Fuente: es.wikipedia.org]*
+- **Alteración:** Químicamente **resistente**; en meteorización extrema puede formar **caolinita** y **fluorita** (raro). El **color** puede modificarse por **calor** o **irradiación** (marrones palidecen al sol; incoloros pueden amarillear). 
 
-- **Usos:** **Gema** muy apreciada (imperial rosado–naranja; azules intensos tratados). Dureza permite excelente pulido, pero el clivaje exige **manejo cuidadoso**. *[Fuente: es.wikipedia.org]*  
-  Históricamente, el “**Diamante de Braganza**” resultó ser un gran **topacio incoloro**. *[Fuente: es.wikipedia.org]*  
+- **Usos:** **Gema** muy apreciada (imperial rosado–naranja; azules intensos tratados). Dureza permite excelente pulido, pero el clivaje exige **manejo cuidadoso**. 
+  Históricamente, el “**Diamante de Braganza**” resultó ser un gran **topacio incoloro**.  
   Pocos usos industriales (rareza en volumen); antaño como **abrasivo fino**.
 
-- **Minerales parecidos:** **Cuarzo citrino** (color similar), pero el **topacio es más denso** y **tiene clivaje** (cuarzo no). *[Fuente: es.wikipedia.org]*  
+- **Minerales parecidos:** **Cuarzo citrino** (color similar), pero el **topacio es más denso** y **tiene clivaje** (cuarzo no).
   También puede recordar a **diamante** o **zirconia** sintética (diferente dispersión/dureza/RI/densidad). **Heliodoro (berilo)** puede parecerse en color (berilo 7.5, hábito **hexagonal**). En rocas, puede confundirse con **ortosa adularia** (más blanda, 6; otro clivaje).
 
 - **Imagen:** Ejemplar de **topacio amarillo** tallado en forma oval.  
-  *El topacio puede ser incoloro o de diversos tonos; el amarillo dorado es clásico. A diferencia del cuarzo, tiene exfoliación perfecta (no evidente en la gema) y mayor densidad. Su brillo vítreo y dureza lo hacen duradero, aunque debe protegerse de golpes por su clivaje.*  
-  *[Fuentes: commons.wikimedia.org | es.wikipedia.org]*
+  *El topacio puede ser incoloro o de diversos tonos; el amarillo dorado es clásico. A diferencia del cuarzo, tiene exfoliación perfecta (no evidente en la gema) y mayor densidad. Su brillo vítreo y dureza lo hacen duradero, aunque debe protegerse de golpes por su clivaje.
 
 
 ---
