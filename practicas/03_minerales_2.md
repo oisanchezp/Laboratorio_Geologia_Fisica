@@ -35,7 +35,7 @@
 
 
 ```{figure} ../images/olivino.jpg
-    :width: 60%
+    :width: 50%
     :align: center
     :alt: Olivino
 
@@ -43,7 +43,7 @@
 ```
 
 ```{figure} ../images/olivino_2.jpg
-    :width: 60%
+    :width: 40%
     :align: center
     :alt: Olivino_2
 
