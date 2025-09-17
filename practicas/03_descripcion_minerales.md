@@ -339,6 +339,22 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ### Grupo de los Piroxenos
 
+```{figure} ../images/piroxeno.jpg
+    :width: 50%
+    :align: center
+    :alt: Piroxeno
+
+**Piroxeno Tomado de [fuente](https://geologiaweb.com/minerales/piroxenos/)**
+```
+
+```{figure} ../images/piroxeno_2.JPG
+    :width: 50%
+    :align: center
+    :alt: Piroxeno_2
+
+**Piroxeno 2 Tomado de [fuente](https://es.wikipedia.org/wiki/Piroxeno)**
+```
+
 - **Química:** Inosilicatos de **cadena simple**.  
   **Clinopiroxenos:** diopsido CaMgSi₂O₆, hedenbergita CaFeSi₂O₆, **augita** (Ca–Fe–Mg); **aegirina** NaFe³⁺Si₂O₆.  
   **Ortropiroxenos:** enstatita MgSiO₃, ferrosilita FeSiO₃.
