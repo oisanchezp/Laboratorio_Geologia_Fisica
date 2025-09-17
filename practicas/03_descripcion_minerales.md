@@ -659,6 +659,10 @@ Química: SiO₂ (dióxido de silicio); polimorfo trigonal del sistema cuarzo–
 
 - **Minerales parecidos:** Calcita (H=3 y efervescencia en HCl), feldespatos (dos clivajes a ~90°), topacio (H=8 y clivaje perfecto), berilo (prismas hexagonales pero H=7.5–8 y clivaje pobre basal). La fractura concoidea sin clivaje y H=7 son diagnósticos del cuarzo.
 
+---
+
+## Carbonatos
+
 
 
 
