@@ -379,6 +379,22 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ### Grupo de los Anfíboles — **Hornblenda**
 
+```{figure} ../images/hornblenda.jpg
+    :width: 50%
+    :align: center
+    :alt: Hornblenda
+
+**Hornblenda Tomado de [fuente](https://geologiaweb.com/minerales/hornblenda/)**
+```
+
+```{figure} ../images/hornblenda_2.jpg
+    :width: 50%
+    :align: center
+    :alt: Hornblenda_2
+
+**Hornblenda Tomado de [fuente](https://es.wikipedia.org/wiki/Hornblenda)**
+```
+
 - **Química:** Inosilicato de **doble cadena**; fórmula general compleja (Ca,Na)₂–₃(Mg,Fe,Al)₅(Al,Si)₈O₂₂(OH,F)₂.
 - **Color:** Negro a verde oscuro.
 - **Transparencia:** Opaca a translúcida en bordes delgados.
