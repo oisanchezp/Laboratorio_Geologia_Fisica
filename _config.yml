@@ -18,7 +18,8 @@ parse:
     - dollarmath
     - amsmath
     - colon_fence
-    - attrs
+    - attrs_inline
+    - attrs_block
 
 execute:
   execute_notebooks: "off"   # cambia a "auto" si quieres ejecutar en build
