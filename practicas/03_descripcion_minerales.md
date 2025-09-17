@@ -1,4 +1,6 @@
-# Minerales 2
+# Descripción de Minerales
+
+Se describen los principales minerales que se encuentran en rocas ígneas, metamórficas y sedimentarias, con énfasis en sus propiedades físicas y químicas para su identificación en el laboratorio.
 
 ## Principales Minerales y sus Propiedades Físicas
 
