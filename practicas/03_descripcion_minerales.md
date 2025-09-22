@@ -2054,7 +2054,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
     :align: center
     :alt: Arsenopirita
 
-**Arsenopirita Tomado de [fuente](https://es.wikipedia.org/wiki/Arsenopirita)**
+**Arsenopirita Tomado de [fuente](https://museomine.unizar.es/arsenopirita/)**
 ```
 
 - **Química:** Sulfuro de hierro y arsénico. Fórmula general FeAsS.
@@ -2323,40 +2323,633 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ### **Yeso**
 
+```{figure} ../images/yeso.png
+    :width: 50%
+    :align: center
+    :alt: Yeso
+
+**Yeso Tomado de [fuente](https://mineriaenlinea.com/rocas_y_minerales/yeso/)**
+```
+
+- **Química:** Sulfato de calcio hidratado. Fórmula general CaSO₄·2H₂O.
+
+- **Color:** Generalmente blanco o incoloro; puede ser también gris, amarillento, rosado o pardo por impurezas.
+
+- **Transparencia:** Normalmente translúcido a transparente en cristales bien formados (“selenita”); en agregados masivos suele ser opaco.
+
+- **Brillo:** No metálico vítreo a sedoso en fibras; nacarado en superficies de clivaje.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Monoclínica (sistema cristalino). Cristales prismáticos, tabulares o aciculares; también laminares.
+
+- **Hábito:**
+
+  - Cristales tabulares o laminares grandes (selenita).
+
+  - Fibroso (variedad “yeso fibroso”).
+
+  - Masivo granular (alabastro).
+
+  - Rosetas de yeso o “rosas del desierto” en ambientes áridos.
+
+- **Dureza:** 2 (Mohs). Muy blando, se raya fácilmente con la uña.
+
+- **Peso específico:** Bajo, alrededor de 2,3 g/cm³. En mano se siente ligero frente a otros minerales comunes.
+
+- **Clivaje:** Perfecto en una dirección, bien visible en cristales laminares.
+
+- **Fractura:** Irregular a fibrosa.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Mineral evaporítico, se forma por precipitación en lagos y mares interiores. Común en asociaciones con halita y anhidrita. También en depósitos de arcillas, margas y calizas evaporíticas.
+
+- **Variedades:**
+
+  - Selenita: cristales transparentes y bien formados.
+
+  - Alabastro: masivo, blanco y compacto, usado en escultura.
+
+  - Yeso fibroso: de hábito acicular, con brillo sedoso.
+
+  - Rosa del desierto: agregados radiados con arena, típicos de zonas áridas.
+
+- **Alteración:** Puede deshidratarse a anhidrita (CaSO₄) en condiciones de calor o baja humedad.
+
+- **Usos:**
+
+  - Materia prima del yeso de construcción y escayola.
+
+  - Cemento y fertilizantes.
+
+  - Tallado y ornamentación (alabastro).
+
+  - Cristales de selenita se usan en coleccionismo y decoración.
+
+- **Minerales parecidos:** Puede confundirse con calcita (más dura, efervescente con HCl), con halita (sabor salado, más soluble), y con anhidrita (más dura, sin agua en su fórmula).
+
+
 ---
 
 ## **FOSFATOS**
 
 ### **Apatito**
 
+```{figure} ../images/apatito.png
+    :width: 50%
+    :align: center
+    :alt: Apatito
+
+**Apatito Tomado de [fuente](https://geologiaweb.com/minerales/apatita/)**
+```
+
+
+- **Química:** Fosfato de calcio con flúor, cloro o hidroxilo. Fórmula general Ca₅(PO₄)₃(F,Cl,OH). Existen tres variedades principales: fluorapatito, clorapatito e hidroxiapatito.
+
+- **Color:** Muy variable: verde, azul, amarillo, violeta, rosado, pardo o incoloro. El más común en muestra de mano es verde azuloso.
+
+- **Transparencia:** Transparente a translúcido en cristales; opaco en agregados masivos.
+
+- **Brillo:** No metálico vítreo a resinoso; en superficies frescas puede parecer graso.
+
+- **Raya:** Blanca o incolora.
+
+- **Forma cristalina:** Sistema hexagonal. Cristales típicos prismáticos hexagonales con terminaciones piramidales.
+
+- **Hábito:**
+
+  - Prismático hexagonal en cristales bien desarrollados.
+
+  - Masivo granular o compacto en rocas ígneas y metamórficas.
+
+  - A veces en agregados radiales o columnares.
+
+- **Dureza:** 5 (Mohs). Rasgo característico: define el nivel 5 de la escala de Mohs. Se raya con cuchillo de acero, pero más duro que la fluorita (4).
+
+- **Peso específico:** Medio, 3,1 – 3,2 g/cm³.
+
+- **Clivaje:** Pobre en una dirección (basal), poco visible.
+
+- **Fractura:** Concoidea a irregular, quebradiza.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona en frío.
+
+- **Origen y ocurrencia:** Mineral accesorio común en rocas ígneas y metamórficas (granitos, sienitas, gneises, esquistos). Presente en rocas sedimentarias fosfáticas y en depósitos de guano. Constituye un mineral fundamental en el ciclo del fósforo.
+
+- **Variedades:**
+
+  - Fluorapatito: rica en flúor, más común en la naturaleza.
+
+  - Clorapatito y hidroxiapatito menos frecuentes.
+
+  - Variedades de colores intensos se tallan como gemas.
+
+- **Alteración:** Puede alterarse a minerales secundarios de fosfato en condiciones de meteorización (wavellita, turquesa).
+
+- **Usos:**
+
+  - Principal fuente de fósforo para la fabricación de fertilizantes.
+
+  - Uso en la industria química y en la producción de ácido fosfórico.
+
+  - Variedades transparentes se usan en joyería como gema semipreciosa.
+
+  - El hidroxiapatito es componente esencial de huesos y dientes en organismos vivos.
+
+- **Minerales parecidos:** Puede confundirse con berilo verde (más duro, 7,5–8), turmalina verde (dureza 7–7,5, hábito distinto) o olivino (más pesado, sin hábito hexagonal).
+
 ---
 
-## **ELMENTOS NATIVOS**
+## **ELEMENTOS NATIVOS**
 
 ### **Oro**
+
+```{figure} ../images/oro.png
+    :width: 50%
+    :align: center
+    :alt: Oro
+
+**Oro Tomado de [fuente](https://es.wikipedia.org/wiki/Oro_nativo)**
+```
+
+- **Química:** Elemento nativo. Fórmula química Au (oro metálico). Puede contener trazas de Ag, Cu, Fe o Pd formando aleaciones naturales (ej. electrum: Au–Ag).
+
+- **Color:** Muy característico, amarillo metálico brillante; puede variar a amarillo pálido o verdoso si contiene más plata (electrum).
+
+- **Transparencia:** Opaco en todas sus formas.
+
+- **Brillo:** Metálico intenso y reluciente, inconfundible en muestra de mano.
+
+- **Raya:** Amarillo dorado, coincide con el color del mineral (rasgo diagnóstico frente a la pirita).
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales típicos octaédricos o dodecaédricos son raros; lo más común son granos irregulares.
+
+- **Hábito:**
+
+  - Masivo y granular en vetas de cuarzo.
+
+  - Escamas, láminas o pepitas en depósitos aluviales.
+
+  - Cristales bien formados son poco frecuentes.
+
+- **Dureza:** 2,5 – 3 (Mohs). Blando; se raya fácilmente con cuchillo o incluso con cobre. Puede aplanarse con presión (maleable).
+
+- **Peso específico:** Muy alto, 15,5 – 19,3 g/cm³, dependiendo del contenido en plata. Se siente muy pesado en mano, rasgo clave en identificación.
+
+- **Clivaje:** Ausente.
+
+- **Fractura:** Irregular a dentada, pero poco visible porque es maleable.
+
+- **Magnetismo:** No magnético.
+
+- **Efervescencia con HCl:** No reacciona. Resistente a la mayoría de los ácidos; solo se disuelve en agua regia (mezcla de HCl y HNO₃).
+
+- **Origen y ocurrencia:** Se forma en vetas hidrotermales de cuarzo, en depósitos de placer (aluviales), y en depósitos metamórficos y volcánicos asociados a sulfuros (pirita, arsenopirita). Es un elemento nativo raro pero económicamente muy importante.
+
+- **Variedades:**
+
+  - Electrum: aleación natural de oro y plata (amarillo pálido).
+
+  - Oro nativo puro (amarillo intenso).
+
+- **Alteración:** Muy resistente a la meteorización; puede concentrarse en depósitos secundarios aluviales tras la erosión de vetas primarias.
+
+- **Usos:**
+
+  - Metal precioso para monedas, joyería y lingotes.
+
+  - Industria electrónica (alta conductividad, resistencia a la corrosión).
+
+  - Medicina (implantes, tratamientos).
+
+  - Base histórica de sistemas monetarios (patrón oro).
+
+- **Minerales parecidos:** Puede confundirse con pirita (“oro de los tontos”, más dura, raya negra verdosa, menos densa), con calcopirita (más blanda, iridiscente, raya gris verdosa), y con cobre nativo (color rojizo metálico, densidad menor).
+
 
 ---
 
 ### **Plata**
 
+```{figure} ../images/plata.png
+    :width: 50%
+    :align: center
+    :alt: Plata
+
+**Plata Tomado de [fuente](https://mineriaenlinea.com/rocas_y_minerales/plata/)**
+```
+
+- **Química:** Elemento nativo. Fórmula química Ag (plata metálica). Puede formar aleaciones naturales con Au, Cu, Hg, Pd (ej. electrum con Au, amalgamas con Hg).
+
+- **Color:** Blanco plateado metálico, fresco y brillante; puede adquirir pátina gris oscura o negruzca por oxidación superficial.
+
+- **Transparencia:** Opaca en todas sus formas.
+
+- **Brillo:** Metálico muy brillante, aunque se empaña con el tiempo.
+
+- **Raya:** Blanca plateada a gris clara.
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales típicos dendríticos, filiformes o arborescentes; menos común en cubos u octaedros bien definidos.
+
+- **Hábito:**
+
+  - Masivo y en vetas asociado con cuarzo y sulfuros.
+
+  - Dendrítico o filiforme (ramificaciones metálicas).
+
+  - Láminas y granos irregulares en depósitos secundarios.
+
+- **Dureza:** 2,5 – 3 (Mohs). Blando; se raya fácilmente con cuchillo. Maleable y dúctil.
+
+- **Peso específico:** Alto, 10,0 – 11,0 g/cm³, menor que el oro pero se siente claramente pesada en mano.
+
+- **Clivaje:** Ausente.
+
+- **Fractura:** Irregular a dentada; puede deformarse antes de fracturar.
+
+- **Magnetismo:** No magnética.
+
+- **Efervescencia con HCl:** No reacciona; pero se ennegrece en contacto con sulfuro de hidrógeno (H₂S) formando sulfuro de plata (Ag₂S).
+
+- **Origen y ocurrencia:** Se encuentra en vetas hidrotermales con sulfuros (galena, esfalerita, pirita), en depósitos metamórficos y en menor medida en placeres secundarios. Puede aparecer asociada a oro nativo y a minerales de plata (argentita, proustita).
+
+- **Variedades:**
+
+  - Electrum: aleación natural de plata y oro.
+
+  - Plata filiforme o dendrítica: muy común en vetas hidrotermales.
+
+- **Alteración:** Superficialmente se altera a sulfuro de plata (Ag₂S), responsable del ennegrecimiento.
+
+- **Usos:**
+
+  - Monedas y joyería desde la antigüedad.
+
+  - Industria fotográfica (nitrato de plata).
+
+  - Electrónica y medicina (alta conductividad eléctrica y propiedades antibacterianas).
+
+  - Instrumentos musicales y objetos decorativos.
+
+- **Minerales parecidos:** Puede confundirse con estaño nativo (más grisáceo, densidad menor), con platino nativo (más pesado, color gris acero), y con sulfuros brillantes como galena (más frágil, densidad muy alta, raya gris oscura).
+
 ---
 
 ### **Platino**
+
+```{figure} ../images/platino.png
+    :width: 50%
+    :align: center
+    :alt: Platino
+
+**Platino Tomado de [fuente](https://clickmica.fundaciondescubre.es/conoce/elementos-quimicos/platino/)**
+```
+
+- **Química:** Elemento nativo. Fórmula química Pt. Suele contener impurezas o formar aleaciones naturales con Fe, Ni, Cu, Ir, Pd, Rh y Au.
+
+- **Color:** Gris acero a blanco plateado, menos brillante que la plata pero más estable en superficie.
+
+- **Transparencia:** Opaco en todas sus formas.
+
+- **Brillo:** Metálico brillante, persistente (no se empaña ni se oxida fácilmente).
+
+- **Raya:** Gris.
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales bien formados son muy raros; se presenta sobre todo en granos.
+
+- **Hábito:**
+
+  - Masivo o granular, en pequeños granos metálicos.
+
+  - Pepitas en depósitos de placer.
+
+  - Escamas o dendrítico, muy poco común.
+
+- **Dureza:** 4 – 4,5 (Mohs). Más duro que el oro y la plata, aunque aún blando comparado con silicatos.
+
+- **Peso específico:** Muy alto, 14 – 19 g/cm³, se siente muy pesado en mano (similar al oro).
+
+- **Clivaje:** Ausente.
+
+- **Fractura:** Irregular a astillosa; maleable y dúctil, puede deformarse antes de fracturar.
+
+- **Magnetismo:** Generalmente no magnético; pero algunas aleaciones con Fe y Ni pueden mostrar débil magnetismo.
+
+- **Efervescencia con HCl:** No reacciona; extremadamente resistente a la corrosión y al ataque químico. Solo se disuelve en agua regia (mezcla de HCl y HNO₃), como el oro.
+
+- **Origen y ocurrencia:** Aparece en depósitos ígneos ultramáficos (peridotitas, dunas, cromititas) asociado a minerales de Fe, Ni y Cr. Muy común en depósitos de placer, donde se concentra por su alta densidad y resistencia.
+
+  - Aparece en depósitos ígneos ultramáficos (peridotitas, dunas, cromititas) asociado a minerales de Fe, Ni y Cr.
+
+  - Muy común en depósitos de placer, donde se concentra por su alta densidad y resistencia.
+
+  - Asociado a sulfuros de Ni y Cu en yacimientos estratiformes.
+
+- **Variedades:** Se encuentra generalmente como platino nativo; sus aleaciones naturales con Ir, Os y Rh son conocidas como osmiridio y iridio-platinum.
+
+- **Alteración:** Muy resistente a meteorización y alteración superficial; tiende a acumularse en depósitos secundarios aluviales.
+
+- **Usos:**
+
+  - Joyería y orfebrería (alta durabilidad, brillo y rareza).
+
+  - Catalizador industrial (reacciones químicas, automotriz).
+
+  - Electrónica, medicina e instrumentos de precisión.
+
+  - Metal estratégico por su resistencia y aplicaciones tecnológicas.
+
+- **Minerales parecidos:** Puede confundirse con plata (más clara, menos densa, se empaña con el tiempo), paladio (más liviano, color más blanco), o con galena (similar densidad aparente, pero galena es frágil, con clivaje cúbico y raya negra).
 
 ---
 
 ### **Cobre**
 
+```{figure} ../images/cobre.png
+    :width: 50%
+    :align: center
+    :alt: Cobre
+
+**Cobre Tomado de [fuente](https://es.wikipedia.org/wiki/Cobre)**
+```
+
+- **Química:** Elemento nativo. Fórmula química Cu. Puede contener impurezas o formar aleaciones naturales con Ag, Au, As, Sb, Fe y otros metales.
+
+- **Color:** Rojizo metálico brillante en superficies frescas; se torna pardo oscuro o verdoso al alterarse (pátina de óxidos y carbonatos de cobre, como malaquita y azurita).
+
+- **Transparencia:** Opaco.
+
+- **Brillo:** Metálico brillante en superficies recién fracturadas; se opaca fácilmente en exposición superficial.
+
+- **Raya:** Rojiza metálica (coincide con su color).
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales bien formados son raros; cuando aparecen suelen ser dendríticos, filiformes o cúbicos.
+
+- **Hábito:**
+
+  - Masivo y granular en vetas hidrotermales.
+
+  - Dendrítico o filiforme en cavidades de rocas.
+
+  - Pepitas o escamas en depósitos secundarios y placeres.
+
+- **Dureza:** 2,5 – 3 (Mohs). Blando; se raya con cuchillo y puede aplanarse con presión (maleable).
+
+- **Peso específico:** Alto, 8,5 – 9,0 g/cm³, más liviano que oro y platino pero aún claramente pesado en mano.
+
+- **Clivaje:** Ausente.
+
+- **Fractura:** Irregular a astillosa, pero debido a su maleabilidad tiende a deformarse antes de fracturarse.
+
+- **Magnetismo:** No magnético en estado puro; algunas aleaciones con Fe pueden mostrar débil magnetismo.
+
+- **Efervescencia con HCl:** No reacciona; se oxida lentamente en ambientes húmedos formando pátinas verdes (malaquita, azurita).
+
+- **Origen y ocurrencia:**
+
+  - Aparece en vetas hidrotermales asociado con sulfuros de cobre (calcopirita, bornita).
+
+  - Se encuentra en rocas basálticas y en depósitos de oxidación como mineral secundario.
+
+  - Es frecuente en depósitos de placer en forma de pepitas o granos.
+
+- **Variedades:** Se distingue principalmente por su forma: cobre masivo, dendrítico, filiforme y granular.
+
+- **Alteración:** Muy susceptible a alterarse en superficie, formando óxidos (cuprita), carbonatos (malaquita, azurita) y sulfatos de cobre.
+
+- **Usos:**
+
+  - Metal industrial fundamental (alta conductividad eléctrica y térmica).
+
+  - Fabricación de cables, tuberías, monedas y aleaciones (bronce = Cu + Sn, latón = Cu + Zn).
+
+  - Uso en ornamentación y joyería desde la antigüedad.
+
+- **Minerales parecidos:** Puede confundirse con oro (más amarillo, más pesado, raya dorada) y con plata (color blanco metálico, menos rojiza). También con sulfuros como bornita (color bronce iridiscente, más frágil).
+
 ---
 
 ### **Azufre**
 
----
+```{figure} ../images/azufre.png
+    :width: 50%
+    :align: center
+    :alt: Azufre
 
-### **Diamante**
+**Azufre Tomado de [fuente](https://geologiaweb.com/minerales/azufre/)**
+```
+
+- **Química:** Elemento nativo. Fórmula química S. Puede contener trazas de selenio, arsénico y telurio.
+
+- **Color:** Muy característico, amarillo limón a amarillo intenso; puede presentar tonos anaranjados o pardos por impurezas.
+
+- **Transparencia:** Transparente a translúcido en cristales frescos; opaco en agregados terrosos o masivos.
+
+- **Brillo:** No metálico resinoso a graso; puede ser dull/terroso en masas pulverulentas.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema ortorrómbico. Cristales típicos bipiramidales, prismáticos o tabulares; también se presenta en agregados masivos.
+
+- **Hábito:**
+
+  - Cristales bipiramidales amarillos brillantes en depósitos volcánicos.
+
+  - Masivo terroso o pulverulento en capas sedimentarias.
+
+  - Costras y agregados botroidales cerca de fumarolas y manantiales sulfurosos.
+
+- **Dureza:** 1,5 – 2,5 (Mohs). Muy blando; se raya con facilidad con la uña.
+
+- **Peso específico:** Bajo, 2,0 – 2,1 g/cm³. Se siente muy ligero en mano.
+
+- **Clivaje:** Pobre en dos direcciones; poco visible en muestra de mano.
+
+- **Fractura:** Concoidea a irregular; quebradizo.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Propiedades especiales:** Arde fácilmente con llama azul desprendiendo olor acre a dióxido de azufre (SO₂).
+
+- **Origen y ocurrencia:**
+
+  - Se forma en ambientes volcánicos (fumarolas, solfataras, manantiales sulfurosos).
+
+  - También en depósitos sedimentarios evaporíticos asociados a yeso, anhidrita y calcita.
+
+  - Se encuentra en zonas de reducción bacteriana de sulfatos en cuencas sedimentarias.
+
+- **Variedades:** Principalmente diferenciadas por el hábito: azufre cristalino (cristales bien formados) y azufre masivo (terroso o pulverulento).
+
+- **Alteración:** Se oxida a sulfatos (yeso, barita) en ambientes superficiales.
+
+- **Usos:**
+
+  - Industria química: producción de ácido sulfúrico, fertilizantes, pólvora.
+
+  - Medicina y cosmética (ungüentos, jabones antisépticos).
+
+  - Pirotecnia y cerillas.
+
+- **Minerales parecidos:** Difícil de confundir por su color amarillo intenso y baja densidad; puede confundirse con orpimento (amarillo anaranjado, raya amarilla más fuerte, toxicidad por As) o con realgar (rojo-anaranjado).
 
 ---
 
 ### **Grafito**
 
+```{figure} ../images/grafito.png
+    :width: 50%
+    :align: center
+    :alt: Grafito
+
+**Grafito Tomado de [fuente](https://geologiaweb.com/minerales/grafito/)**
+```
+
+- **Química:** Carbono nativo. Fórmula química C. Polimorfo del diamante (misma composición pero distinta estructura cristalina).
+
+- **Color:** Negro a gris acero.
+
+- **Transparencia:** Generalmente opaco; en escamas muy delgadas puede ser translúcido a marrón oscuro.
+
+- **Brillo:** Metálico a submetálico en superficies cristalinas; mate terroso en agregados.
+
+- **Raya:** Negra a gris oscuro.
+
+- **Forma cristalina:** Sistema hexagonal. Cristales bien formados son raros; más frecuente en escamas laminares.
+
+**Hábito:**
+
+  - Escamoso, laminar o foliado en esquistos y gneises.
+
+  - Masivo terroso en depósitos.
+
+  - Cristales tabulares o hexagonales muy poco comunes.
+
+- **Dureza:** 1 – 2 (Mohs). Muy blando; se raya fácilmente con la uña.
+
+- **Peso específico:** Muy bajo, 2,1 – 2,3 g/cm³. Se siente ligero en mano.
+
+- **Clivaje:** Perfecto en una dirección (basal), permitiendo separar en láminas delgadas.
+
+- **Fractura:** Escamosa a irregular.
+
+- **Magnetismo:** No magnético.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Propiedades especiales:** Muy blando y untuoso al tacto; deja una marca negra sobre el papel (diagnóstico clave).
+
+- **Origen y ocurrencia:**
+
+  - Se forma por metamorfismo de rocas ricas en carbono (carbón, margas bituminosas).
+
+  - También en rocas ígneas (granitos, pegmatitas) y en nódulos meteóricos.
+
+  - Asociado a esquistos grafitosos y mármoles metamórficos.
+
+- **Variedades:**
+
+  - Grafito escamoso (en esquistos).
+
+  - Grafito amorfo (masivo, terroso).
+
+  - Grafito en vetas (en fracturas hidrotermales).
+
+- **Alteración:** Muy estable; no suele alterarse químicamente, aunque puede oxidarse superficialmente a CO₂ en ambientes extremos.
+
+- **Usos:**
+
+  - Industria: fabricación de electrodos, lubricantes, refractarios y baterías.
+
+  - Lápices (mezclado con arcilla).
+
+  - Tecnología avanzada: grafeno y compuestos de carbono.
+
+- **Minerales parecidos:** Puede confundirse con molibdenita (MoS₂) (similar en tacto untuoso y hábito laminar, pero molibdenita tiene raya azul-gris y mayor densidad) o con galena (más dura, pesada y con clivaje cúbico).
+
 ---
+
+### **Diamante**
+
+```{figure} ../images/diamante.png
+    :width: 50%
+    :align: center
+    :alt: Diamante
+
+**Diamante Tomado de [fuente](https://diamantesjaviergarcia.com/blog/los-diamantes-naturales-origen-calidad-y-autenticidad)**
+```
+
+- **Química:** Carbono nativo. Fórmula química C. Polimorfo del grafito (misma composición, distinta estructura cristalina).
+
+- **Color:** Usualmente incoloro o transparente en su forma pura. Puede presentar tonos amarillos, pardos, azulados, verdes, rosados o negros debido a impurezas o defectos estructurales.
+
+- **Transparencia:** Generalmente transparente a translúcido en cristales de calidad gema; opaco en diamantes industriales o negros.
+
+- **Brillo:** Adamantino muy intenso, rasgo diagnóstico.
+
+- **Raya:** Incolora (más duro que la placa de raya, no deja marca visible).
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales típicos octaédricos, cúbicos o dodecaédricos, a menudo con caras redondeadas o estriadas.
+
+- **Hábito:**
+
+  - Cristales octaédricos o cúbicos en rocas ígneas ultramáficas.
+
+  - Masivo granular en depósitos industriales.
+
+  - Fragmentos rodados en depósitos de placer.
+
+- **Dureza:** 10 (Mohs). Mineral más duro conocido en la escala de Mohs; raya a todos los demás minerales.
+
+- **Peso específico:** Alto, alrededor de 3,5 g/cm³.
+
+- **Clivaje:** Perfecto en cuatro direcciones (octaédrico), aunque difícil de ver sin fractura controlada.
+
+- **Fractura:** Concoidea a irregular; quebradizo pese a su dureza.
+
+- **Magnetismo:** No magnético.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Propiedades especiales:**
+
+  - Extremadamente duro pero frágil a lo largo de clivajes.
+
+  - Alta dispersión de la luz, lo que le da su brillo “fuego” característico.
+
+- **Origen y ocurrencia:**
+
+  - Se forma en el manto superior terrestre a profundidades de más de 150 km y altas presiones.
+
+  - Transportado a la superficie en kimberlitas y lamproítas.
+
+  - Común en depósitos aluviales (placeres).
+
+  - También se ha identificado en algunos meteoritos.
+
+- **Variedades:**
+
+  - Diamante gema: transparente y de calidad joyera.
+
+  - Bort: diamante industrial de baja calidad.
+
+  - Carbonado (diamante negro): agregado policristalino muy duro.
+
+- **Alteración:** Muy resistente a meteorización y alteración química; persiste en sedimentos y placeres.
+
+- **Usos:**
+
+  - **Joyería (gemas).**
+
+  - Industria: corte, pulido, perforación y abrasivos.
+
+  - Tecnología avanzada: semiconductores, láseres y aplicaciones electrónicas.
+
+- **Minerales parecidos:** Puede confundirse con cuarzo incoloro (más blando, dureza 7, sin clivaje), corindón (dureza 9, raya blanca, hábito hexagonal), o topacio (dureza 8, clivaje basal).
