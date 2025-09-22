@@ -5,7 +5,7 @@
 Se describen los principales minerales que se encuentran en rocas ígneas, metamórficas y sedimentarias, con énfasis en sus propiedades físicas y químicas para su identificación en el laboratorio.
 
 ---
-## **Silicatos**
+## **SILICATOS**
 
 ### **Olivino (Grupo del Olivino)**
 
@@ -1098,7 +1098,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## **Carbonatos**
+## **CARBONATOS**
 
 ### **Calcita** 
 
@@ -1428,7 +1428,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## **Haluros**
+## **HALUROS**
 
 ### **Halita**
 
@@ -1630,7 +1630,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-## **Oxidos**
+## **ÓXIDOS**
 
 ### **Hematita**
 
@@ -1833,3 +1833,530 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
+## **HIDRÓXIDOS**
+
+### **Goethita**
+
+```{figure} ../images/goethita.png
+    :width: 50%
+    :align: center
+    :alt: Goethita
+
+**Goethita Tomado de [fuente](https://museomine.unizar.es/goethita/)**
+```
+
+- **Química:** Mezcla de minerales hidróxidos de aluminio (principalmente gibbsita [Al(OH)₃], boehmita [γ-AlO(OH)] y diaspora [α-AlO(OH)]), acompañados de óxidos/hidróxidos de hierro, sílice y titanio.
+
+- **Color:** Típicamente rojo ladrillo, pardo rojizo o anaranjado por el contenido en óxidos de Fe. También puede ser blanquecina o grisácea en variedades ricas en gibbsita pura.
+
+- **Transparencia:** Generalmente opaca.
+
+- **Brillo:** No metálico terroso a mate; raramente subvítreo en fragmentos frescos.
+
+- **Raya:** Blanca a pardo clara.
+
+- **Forma cristalina:** No es un mineral único, sino un agregado microcristalino de hidróxidos de aluminio. Carece de cristales bien formados.
+
+- **Hábito:**
+
+  - Masivo, terroso o pisolítico (concreciones redondeadas como “bolitas”).
+
+  - También en nódulos y capas compactas.
+
+- **Dureza:** 1 – 3 (Mohs), variable según la proporción de minerales presentes.
+
+- **Peso específico:** Medio, alrededor de 2,3 – 2,7 g/cm³.
+
+- **Clivaje:** Ausente; se presenta masivo.
+
+- **Fractura:** Irregular, terrosa.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Se forma por meteorización intensa y lateritización de rocas aluminosas (granitos, basaltos, esquistos). Aparece en climas tropicales y subtropicales como depósitos de laterita y capas superficiales.
+
+- **Variedades:** Diferenciada según el mineral dominante: gibbsítica, boehmítica o diaspórica.
+
+- **Alteración:** Es en sí un producto final de alteración de feldespatos, micas y otros silicatos alumínicos.
+
+- **Usos:** Principal mena de aluminio en la industria (extracción de alúmina y aluminio metálico). También usada en la producción de abrasivos y refractarios.
+
+- **Minerales parecidos:** Puede confundirse con limonita (similar color y hábito pisolítico, pero más densa y con mayor contenido de Fe), o con caolinita (más blanda, blanca y terrosa).
+
+
+
+### **Bauxita**
+
+```{figure} ../images/bauxita.png
+    :width: 50%
+    :align: center
+    :alt: Bauxita
+
+**Bauxita Tomado de [fuente](https://geologiaweb.com/minerales/bauxita/)**
+```
+
+- **Química:** Hidróxido de hierro. Fórmula general FeO(OH).
+
+- **Color:** Usualmente pardo amarillento, pardo rojizo a negro; el polvo fino es ocre amarillento.
+
+- **Transparencia:** Opaca, raramente translúcida en fragmentos delgados.
+
+- **Brillo:** No metálico adamantino a submetálico en cristales; más comúnmente mate o terroso en agregados masivos.
+
+- **Raya:** Pardo amarillento a ocre, diagnóstica.
+
+- **Forma cristalina:** Sistema ortorrómbico. Cristales prismáticos o aciculares son raros; más frecuente en agregados.
+
+- **Hábito:**
+
+  - Masivo terroso o botroidal (superficies redondeadas).
+
+  - Fibroso y radial en estalactitas.
+
+  - Terroso pulverulento en suelos (limonita).
+
+- **Dureza:** 5 – 5,5 (Mohs). Se raya con dificultad con un cuchillo.
+
+- **Peso específico:** Medio-alto, 3,3 – 4,3 g/cm³.
+
+- **Clivaje:** Indistinto o ausente.
+
+- **Fractura:** Irregular a astillosa.
+
+- **Magnetismo:** Generalmente no magnética, aunque puede volverse débilmente magnética al calentarse (deshidratación → hematita).
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Se forma como mineral secundario de alteración de minerales de hierro (magnetita, hematita, pirita). Común en depósitos de limonita, suelos tropicales, lateritas y ambientes de meteorización.
+
+- **Variedades:**
+
+  - Lepidocrocita (polimorfo estructural).
+
+  - Limonita: término genérico para mezclas amorfas de goetita hidratada y otros óxidos/hidróxidos de Fe.
+
+- **Alteración:** Se deshidrata fácilmente a hematita (Fe₂O₃) por calentamiento o exposición prolongada.
+
+- **Usos:**
+
+  - Fuente secundaria de hierro (mena de Fe en algunos depósitos).
+
+  - Usada como pigmento natural (ocre amarillo y pardo).
+
+- **Indicador geoquímico:** de meteorización y condiciones oxidantes.
+
+- **Minerales parecidos:** Puede confundirse con hematita (raya roja, brillo más metálico), limonita (mezcla amorfa, raya amarillenta similar), o psilomelana (más negra, diferente composición).
+
+---
+
+## **SULFUROS**
+
+### **Pirita**
+
+```{figure} ../images/pirita.png
+    :width: 50%
+    :align: center
+    :alt: Pirita
+
+**Pirita Tomado de [fuente](https://laminadeplata.com/blog/gemas-y-minerales/piedra-de-pirita-propiedades-y-usos/?srsltid=AfmBOoq40wWHHMo1rjXG-8ddpRO5Gz5D3y9UzwvnWbedI-V3J32mkE_j)**
+```
+
+- **Química:** Disulfuro de hierro. Fórmula general FeS₂.
+
+- **Color:** Amarillo latón brillante, a veces con tonos dorados intensos.
+
+- **Transparencia:** Opaca.
+
+- **Brillo:** Metálico intenso.
+
+- **Raya:** Negra verdosa.
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales típicos cúbicos, octaédricos y piritoedros.
+
+- **Hábito:**
+
+  - Cristales cúbicos perfectos.
+
+  - Masivo o granulado en vetas.
+
+  - A menudo en agregados nodulares (“concreciones piritizadas”).
+
+- **Dureza:** 6 – 6,5 (Mohs). Raya el vidrio, más dura que la calcopirita.
+
+- **Peso específico:** Medio-alto, 5,0 – 5,2 g/cm³.
+
+- **Clivaje:** Indistinto.
+
+- **Fractura:** Concoidea a irregular.
+
+- **Magnetismo:** No magnética en estado normal.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Muy común en rocas ígneas, metamórficas y sedimentarias; aparece en vetas hidrotermales y en concreciones sedimentarias.
+
+- **Usos:** Principal mena de azufre, antiguamente fuente de ácido sulfúrico; hoy de interés coleccionista.
+
+- **Minerales parecidos:** Se confunde con calcopirita (más blanda, raya negra grisácea) y con marcasita (mismo FeS₂ pero ortorrómbica, más inestable).
+
+---
+
+### **Calcopirita**
+
+```{figure} ../images/calcopirita.png
+    :width: 50%
+    :align: center
+    :alt: Calcopirita
+
+**Calcopirita Tomado de [fuente](https://www.geovirtual2.cl/Mineral/Calcopirita-01.htm)**
+```
+
+- **Química:** Sulfuro de cobre y hierro. Fórmula general CuFeS₂.
+
+- **Color:** Amarillo latón con matiz dorado más apagado que la pirita; a veces con irisaciones púrpura, azul o rojizas.
+
+- **Transparencia:** Opaca.
+
+- **Brillo:** Metálico.
+
+- **Raya:** Negra grisácea con tinte verdoso.
+
+- **Forma cristalina:** Sistema tetragonal. Cristales definidos raros, suele ser masiva.
+
+- **Hábito:** Masivo y granular en vetas. Menos común en cristales tetraédricos.
+
+- **Dureza:** 3,5 – 4 (Mohs). Más blanda que la pirita; se raya con cuchillo.
+
+- **Peso específico:** Medio, 4,1 – 4,3 g/cm³.
+
+- **Clivaje:** Indistinto.
+
+- **Fractura:** Irregular a desigual.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Principal mena de cobre; típica en vetas hidrotermales de temperatura intermedia y alta.
+
+- **Usos:** Fuente más importante de cobre a nivel mundial.
+
+- **Minerales parecidos:** Fácil de confundir con pirita (más dura, raya diferente), y con bornita (más oscura, con irisaciones más intensas).
+
+---
+
+### **Arsenopirita**
+
+```{figure} ../images/arsenopirita.png
+    :width: 50%
+    :align: center
+    :alt: Arsenopirita
+
+**Arsenopirita Tomado de [fuente](https://es.wikipedia.org/wiki/Arsenopirita)**
+```
+
+- **Química:** Sulfuro de hierro y arsénico. Fórmula general FeAsS.
+
+- **Color:** Gris acero a plateado.
+
+- **Transparencia:** Opaca.
+
+- **Brillo:** Metálico brillante.
+
+- **Raya:** Negra grisácea.
+
+- **Forma cristalina:** Sistema monoclínico. Cristales prismáticos o tabulares.
+
+- **Hábito:** Masivo y granular. Cristales prismáticos con estriaciones.
+
+- **Dureza:** 5,5 – 6 (Mohs). Raya el vidrio.
+
+- **Peso específico:** Alto, 6,0 – 6,2 g/cm³.
+
+- **Clivaje:** Pobre.
+
+- **Fractura:** Irregular a desigual.
+
+- **Magnetismo:** No magnética.
+
+- **Efervescencia con HCl:** No reacciona; desprende olor a ajo al ser golpeada o calentada (por el arsénico).
+
+- **Origen y ocurrencia:** Común en vetas hidrotermales de Au y Sn.
+
+- **Usos:** Fuente de arsénico; a veces mena secundaria de oro (puede contener Au).
+
+- **Minerales parecidos:** Puede confundirse con pirita (color dorado) y pirrotina (magnética, pardo bronce).
+
+---
+
+### **Esfalerita**
+
+```{figure} ../images/esfalerita.png
+    :width: 50%
+    :align: center
+    :alt: Esfalerita
+
+**cristales de esfalerita (variedad marmatita) sobre cuarzo Tomado de [fuente](https://museomine.unizar.es/esfalerita/)**
+```
+
+- **Química:** Sulfuro de zinc. Fórmula general ZnS, con Fe variable.
+
+- **Color:** Variable: miel, pardo, amarillento, negro (alto Fe) o incoloro (puro).
+
+- **Transparencia:** Transparente a translúcida en variedades claras; opaca en negras.
+
+- **Brillo:** Resinoso a adamantino.
+
+- **Raya:** Parda clara a amarillenta.
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales tetraédricos o dodecaédricos.
+
+- **Hábito:** Masivo granular. Cristales tetraédricos brillantes.
+
+- **Dureza:** 3,5 – 4 (Mohs). Se raya con cuchillo.
+
+- **Peso específico:** Medio, 3,9 – 4,1 g/cm³.
+
+- **Clivaje:** Perfecto en seis direcciones, difícil de observar en mano.
+
+- **Fractura:** Concoidea a irregular.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Principal mena de zinc; común en vetas hidrotermales con galena, pirita y calcopirita.
+
+- **Usos:** Fuente más importante de Zn.
+
+- **Minerales parecidos:** Se confunde con galena (más pesada, raya gris) y con cuarzo ahumado (sin clivaje, mayor dureza).
+
+---
+
+### **Galena**
+
+```{figure} ../images/galena.png
+    :width: 50%
+    :align: center
+    :alt: Galena
+
+**Galena Tomado de [fuente](https://geologiaweb.com/minerales/galena/)**
+```
+
+- **Química:** Sulfuro de plomo. Fórmula general PbS.
+
+- **Color:** Gris plomo característico.
+
+- **Transparencia:** Opaca.
+
+- **Brillo:** Metálico intenso.
+
+- **Raya:** Negra grisácea.
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales cúbicos y octaédricos comunes.
+
+- **Hábito:** Masivo granular. Cristales cúbicos perfectos.
+
+- **Dureza:** 2,5 (Mohs). Se raya con uña apenas.
+
+- **Peso específico:** Muy alto, 7,4 – 7,6 g/cm³. Se siente muy pesada en mano.
+
+- **Clivaje:** Perfecto cúbico en tres direcciones.
+
+- **Fractura:** Irregular.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Principal mena de plomo en vetas hidrotermales y en depósitos sedimentarios estratiformes.
+
+- **Usos:** Fuente principal de plomo y también de plata (asociada).
+
+- **Minerales parecidos:** Puede confundirse con esfalerita (menos densa, brillo resinoso) o con grafito (más blando, tacto untuoso).
+
+---
+
+### **Pirrotina**
+
+```{figure} ../images/pirrotina.png
+    :width: 50%
+    :align: center
+    :alt: Pirrotina
+
+**Pirrotina Tomado de [fuente](https://www.geovirtual2.cl/Mineral/Pirrotita-Pirrotina-01.htm)**
+```
+
+- **Química:** Sulfuro de hierro deficiente en S. Fórmula general Fe₁₋ₓS.
+
+- **Color:** Bronce pardo a cobrizo oscuro.
+
+- **Transparencia:** Opaca.
+
+- **Brillo:** Metálico.
+
+- **Raya:** Negra parda.
+
+- **Forma cristalina:** Sistema monoclínico o hexagonal (según la proporción de Fe).
+
+- **Hábito:** Masivo o granular. Cristales tabulares poco comunes.
+
+- **Dureza:** 3,5 – 4,5 (Mohs). Se raya con cuchillo.
+
+- **Peso específico:** 4,5 – 4,6 g/cm³.
+
+- **Clivaje:** Indistinto.
+
+- **Fractura:** Irregular.
+
+- **Magnetismo:** Sí, magnética variable (diagnóstico frente a pirita).
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Aparece en vetas hidrotermales, rocas ígneas máficas y depósitos metamórficos.
+
+- **Usos:** Mena secundaria de Fe y Ni.
+
+- **Minerales parecidos:** Puede confundirse con pirita (más dura, no magnética) y calcopirita (más blanda, amarilla dorada).
+
+---
+
+### **Bornita**
+
+```{figure} ../images/bornita.png
+    :width: 50%
+    :align: center
+    :alt: Bornita
+
+**Bornita junto a calcopirita y óxidos de hierro Tomado de [fuente](https://museomine.unizar.es/bornita/)**
+```
+
+- **Química:** Sulfuro de cobre y hierro. Fórmula general Cu₅FeS₄.
+
+- **Color:** Café bronce fresco, pero se altera a colores iridiscentes púrpura, azul y rojizo (“mineral pavo real”).
+
+- **Transparencia:** Opaca.
+
+- **Brillo:** Metálico, se torna iridiscente al alterarse.
+
+- **Raya:** Gris negruzca.
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales bien definidos raros; generalmente masiva.
+
+- **Hábito:**
+
+  - Masivo y granular.
+
+  - Cristales cúbicos poco frecuentes.
+
+- **Dureza:** 3 (Mohs). Se raya fácilmente con cuchillo.
+
+- **Peso específico:** Medio, 4,9 – 5,3 g/cm³.
+
+- **Clivaje:** Indistinto.
+
+- **Fractura:** Irregular.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Se forma en depósitos hidrotermales de cobre, asociado con calcopirita, pirita y otros sulfuros.
+
+- **Usos:** Mena importante de cobre.
+
+- **Minerales parecidos:** Se confunde con calcopirita (más amarilla, más dura) y con covellina (azul indigo, raya azul).
+
+---
+
+### **Cinabrio**
+
+```{figure} ../images/cinabrio.png
+    :width: 50%
+    :align: center
+    :alt: Cinabrio
+
+**Cinabrio Tomado de [fuente](https://museomine.unizar.es/cinabrio/)**
+```
+
+- **Química:** Sulfuro de mercurio. Fórmula general HgS.
+
+- **Color:** Muy característico, rojo bermellón a escarlata.
+
+- **Transparencia:** Translúcido a opaco.
+
+- **Brillo:** Adamantino a submetálico.
+
+- **Raya:** Roja intensa, diagnóstica.
+
+- **Forma cristalina:** Sistema trigonal. Cristales romboédricos o prismáticos; más frecuente masivo.
+
+- **Hábito:**
+
+  - Masivo granular o terroso.
+
+  - Cristales prismáticos raros.
+
+- **Dureza:** 2 – 2,5 (Mohs). Muy blando, se raya fácilmente con uña.
+
+- **Peso específico:** Muy alto, 8,0 – 8,2 g/cm³, se siente muy pesado.
+
+- **Clivaje:** Perfecto en una dirección, aunque difícil de ver en agregados.
+
+- **Fractura:** Concoidea a irregular.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Mineral típico de depósitos hidrotermales de baja temperatura, asociado con estibina, realgar, pirita y cuarzo.
+
+- **Usos:** Principal mena de mercurio. Históricamente utilizado como pigmento rojo (bermellón), aunque tóxico.
+
+- **Minerales parecidos:** Puede confundirse con realgar (rojo-anaranjado, más blando), y con hematita terrosa (roja, pero raya roja menos intensa).
+
+---
+
+## **SULFATOS**
+
+### **Yeso**
+
+---
+
+## **FOSFATOS**
+
+### **Apatito**
+
+---
+
+## **ELMENTOS NATIVOS**
+
+### **Oro**
+
+---
+
+### **Plata**
+
+---
+
+### **Platino**
+
+---
+
+### **Cobre**
+
+---
+
+### **Azufre**
+
+---
+
+### **Diamante**
+
+---
+
+### **Grafito**
+
+---
