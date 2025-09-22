@@ -5,9 +5,9 @@
 Se describen los principales minerales que se encuentran en rocas ígneas, metamórficas y sedimentarias, con énfasis en sus propiedades físicas y químicas para su identificación en el laboratorio.
 
 ---
-## Silicatos
+## **Silicatos**
 
-### Olivino (Grupo del Olivino)
+### **Olivino (Grupo del Olivino)**
 
 ```{figure} ../images/olivino.jpg
     :width: 50%
@@ -54,7 +54,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-### Granate (Grupo de los Granates)
+### **Granate (Grupo de los Granates)**
 
 ```{figure} ../images/granate.jpg
     :width: 50%
@@ -115,7 +115,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-### Circón (Zircón)
+### **Circón (Zircón)**
 
 ```{figure} ../images/circon.jpg
     :width: 50%
@@ -174,7 +174,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-### Topacio
+### **Topacio**
 
 ```{figure} ../images/topacio.jpg
     :width: 50%
@@ -241,7 +241,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 ---
 
 
-### Epidota
+### **Epidota**
 
 ```{figure} ../images/epidota.jpg
     :width: 50%
@@ -274,7 +274,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-### Berilo
+### **Berilo**
 
 ```{figure} ../images/berilo.jpg
     :width: 50%
@@ -305,7 +305,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-### Turmalina (Grupo)
+### **Turmalina (Grupo)**
 
 
 ```{figure} ../images/turmalina.jpg
@@ -337,7 +337,7 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 ---
 
-### Grupo de los Piroxenos
+### **Grupo de los Piroxenos** — **Piroxeno**
 
 ```{figure} ../images/piroxeno.jpg
     :width: 50%
@@ -355,29 +355,51 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 **Piroxeno 2 Tomado de [fuente](https://es.wikipedia.org/wiki/Piroxeno)**
 ```
 
-- **Química:** Inosilicatos de **cadena simple**.  
-  **Clinopiroxenos:** diopsido CaMgSi₂O₆, hedenbergita CaFeSi₂O₆, **augita** (Ca–Fe–Mg); **aegirina** NaFe³⁺Si₂O₆.  
-  **Ortropiroxenos:** enstatita MgSiO₃, ferrosilita FeSiO₃.
-- **Color:** Verde pálido (diopsido) a verde oscuro/negro (augita), pardo-bronce (ortopiroxeno).
-- **Transparencia:** Translúcidos a opacos (cristales finos: translúcidos).
-- **Brillo:** Vítreo a subresinoso.
-- **Raya:** Blanca–grisácea.
-- **Forma cristalina:** **Monoclínica** (Cpx) y **Ortorrómbica** (Opx).
-- **Hábito:** **Prismático corto**, granular o masivo.
-- **Dureza:** **5–6**. Se **rayan con navaja**; los más duros **pueden rayar vidrio** débilmente.
-- **Peso específico:** **3.2–3.5** (medios a pesados).
-- **Clivaje:** **Dos direcciones ~90°** (prismático) — rasgo diagnóstico (diferencia con anfíboles).
-- **Fractura:** Desigual a sub-concoidea.
-- **Magnetismo:** No.
-- **Efervescencia con HCl:** No.
-- **Origen y ocurrencia:** **Ígneas máficas/ultramáficas** (basalto, gabro, peridotita), algunas **metamórficas** de alta T (granulitas); **jadeíta** (NaAlSi₂O₆) es piroxeno de alta P (eclogitas).
-- **Variedades:** **Augita**, **diopsido**, **hedenbergita**, **enstatita/hiperstena**, **jadeíta**, **aegirina**.
-- **Alteración:** A **anfíbol** (uralitización), **clorita**, **serpentina** y arcillas.
-- **Usos:** **Jadeíta** como gema; **diopsido** gema menor; otros, usos geológicos.
-- **Minerales parecidos:** **Anfíboles** (hornblenda) — clivaje a **56°/124°** vs **~90°** en piroxenos; **olivino** (sin clivaje, fractura concoidea).
+- **Química:** Inosilicato de cadena simple. Fórmula general XY(Si,Al)₂O₆, donde X puede ser Ca, Na, Fe²⁺, Mg, Li y Y puede ser Mg, Fe²⁺, Fe³⁺, Al, Cr, Ti. Incluye dos grandes subgrupos: ortopiroxenos (enstatita–ferrosilita, sistema ortorrómbico) y clinopiroxenos (diópsido–hedenbergita, augita, sistema monoclínico).
+
+- **Color:** Generalmente verde oscuro, verde parduzco o negro; en algunas variedades puede ser marrón o verdoso translúcido (diópsido, jadeíta).
+
+- **Transparencia:** Usualmente opacos a translúcidos; algunas variedades (como diópsido o jadeíta gema) pueden ser casi transparentes.
+
+- **Brillo:** No metálico vítreo a subvítreo, ocasionalmente mate en superficies alteradas.
+
+- **Raya:** Blanca a gris pálida, aunque difícil de observar debido a su dureza.
+
+- **Forma cristalina:** Monoclínica u ortorrómbica según la especie. Los cristales bien desarrollados son prismáticos cortos a alargados, con secciones características octogonales o cuadradas.
+
+- **Hábito:** Aparece como cristales prismáticos, pero es común en granos anhedrales incrustados en rocas, o en agregados masivos y granulares.
+
+- **Dureza:** 5 – 7 (Mohs), dependiendo de la especie (augita 5,5–6; diópsido 5–6; jadeíta hasta 6,5–7).
+
+- **Peso específico:** Moderadamente alto, 3,2 – 3,9 g/cm³, aumentando con el contenido en Fe y Ca. Se sienten relativamente pesados en mano frente a otros silicatos.
+
+- **Clivaje:** Dos direcciones prominentes casi perpendiculares (~87° y ~93°), rasgo diagnóstico frente a los anfíboles (56° y 124°).
+
+- **Fractura:** Irregular a concoidea en ausencia de clivaje bien desarrollado.
+
+- **Magnetismo:** Generalmente no presentan magnetismo, aunque variedades ricas en Fe pueden mostrar una débil atracción.
+
+- **Efervescencia con HCl:** No reaccionan; son insolubles en HCl diluido.
+
+- **Origen y ocurrencia:** Minerales formadores de rocas ígneas máficas y ultramáficas (basaltos, gabros, peridotitas), y también presentes en rocas metamórficas de alto grado (granulitas, piroxenitas). Comunes en andesitas y dioritas, así como en meteoritos (condritas y acondritas).
+
+- **Variedades:**
+
+**Ortopiroxenos:** enstatita (Mg) y ferrosilita (Fe).
+
+**Clinopiroxenos:** diópsido (Ca-Mg), hedenbergita (Ca-Fe), augita (Ca-Mg-Fe).
+
+**Jadeíta** (NaAlSi₂O₆): variedad de alta presión, típica de zonas de subducción y muy apreciada como gema (jade).
+
+- **Alteración:** Tienden a transformarse en anfíboles, clorita, serpentina o talco, dependiendo de la composición y las condiciones de meteorización o metamorfismo retrógrado.
+
+- **Usos:** Joyería (jadeíta, diópsido como gemas). En petrología, son minerales indicadores de condiciones de presión y temperatura. Su uso industrial es limitado, pero poseen gran relevancia científica y gemológica.
+
+- **Minerales parecidos:** Pueden confundirse con anfíboles (clivaje oblicuo y cristales más elongados), olivino (sin clivaje, fractura concoidea, color verde más vívido) y hornblenda (brillo similar, pero pleocroísmo visible en lámina delgada).
+
 ---
 
-### Grupo de los Anfíboles — **Hornblenda**
+### **Grupo de los Anfíboles** — **Hornblenda**
 
 ```{figure} ../images/hornblenda.jpg
     :width: 50%
@@ -395,269 +417,686 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 **Hornblenda Tomado de [fuente](https://es.wikipedia.org/wiki/Hornblenda)**
 ```
 
-- **Química:** Inosilicato de **doble cadena**; fórmula general compleja (Ca,Na)₂–₃(Mg,Fe,Al)₅(Al,Si)₈O₂₂(OH,F)₂.
-- **Color:** Negro a verde oscuro.
-- **Transparencia:** Opaca a translúcida en bordes delgados.
-- **Brillo:** Vítreo.
-- **Raya:** Gris pálida a incolora.
-- **Forma cristalina:** **Monoclínica**.
-- **Hábito:** **Prismático alargado**, a veces acicular; secciones con forma de “rombo” al corte.
-- **Dureza:** **5–6**. Se **raya con navaja**; puede marcar débilmente el vidrio en el extremo alto.
-- **Peso específico:** **3.0–3.5**.
-- **Clivaje:** **Dos direcciones a 56° y 124°** (diagnóstico).
-- **Fractura:** Desigual a astillosa.
-- **Magnetismo:** No.
-- **Efervescencia con HCl:** No.
-- **Origen y ocurrencia:** **Ígneas intermedias** (andesitas, dioritas), **metamórficas** (anfibolitas); a menudo producto de **hidratación** de piroxenos.
-- **Variedades:** Hornblenda común; series cálcicas, sodio-cálcicas y ferromagnesianas.
-- **Alteración:** A **clorita**, **epidota**, **biotita**; meteorización a **óxidos de Fe** y arcillas.
-- **Usos:** Mineral formador de roca; relevancia petrográfica.
-- **Minerales parecidos:** **Piroxenos** (clivaje ~90°), **turmalina** (estriada y sección triangular, sin buen clivaje).
+- **Química:** Inosilicato de cadena doble complejo. Fórmula general aproximada: (Ca,Na)₂–₃(Mg,Fe²⁺,Fe³⁺,Al)₅(Si,Al)₈O₂₂(OH)₂. Es un mineral de composición variable con sustituciones isomórficas, característico del grupo de los anfíboles.
+
+- **Color:** Usualmente verde oscuro a negro; también puede presentarse en tonos verde parduzco, marrón oscuro o gris verdoso.
+
+- **Transparencia:** Normalmente opaco a translúcido en fragmentos delgados; raramente llega a ser translúcido en bordes muy finos.
+
+- **Brillo:** No metálico vítreo a submetálico; en superficies frescas puede mostrar brillo algo resinoso.
+
+- **Raya:** Gris verdosa a incolora, aunque poco visible debido a la dureza.
+
+- **Forma cristalina:** Sistema monoclínico. Cristales típicos prismáticos alargados con secciones en forma de rombos o hexágonos irregulares.
+
+- **Hábito:**
+
+Prismático alargado, con cristales que suelen ser anhedrales a subhedrales.
+
+Aparece también en masas granulares o fibrosas.
+
+Común en agregados radiales o columnar-tabulares.
+
+- **Dureza:** 5 – 6 (Mohs). Puede ser rayado por el cuarzo (7), pero raya al vidrio y al cuchillo de acero.
+
+- **Peso específico:** Medio-alto, 3,0 – 3,5 g/cm³.
+
+- **Clivaje:** Dos direcciones bien marcadas que se cruzan en ángulos oblicuos (~56° y ~124°), rasgo diagnóstico frente a los piroxenos (~87° y ~93°).
+
+- **Fractura:** Irregular a astillosa, quebradiza.
+
+- **Magnetismo:** No presenta magnetismo apreciable.
+
+- **Efervescencia con HCl:** No reacciona con ácido clorhídrico diluido.
+
+- **Origen y ocurrencia:** Mineral común en rocas ígneas intermedias y máficas (dioritas, andesitas, gabros), y en rocas metamórficas (anfibolitas, esquistos, gneises). Se forma tanto en procesos ígneos como metamórficos (facies anfibolita).
+
+- **Variedades:** La hornblenda es una variedad representativa del grupo de los anfíboles, con composición intermedia. Existen otras variedades relacionadas como pargasita, edenita y actinolita (esta última más verdosa y fibrosa).
+
+- **Alteración:** Tiende a alterarse a clorita, epidota, biotita o carbonatos en procesos de meteorización o metamorfismo retrógrado.
+
+- **Usos:** Poca importancia económica directa; principalmente de interés científico y petrogenético, ya que su presencia indica condiciones de presión y temperatura en las rocas.
+
+- **Minerales parecidos:** Puede confundirse con piroxenos (clivaje recto a 90°), biotita (láminas micáceas, menor dureza), o con actinolita (variedad fibrosa del mismo grupo).
 
 ---
 
-### Serpentina (Grupo)
+### **Serpentina (Grupo)**
 
-- **Química:** Aproximada **Mg₃Si₂O₅(OH)₄**; polimorfos: **antigorita**, **lizardita** (laminares), **crisotilo** (fibroso).
-- **Color:** Verde claro a verde amarillento; a veces moteado.
-- **Transparencia:** Translúcida a opaca.
-- **Brillo:** Graso a céreo; nacarado en planos.
-- **Raya:** Blanca.
-- **Forma cristalina:** **Monoclínica** (estructura laminar/curvada).
-- **Hábito:** **Masivo**, **laminar**; **fibroso** (crisotilo).
-- **Dureza:** **2.5–4**. Se **raya con moneda** y **navaja**; variedades más blandas **casi con uña**.
-- **Peso específico:** **2.5–2.6** (ligera).
-- **Clivaje:** Indistinto a pobre; mejor en variedades laminares.
-- **Fractura:** Concoidea a astillosa; tacto “jabonoso”.
-- **Magnetismo:** No (serpentinitas pueden contener **magnetita** asociada).
-- **Efervescencia con HCl:** No.
-- **Origen y ocurrencia:** **Serpentinización** de **olivino/pyroxeno** en **ultramáficas** (peridotitas, dunitas) por hidratación hidrotermal; forma **serpentinitas**.
-- **Variedades:** **Antigorita**, **lizardita**, **crisotilo** (asbesto).
-- **Alteración:** Puede evolucionar a **talco** (metamorfismo con CO₂), **brucita**, **magnetita**.
-- **Usos:** Piedra ornamental (“serpentina”); **crisotilo** usado históricamente como asbesto (uso hoy restringido).
-- **Minerales parecidos:** **Talc** (más blando, H=1, tacto muy jabonoso), **clorita** (verde, H=2–2.5, laminada).
-
----
-
-### Minerales arcillosos — **Caolinita**
-
-- **Química:** **Al₂Si₂O₅(OH)₄**.
-- **Color:** Blanco, crema; a veces gris.
-- **Transparencia:** Opaca (en agregados).
-- **Brillo:** Terroso a mate (sedoso en láminas muy finas).
-- **Raya:** Blanca.
-- **Forma cristalina:** **Triclínica** (laminar muy fina).
-- **Hábito:** **Masivo terroso**, **laminar microscópico**.
-- **Dureza:** **2–2.5**. **Se raya con uña**.
-- **Peso específico:** **~2.6** (ligera).
-- **Clivaje:** **Perfecto basal** (visible solo en láminas muy finas).
-- **Fractura:** Terrosa a irregular.
-- **Magnetismo:** No.
-- **Efervescencia con HCl:** No.
-- **Origen y ocurrencia:** Producto de **meteorización** y **hidrotermalismo ácido** de **feldespatos** y micas; muy común en **suelo** y **sedimentos**.
-- **Variedades:** **Halloysita** (tubular), **dickita**, **nacrita** (polimorfos raros).
-- **Alteración:** Puede transformarse en **illita** o **gibbsite** según ambiente.
-- **Usos:** **Cerámica/porcelana**, **papel** (carga y estucado), **pinturas**, **fármacos** (excipient).
-- **Minerales parecidos:** **Talc** (más blando, tacto jabonoso), **yeso** (efervescencia con HCl caliente débil y H=2), **caliza** (efervesce en HCl).
-
----
-
-### Minerales arcillosos — **Talco**
-
-- **Química:** **Mg₃Si₄O₁₀(OH)₂**.
-- **Color:** Blanco a verdoso pálido.
-- **Transparencia:** Translúcido a opaco.
-- **Brillo:** **Nacarado** en superficies de clivaje; **graso** al tacto.
-- **Raya:** Blanca.
-- **Forma cristalina:** **Monoclínica/Triclínica** (laminar).
-- **Hábito:** **Masivo laminar**, **escamoso**; tacto “jabonoso”.
-- **Dureza:** **1** (más blando). **Se raya muy fácilmente con uña**.
-- **Peso específico:** **~2.7–2.8**.
-- **Clivaje:** **Perfecto basal** {001}.
-- **Fractura:** Escamosa a desigual.
-- **Magnetismo:** No.
-- **Efervescencia con HCl:** No.
-- **Origen y ocurrencia:** **Metamorfismo** de **ultramáficas** (con CO₂/H₂O: talco-carbonatitas), alteración de **serpentina** y **dolomita**.
-- **Variedades:** Esteatita (masiva, “piedra jabón”).
-- **Alteración:** Puede hidratarse a **brucita** o degradar a **arcillas** finas.
-- **Usos:** **Polvos cosméticos/industriales**, **carga** en papel/plásticos/pinturas, **cerámica**; piedra jabón para tallas.
-- **Minerales parecidos:** **Serpentina** (más dura 2.5–4), **clorita** (H=2–2.5, láminas verdes).
-
----
-
-### Grupo de las Micas — **Moscovita**
-
-- **Química:** **KAl₂(AlSi₃O₁₀)(OH)₂**.
-- **Color:** Incolora a plateada; a veces amarillenta.
-- **Transparencia:** Láminas **transparentes**; agregados, translúcidos.
-- **Brillo:** Vítreo a **nacarado** en clivaje.
-- **Raya:** Blanca.
-- **Forma cristalina:** **Monoclínica** (pseudohexagonal).
-- **Hábito:** **Láminas** delgadas, **tabular**.
-- **Dureza:** **2–2.5**. **Se raya con uña**.
-- **Peso específico:** **~2.8–2.9**.
-- **Clivaje:** **Perfecto basal** en láminas **elásticas**.
-- **Fractura:** Escamosa.
-- **Magnetismo:** No.
-- **Efervescencia con HCl:** No.
-- **Origen y ocurrencia:** **Granitos**, **pegmatitas**, **esquistos**.
-- **Variedades:** Sericita (muy fina).
-- **Alteración:** A **illita**/**caolinita** por meteorización; a veces a **clorita**.
-- **Usos:** **Aislante** eléctrico, **láminas** (histórico), **carga** en pinturas y compuestos.
-- **Minerales parecidos:** **Biotita** (más oscura), **clorita** (verde y láminas no elásticas).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:MuscoviteUSGOV.jpg  *(Wikimedia Commons)*
-
----
-
-### Grupo de las Micas — **Biotita**
-
-- **Química:** **K(Mg,Fe)₃AlSi₃O₁₀(OH)₂** (serie con **annita** Fe-rica y **phlogopita** Mg-rica).
-- **Color:** Pardo oscuro a **negro**; phlogopita, pardo dorado.
-- **Transparencia:** Láminas delgadas translúcidas a subtransparentes.
-- **Brillo:** Vítreo a **nacarado**.
-- **Raya:** Blanca a gris.
-- **Forma cristalina:** **Monoclínica** (pseudohexagonal).
-- **Hábito:** **Láminas** flexibles y **elásticas**.
-- **Dureza:** **2.5–3**. **Se raya con moneda**; a veces con uña en bordes.
-- **Peso específico:** **~2.9–3.3** (algo pesada).
-- **Clivaje:** **Perfecto basal** {001}.
-- **Fractura:** Escamosa a desigual.
-- **Magnetismo:** No (Fe puede dar leve respuesta en polvo).
-- **Efervescencia con HCl:** No.
-- **Origen y ocurrencia:** **Ígneas** (granitos, dioritas), **metamórficas** (gneises, esquistos).
-- **Variedades:** **Annita**, **phlogopita**.
-- **Alteración:** A **clorita** (cloritización), **sericita**, óxidos de Fe.
-- **Usos:** **Carga** industrial; relevancia petrográfica.
-- **Minerales parecidos:** **Clorita** (verde, láminas no elásticas), **hornblenda** (prismática, no laminar).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:BiotiteUSGOV.jpg  *(Wikimedia Commons)*
-
----
-
-### Grupo de las Micas — **Clorita** (grupo)
-
-- **Química:** (Mg,Fe,Al)₆(Si,Al)₄O₁₀(OH)₈ (p. ej., **clinochlore**, **chamosita**).
-- **Color:** **Verde** claro a oscuro.
-- **Transparencia:** Láminas translúcidas; masiva opaca.
-- **Brillo:** Vítreo a **nacarado**.
-- **Raya:** Blanca–verdosa.
-- **Forma cristalina:** **Monoclínica/Triclínica**.
-- **Hábito:** **Láminas** y agregados escamosos; **no elásticas** (flexibles).
-- **Dureza:** **2–2.5**. **Se raya con uña**.
-- **Peso específico:** **~2.6–3.3** (variable con Fe).
-- **Clivaje:** **Perfecto basal**.
-- **Fractura:** Escamosa.
-- **Magnetismo:** No.
-- **Efervescencia con HCl:** No.
-- **Origen y ocurrencia:** Muy común en **bajo grado metamórfico** (facies esquistos verdes), alteración de **biotita**, **anfíboles**, **piroxenos**.
-- **Variedades:** **Clinochlore**, **chamosite** (Fe-rica).
-- **Alteración:** A **caolinita** y otras arcillas finas por meteorización.
-- **Usos:** Indicador de grado metamórfico; aditivo menor.
-- **Minerales parecidos:** **Muscovita** (incolora y elástica), **serpentina** (tacto jabonoso, H mayor).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:ChloriteUSGOV.jpg  *(Wikimedia Commons)*
-
----
-
-### Grupo de los Feldespatos — **Feldespatos potásicos (K-feldespatos)**
-
-- **Química:** **KAlSi₃O₈** — **microclina**, **ortoclasa**, **sanidina** (polimorfos).
-- **Color:** Blanco, **rosado/salmón**, crema.
-- **Transparencia:** Translúcidos a opacos; cristales pueden ser transparentes.
-- **Brillo:** Vítreo.
-- **Raya:** Blanca.
-- **Forma cristalina:** **Monoclínica** (ortoclasa/sanidina) y **Triclínica** (microclina).
-- **Hábito:** **Tabular** a **prismático**; masivo.
-- **Dureza:** **6**. **Raya vidrio**; no se raya con navaja.
-- **Peso específico:** **~2.55–2.63** (ligeros).
-- **Clivaje:** **Dos direcciones ~90°** (bueno a perfecto).
-- **Fractura:** Desigual.
-- **Magnetismo:** No.
-- **Efervescencia con HCl:** No.
-- **Origen y ocurrencia:** **Granitos**, **sienitas**, **pegmatitas**; también **metamórficas** y **sedimentarias** (detrital).
-- **Variedades:** **Microclina** (maclas en “**tartán**”), **perthita** (exsolución de albita), **adularia** (ortoclasa baja T).
-- **Alteración:** A **sericita** (muscovita fina) y **caolinita** (sericitización/caolinización).
-- **Usos:** **Cerámica/vidrio**, **fundentes**; piedra ornamental.
-- **Minerales parecidos:** **Plagioclasa** (estriaciones en caras de clivaje), **cuarzo** (sin clivaje).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:MicroclineUSGOV.jpg  *(Wikimedia Commons)*
-
----
-
-### Grupo de los Feldespatos — **Serie de las Plagioclasas**
-
-- **Química:** Serie **(Na,Ca)Al(Al,Si)Si₂O₈** de **albita (Na)** ↔ **anortita (Ca)**; términos intermedios: **oligoclasa**, **andesina**, **labradorita**, **bytownita**.
-- **Color:** Blanco a gris; **labradorita** puede mostrar **labradorescencia** (irisaciones azules/verdosas).
-- **Transparencia:** Translúcida a opaca; cristales pueden ser transparentes.
-- **Brillo:** Vítreo.
-- **Raya:** Blanca.
-- **Forma cristalina:** **Triclínica**.
-- **Hábito:** **Tabular/prismático**, masivo.
-- **Dureza:** **6–6.5**. **Raya vidrio**; no se raya con navaja.
-- **Peso específico:** **~2.62–2.77** (aumenta con Ca).
-- **Clivaje:** **Dos direcciones ~90°** (bueno a perfecto).
-- **Fractura:** Desigual.
-- **Magnetismo:** No.
-- **Efervescencia con HCl:** No.
-- **Origen y ocurrencia:** Omnipresentes en **ígneas** (basaltos/gabros: Ca-ricas; granitos/riólitas: Na-ricas), **metamórficas** y **sedimentarias**.
-- **Variedades:** **Oligoclasa**, **andesina**, **labradorita** (con labradorescencia), **anortita**.
-- **Alteración:** **Saussuritización** (a **epidota**, **zoisita**, **sericita**, **clorita**).
-- **Usos:** **Cerámica/vidrio**, áridos, roca ornamental (p. ej., anortositas).
-- **Minerales parecidos:** **K-feldespato** (sin **estriaciones polisintéticas**), **cuarzo** (sin clivaje).
-- **Imagen:** https://commons.wikimedia.org/wiki/File:LabradoriteUSGOV.jpg  *(Wikimedia Commons)*
-
----
-
-### Cuarzo
-
-```{figure} ../images/cuarzo.jpg
+```{figure} ../images/serpentina.jpg
     :width: 50%
     :align: center
-    :alt: Cuarzo cristal de roca
+    :alt: Serpentina
 
-**Tomado de [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:QuartzUSGOV.jpg)**
+**Serpentina Tomado de [fuente](https://vivescortadaimport.com/diccionario-minerales/minerales/serpentina/index.php)**
 ```
 
-```{figure}
-Copiar código
-    :width: 40%
+```{figure} ../images/serpentina_2.jpg
+    :width: 50%
     :align: center
-    :alt: Geoda de amatista (variedad de cuarzo)
+    :alt: Serpentina_2
 
-**Tomado de [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amethyst_Geode.jpg)**
-Química: SiO₂ (dióxido de silicio); polimorfo trigonal del sistema cuarzo–tridimita–cristobalita.
+**Serpentina Tomado de [fuente](https://es.geologyscience.com/minerales/subgrupo-serpentino/)**
 ```
 
-- **Color:** Típicamente incoloro (cristal de roca) o blanco lechoso; variedades comunes: violeta (amatista), amarillo (citrino), ahumado (marrón–gris), rosa (cuarzo rosa), negro (morión). La sílice criptocristalina (calcedonia) muestra colores muy diversos (ágata, jaspe, ónix, cornalina).
+```{figure} ../images/serpentina_3.jpg
+    :width: 50%
+    :align: center
+    :alt: Serpentina_3
 
-- **Transparencia:** Transparente a translúcido; masivo/criptocristalino puede ser traslúcido a opaco.
+**Serpentina Tomado de [fuente](https://es.wikipedia.org/wiki/Serpentinita)**
+```
 
-- **Brillo:** Vítreo (a veces grasoso en fractura); céreo en variedades criptocristalinas.
+- **Química:** Filosilicato de magnesio hidratado. Fórmula general Mg₃Si₂O₅(OH)₄, con variaciones por sustitución parcial de Fe, Ni, Al o Cr. Incluye tres polimorfos principales: antigorita, crisotilo y lizardita.
+
+- **Color:** Típicamente verde en distintos tonos (verde claro, verde oscuro, verdoso parduzco). Puede presentar aspecto moteado o jaspeado; a veces con tonalidades amarillentas, marrones o negras.
+
+- **Transparencia:** Usualmente opaca; algunas variedades delgadas o en láminas pueden ser translúcidas.
+
+- **Brillo:** No metálico graso a céreo, a veces sedoso en variedades fibrosas (**crisotilo**).
 
 - **Raya:** Blanca.
 
-- **Forma cristalina:** Trigonal (familia hexagonal). Cristales prismáticos hexagonales con terminaciones piramidales; maclas comunes (p. ej., Brasil, Dauphiné).
+- **Forma cristalina:** Sistema monoclínico (aunque generalmente se presenta en masas criptocristalinas). Los cristales definidos son raros.
 
-- **Hábito:** Prismático bien formado en geodas y vetas; drusa; masivo/granular (cuarcitas), cristal de roca en venas, criptocristalino como calcedonia/ágata/jaspe.
+- **Hábito:** Masivo, compacto o laminar. Fibroso en la variedad crisotilo (asbesto). Masivo, compacto o laminar. Fibroso en la variedad crisotilo (asbesto). Escamoso o hojoso en antigorita y lizardita.
 
-- **Dureza:** 7 (Mohs). Raya vidrio; no se raya con navaja (~5.5); no se raya con moneda (~3–3.5) ni uña (~2.5).
+- **Dureza:** 2,5 – 4 (Mohs). Puede rayarse fácilmente con navaja y apenas con el vidrio en algunas variedades más duras.
 
-- **Peso específico:** ~2,65 g/cm³ (sensación ligera comparado con granate/olivino).
+- **Peso específico:** Relativamente bajo, 2,5 – 2,6 g/cm³. Se siente ligero en mano frente a otros silicatos.
 
-- **Clivaje:** Nulo (sin exfoliación); muestra fractura concoidea marcada.
+- **Clivaje:** Generalmente indistinto a pobre, difícil de observar en masas.
 
-- **Fractura:** Concoidea a desigual; quebradizo.
+- **Fractura:** Irregular a astillosa, en ocasiones concoidea en variedades compactas.
 
-- **Magnetismo:** No magnético.
+- **Magnetismo:** Normalmente no presenta magnetismo; algunas variedades con Fe pueden mostrar débil atracción.
 
-- **Efervescencia con HCl:** No efervesce (insoluble en HCl diluido a T ambiente).
+- **Efervescencia con HCl:** No reacciona con ácido clorhídrico diluido.
 
-- **Origen y ocurrencia:** Ubicuo. Ígneas (granitos, riolitas; mineral tardío en pegmatitas y vetas hidrotermales), metamórficas (cuarcitas, gneises), y sedimentarias (cemento de areniscas, nódulos de sílice). Frecuente en geodas (amatista), venas de cuarzo y como detrítico muy resistente.
+- **Origen y ocurrencia:** Se forma por alteración hidrotermal y metamórfica de silicatos máficos, especialmente olivino y piroxenos, en procesos de serpentinización. Común en rocas ultramáficas (peridotitas, dunas, serpentinitas).
 
-- **Variedades:** Cristal de roca, amatista, citrino, cuarzo ahumado, cuarzo rosa, morión; criptocristalinas: calcedonia, ágata, ónix, jaspe, cornalina, prasio.
+- **Variedades:**
 
-- **Alteración:** Muy resistente a meteorización; puede disolverse/sílice coloidal en condiciones hidrotermales. A alta P–T transforma a coesita/stishovita (no meteórico). Superficialmente puede opalizarse (sílice amorfa).
+**Antigorita:** laminar o hojosa.
 
-- **Usos:** Vidrio y sílice industrial (arenas de cuarzo), electrónica (cuarzo alfa piezoeléctrico en osciladores), óptica (ventanas/óptica UV), abrasivos (arenado), gemas (variedades coloreadas), fundición.
+**Crisotilo:** fibrosa, variedad de asbesto.
 
-- **Minerales parecidos:** Calcita (H=3 y efervescencia en HCl), feldespatos (dos clivajes a ~90°), topacio (H=8 y clivaje perfecto), berilo (prismas hexagonales pero H=7.5–8 y clivaje pobre basal). La fractura concoidea sin clivaje y H=7 son diagnósticos del cuarzo.
+**Lizardita:** escamosa, masiva.
+
+- **Alteración:** Puede transformarse en talco, clorita o magnetita en condiciones metamórficas posteriores.
+
+- **Usos:**
+
+Crisotilo se explotó como asbesto (uso hoy restringido por riesgos a la salud).
+
+Antigorita y lizardita como piedras ornamentales y de revestimiento.
+
+Importante en geología petrológica como indicador de serpentinización y procesos tectónicos en zonas de subducción.
+
+- **Minerales parecidos:** Puede confundirse con clorita (similar color y hábito laminar, pero distinta dureza y birrefringencia en lámina delgada), o con talco (más blando, tacto jabonoso).
+
+---
+
+### **Minerales arcillosos** — **Caolinita**
+
+```{figure} ../images/caolinita.png
+    :width: 50%
+    :align: center
+    :alt: Caolinita
+
+**Caolinita Tomado de [fuente](https://es.geologyscience.com/minerales/caolinita/)**
+```
+
+```{figure} ../images/caolin.jpg
+    :width: 50%
+    :align: center
+    :alt: Caolin
+
+**Caolin Tomado de [fuente](https://geologiaweb.com/minerales/caolin/)**
+```
+
+- **Química:** Filosilicato de aluminio hidratado. Fórmula general Al₂Si₂O₅(OH)₄. Pertenece al grupo de la caolinita-serpentina y es el principal constituyente del caolín.
+
+- **Color:** Típicamente blanco, pero puede presentar tonalidades grisáceas, amarillentas o pardas por impurezas.
+
+- **Transparencia:** Usualmente opaca; algunos cristales microscópicos pueden ser translúcidos.
+
+- **Brillo:** No metálico terroso a nacarado, ocasionalmente mate.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema triclínico, aunque los cristales definidos son muy raros. Normalmente aparece en agregados microscópicos laminares o escamosos.
+
+- **Hábito:**
+
+  - Masivo terroso o arcilloso.
+
+  - Escamoso en agregados microscópicos.
+
+  - Compacto en masas caoliníticas.
+
+- **Dureza:** 2 – 2,5 (Mohs). Se raya fácilmente con la uña.
+
+- **Peso específico:** Bajo, 2,6 g/cm³ aproximadamente.
+
+- **Clivaje:** Perfecto en una dirección, aunque difícil de observar a simple vista por el tamaño diminuto de los cristales.
+
+- **Fractura:** Irregular a terrosa.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Mineral típico de alteración hidrotermal y meteorización de feldespatos, micas y otros silicatos alumínicos. Es abundante en rocas ígneas alteradas (granitos caolinizados), en suelos tropicales y lateríticos, y en depósitos sedimentarios arcillosos.
+
+- **Variedades:** Dentro del grupo se incluyen especies afines como nacrita y dickita, con la misma composición química pero distinta morfología.
+
+- **Alteración:** Puede transformarse en gibbsita (hidróxido de aluminio) en procesos de lateritización más intensos.
+
+- **Usos:**
+
+Principal componente del caolín usado en la industria cerámica (porcelana, loza, refractarios).
+
+Papel (recubrimiento y carga).
+
+Pinturas, caucho, plásticos y cosméticos como material de relleno.
+
+Importante en geología ambiental como indicador de meteorización intensa.
+
+- **Minerales parecidos:** Puede confundirse con tiza o yeso pulverulento (pero yeso reacciona al raspar con HCl y es más blando). También con talco (tacto jabonoso, brillo nacarado más evidente).
+
+---
+
+### **Minerales arcillosos** — **Talco**
+
+```{figure} ../images/talco.jpg
+    :width: 50%
+    :align: center
+    :alt: Talco
+
+**Talco Tomado de [fuente](https://geologiaweb.com/minerales/talco/)**
+```
+
+```{figure} ../images/talco_2.jpg
+    :width: 50%
+    :align: center
+    :alt: Talco_2
+
+**Talco  Tomado de [fuente](https://es.wikipedia.org/wiki/Talco)**
+```
+
+- **Química:** Filosilicato de magnesio hidratado. Fórmula general Mg₃Si₄O₁₀(OH)₂.
+
+- **Color:** Usualmente blanco, verde claro, gris plateado o amarillento. Puede ser translúcido con brillo perlado en fragmentos delgados.
+
+- **Transparencia:** Generalmente translúcido a opaco; en láminas muy delgadas puede ser casi transparente.
+
+- **Brillo:** No metálico nacarado a perlado en superficies frescas; puede ser mate o graso en masas.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema monoclínico. Los cristales definidos son raros; normalmente aparece en agregados laminares, escamosos o masivos compactos.
+
+- **Hábito:** 
+  - Laminar o escamoso, con tacto muy característico.
+
+  - Masivo compacto en la variedad conocida como esteatita (piedra jabonosa).
+
+- **Dureza:** 1 (Mohs), el mineral más blando de todos. Se raya fácilmente con la uña, dejando un surco perceptible.
+
+- **Peso específico:** Bajo, 2,7 – 2,8 g/cm³. Se siente ligero en mano.
+
+- **Clivaje:** Perfecto en una dirección (laminar), aunque no siempre visible en muestra masiva.
+
+- **Fractura:** Escamosa a irregular.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona con ácido clorhídrico diluido.
+
+- **Origen y ocurrencia:** Se forma por alteración metamórfica e hidrotermal de minerales ricos en magnesio (olivino, piroxenos, anfíboles) en presencia de sílice y agua. Común en esquistos de talco-clorita, en serpentinitas y en esteatitas.
+
+- **Variedades:**
+
+  - **Esteatita o piedra jabonosa:** variedad masiva, compacta y suave al tacto.
+
+  - Agregados laminares y escamosos de talco puro.
+
+- **Alteración:** Relativamente estable; puede asociarse a clorita, serpentina y carbonatos en ambientes metamórficos.
+
+- **Usos:**
+
+Como lubricante sólido y en polvos cosméticos (talco industrial).
+
+Carga y relleno en papel, pinturas, plásticos y cauchos.
+
+Piedra ornamental y escultórica (esteatita).
+
+- **Minerales parecidos:** Puede confundirse con caolinita (más terrosa, menos grasa al tacto), yeso (más blando pero sin tacto jabonoso, reacciona ligeramente con HCl en polvo), o serpentina (más dura, hábito masivo y color verde más intenso).
+
+---
+
+### **Grupo de las Micas** — **Moscovita**
+
+```{figure} ../images/moscovita.jpg
+    :width: 50%
+    :align: center
+    :alt: Moscovita
+
+**Moscovita Tomado de [fuente](https://www.gemrockauctions.com/es/learn/a-z-of-gemstones/muscovite)**
+```
+
+```{figure} ../images/moscovita_2.jpg
+    :width: 50%
+    :align: center
+    :alt: Moscovita_2
+
+**Moscovita  Tomado de [fuente](https://www.geovirtual2.cl/Mineral/820minMicaMoscu01.htm)**
+```
+
+- **Química:** Filosilicato de aluminio y potasio. Fórmula general KAl₂(AlSi₃O₁₀)(OH)₂. Es la mica rica en aluminio del grupo, con muy poco hierro o magnesio en su composición.
+
+- **Color:** Típicamente incolora a blanco plateado; también puede ser gris claro, amarillenta o verdosa pálida.
+
+- **Transparencia:** Transparente a translúcida en láminas delgadas; en ejemplares gruesos suele ser opaca.
+
+- **Brillo:** No metálico nacarado a vítreo en superficies frescas; las láminas delgadas pueden mostrar brillo perlado.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema monoclínico. Cristales bien formados son tabulares y pseudohexagonales; más común en hojas delgadas.
+
+- **Hábito:** 
+
+ - Laminar y hojoso, se exfolia fácilmente en láminas flexibles y elásticas.
+
+ - Aparece también en agregados escamosos o micáceos.
+
+- **Dureza:** 2 – 2,5 (Mohs). Se raya fácilmente con la uña.
+
+- **Peso específico:** Bajo, alrededor de 2,8 g/cm³.
+
+- **Clivaje:** Perfecto en una dirección (001), produciendo láminas muy delgadas, flexibles y elásticas (diagnóstico fundamental).
+
+- **Fractura:** Irregular en direcciones distintas al clivaje.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Mineral muy común en rocas ígneas (granitos, pegmatitas), metamórficas (esquistos micáceos, gneises) y como componente en algunos sedimentos arcillosos. Es una de las principales micas claras de la corteza continental.
+
+- **Variedades:** No posee variedades gemológicas destacadas; a veces se distingue por su color como mica blanca frente a la biotita (mica negra).
+
+- **Alteración:** Tiende a alterarse a caolinita o sericita (mica fina) bajo meteorización intensa.
+
+- **Usos:**
+
+  - Antiguamente usada como ventanas de hornos y lámparas (vidrio de Moscovia, de donde deriva su nombre).
+
+  - Hoy en día, como aislante eléctrico y térmico, en plásticos, pinturas, cauchos y en aplicaciones industriales.
+
+- **Minerales parecidos:** Puede confundirse con yeso o talco laminar (pero la moscovita es más dura y sus láminas son elásticas, no quebradizas). También con biotita (mica negra, más densa y con mayor contenido en Fe y Mg).
+
+---
+
+### **Grupo de las Micas** — **Biotita**
+
+```{figure} ../images/biotita.jpg
+    :width: 50%
+    :align: center
+    :alt: Biotita
+
+**Biotita Tomado de [fuente](https://museomine.unizar.es/biotita/)**
+```
+
+```{figure} ../images/biotita_2.jpg
+    :width: 50%
+    :align: center
+    :alt: Biotita_2
+
+**Biotita  Tomado de [fuente](https://www.gemrockauctions.com/es/learn/a-z-of-gemstones/biotite?srsltid=AfmBOoqZLdReZNHOblrQGlxu6K8R_MIqKfH2jmcMtd7HVhPxYq7fvknS)**
+```
+
+- **Química:** Filosilicato de aluminio, hierro, magnesio y potasio. Fórmula general aproximada K(Mg,Fe)₃(AlSi₃O₁₀)(OH)₂. Pertenece al subgrupo de las micas oscuras, con alto contenido en Fe y Mg.
+
+- **Color:** Típicamente negro, marrón oscuro o verde negruzco. Puede presentar reflejos bronce o dorados en algunas superficies.
+
+- **Transparencia:** Generalmente opaca; en láminas muy delgadas puede ser translúcida a marrón verdoso.
+
+- **Brillo:** No metálico vítreo a nacarado, más evidente en superficies de clivaje.
+
+- **Raya:** Blanca a gris pálida (difícil de observar por su dureza y color oscuro).
+
+- **Forma cristalina:** Sistema monoclínico. Cristales bien desarrollados son tabulares pseudohexagonales, aunque son poco comunes.
+
+- **Hábito:**
+
+ - Laminar y hojoso, exfoliándose en láminas delgadas y flexibles.
+
+ - Común en agregados micáceos dentro de las rocas.
+
+- **Dureza:** 2,5 – 3 (Mohs). Se raya con una moneda de cobre y apenas con la uña en los bordes más finos.
+
+- **Peso específico:** Medio, 2,8 – 3,4 g/cm³, mayor que el de la moscovita por su contenido en hierro.
+
+- **Clivaje:** Perfecto en una dirección (001), produciendo láminas delgadas y elásticas.
+
+- **Fractura:** Irregular a astillosa, fuera del plano de clivaje.
+
+- **Magnetismo:** Algunas variedades con alto contenido en Fe pueden mostrar débil atracción magnética.
+
+- **Efervescencia con HCl:** No reacciona con ácido clorhídrico diluido.
+
+- **Origen y ocurrencia:** Mineral muy común en rocas ígneas máficas e intermedias (granitos, dioritas, basaltos, andesitas), en rocas metamórficas (esquistos micáceos, gneises, anfibolitas) y ocasionalmente en sedimentos como fragmentos detríticos.
+
+- **Variedades:** Se distinguen composiciones ricas en Mg (phlogopita) y en Fe (annita), que representan los extremos de la serie sólida.
+
+- **Alteración:** Se altera fácilmente a clorita, sericita y óxidos de hierro, lo que le da aspecto parduzco y terroso.
+
+- **Usos:**
+
+  - Limitado uso industrial, principalmente como aislante eléctrico en el pasado.
+
+  - De gran importancia petrogenética, ya que su presencia indica condiciones de temperatura, presión y composición química en las rocas.
+
+- **Minerales parecidos:** Puede confundirse con hornblenda (pero la hornblenda no exfolia en láminas), con moscovita (mucho más clara y con menor densidad), y con clorita (más blanda, tacto más terroso y color verde pálido).
+
+---
+
+### **Grupo de las Micas** — **Clorita** (grupo)
+
+```{figure} ../images/clorita.jpg
+    :width: 50%
+    :align: center
+    :alt: Clorita
+
+**Clorita Tomado de [fuente](https://www.regmurcia.com/servlet/s.Sl?sit=c,365,m,108&r=ReP-26862-DETALLE_REPORTAJESABUELO)**
+```
+
+- **Química:** Filosilicatos hidratados de aluminio, hierro y magnesio. Fórmula general aproximada: (Mg,Fe)₃(Si,Al)₄O₁₀(OH)₂·(Mg,Fe)₃(OH)₆. El grupo incluye varias especies (clinochloro, chamosita, pennina, entre otras), con sustituciones variables de Fe, Mg y Al.
+
+- **Color:** Típicamente verde en distintas tonalidades (verde oscuro, verde grisáceo, verde amarillento). También puede ser pardo verdoso o negro verdoso en variedades ricas en hierro.
+
+- **Transparencia:** Generalmente opaca; en láminas muy delgadas puede ser translúcida a verdosa clara.
+
+- **Brillo:** No metálico nacarado o vítreo-graso en superficies frescas; a veces con aspecto mate en agregados terrosos.
+
+- **Raya:** Blanca a verde pálido.
+
+- **Forma cristalina:** Sistema monoclínico o triclínico según la especie. Los cristales bien formados son muy raros; aparece casi siempre en masas laminares o escamosas.
+
+- **Hábito:** Laminar y hojoso, parecido a una mica. Escamoso o micáceo, en agregados.
+
+A menudo en masas terrosas verdosas.
+
+- **Dureza:** 2 – 2,5 (Mohs). Se raya fácilmente con la uña.
+
+- **Peso específico:** Relativamente bajo, 2,6 – 3,3 g/cm³, variable con el contenido en Fe.
+
+- **Clivaje:** Perfecto en una dirección (001), produciendo láminas flexibles pero generalmente no elásticas (a diferencia de las micas verdaderas).
+
+- **Fractura:** Irregular a escamosa, quebradiza.
+
+- **Magnetismo:** Normalmente no magnética; algunas variedades con mucho Fe pueden mostrar débil atracción.
+
+- **Efervescencia con HCl:** No reacciona con ácido clorhídrico diluido.
+
+- **Origen y ocurrencia:** Mineral muy común de alteración y metamorfismo. Se forma como producto de la alteración hidrotermal o metamórfica de biotita, piroxenos, anfíboles y otros silicatos máficos. Aparece en esquistos cloríticos, gneises, y como fase secundaria en serpentinitas y rocas ígneas alteradas.
+
+- **Variedades:** Dentro del grupo se destacan:
+
+  - Clinochloro (rica en Mg).
+
+  - Chamosita (rica en Fe).
+
+  - Pennina (variedad común escamosa).
+
+- **Alteración:** Se transforma con facilidad en minerales arcillosos (caolinita, montmorillonita) durante la meteorización superficial.
+
+- **Usos:** Escasa importancia económica directa; a veces usada como piedra ornamental en agregados masivos. Su mayor valor es como indicador metamórfico y de alteración hidrotermal en geología.
+
+- **Minerales parecidos:** Puede confundirse con biotita (color más oscuro, láminas más elásticas), serpentina (textura más compacta y colores verde amarillentos), y con talco (más blando, tacto jabonoso).
+
+---
+
+### **Grupo de los Feldespatos** — **Feldespatos potásicos (K-feldespatos)**
+
+```{figure} ../images/feldespato.jpg
+    :width: 50%
+    :align: center
+    :alt: Feldespato
+
+**Feldespato Potásico Tomado de [fuente](https://www.jxscmachine.com/es/nuevo/proceso-de-beneficio-del-feldespato-separacion-magnetica-por-flotacion/)**
+```
+
+```{figure} ../images/feldespato_2.jpg
+    :width: 50%
+    :align: center
+    :alt: Feldespato_2
+
+**Feldespato Potásico  Tomado de [fuente](https://www.xatico.com/productos/feldespato/)**
+```
+
+- **Química:** Tectosilicatos de aluminio y potasio. Fórmula general KAlSi₃O₈. Incluye tres polimorfos principales: ortoclasa (monoclínico), microclina (triclínico) y sanidina (monoclínico, alta T).
+
+- **Color:** Usualmente rosado, salmón, blanco o crema; también pueden encontrarse variedades grisáceas o verdosas (microclina verde “amazonita”).
+
+- **Transparencia:** Generalmente opacos a translúcidos; algunos cristales pueden ser casi transparentes.
+
+- **Brillo:** No metálico vítreo a nacarado en superficies de clivaje.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema monoclínico o triclínico según el polimorfo. Cristales típicos tabulares a prismáticos, a veces con formas macladas características (maclas de Carlsbad, Baveno o Manebach).
+
+**Hábito:**
+
+  - Cristales tabulares o prismáticos en pegmatitas.
+
+  - Común en masas granulares en rocas ígneas.
+
+  - Presenta con frecuencia maclas visibles.
+
+- **Dureza:** 6 (Mohs). Raya el vidrio, pero puede ser rayado por el cuarzo (7).
+
+- **Peso específico:** Medio, alrededor de 2,55 – 2,63 g/cm³.
+
+- **Clivaje:** Dos direcciones de clivaje bien marcadas que se cruzan casi a 90°, rasgo diagnóstico frente a las plagioclasas (ángulo de 86°).
+
+- **Fractura:** Irregular a concoidea en superficies fuera del clivaje.
+
+- **Magnetismo:** No presentan magnetismo.
+
+- **Efervescencia con HCl:** No reaccionan.
+
+- **Origen y ocurrencia:** Minerales muy comunes en rocas ígneas (granitos, sienitas, riolitas, pegmatitas), también presentes en rocas metamórficas (gneises, esquistos) y como componentes en sedimentos detríticos (areniscas feldespáticas). Son los feldespatos dominantes en la corteza continental.
+
+- **Variedades:**
+
+  - Ortoclasa: típica de granitos, monoclínica.
+
+  - Microclina: triclínica, común en granitos; variedad verde conocida como amazonita.
+
+  - Sanidina: estable a altas temperaturas, común en rocas volcánicas ácidas (riolitas, traquitas).
+
+- **Alteración:** Se alteran fácilmente a caolinita, sericita o arcillas por procesos de meteorización y alteración hidrotermal.
+
+- **Usos:**
+
+En la industria cerámica y del vidrio como fundente.
+
+Como materia prima para porcelana y esmaltes.
+
+Piedra ornamental en granitos y sienitas.
+
+- **Minerales parecidos:** Puede confundirse con plagioclasas (ángulo de clivaje distinto y estriaciones microscópicas), con cuarzo (sin clivaje, fractura concoidea), y con nefelina (menor dureza y diferente contexto geológico).
+
+---
+
+### **Grupo de los Feldespatos** — **Serie de las Plagioclasas**
+
+```{figure} ../images/plagioclasa.jpg
+    :width: 50%
+    :align: center
+    :alt: Plagioclasa
+
+**Plagioclasa Tomado de [fuente](https://www.jovageology.com/2014/04/plagioclasa-plagioclase-mineral.html)**
+```
+
+```{figure} ../images/plagioclasa_2.jpg
+    :width: 50%
+    :align: center
+    :alt: Plagioclasa_2
+
+**Cristales de plagioclasa en un basalto Tomado de [fuente](https://www.regmurcia.com/servlet/s.Sl?sit=c,365,m,108&r=ReP-26865-DETALLE_REPORTAJESABUELO)**
+```
+
+- **Química:** Tectosilicatos de aluminio, sodio y calcio. Fórmula general (Na,Ca)(Si,Al)₄O₈. Constituyen una serie isomórfica continua entre albita (NaAlSi₃O₈) y anortita (CaAl₂Si₂O₈).
+
+- **Color:** Usualmente blanco, gris o incoloro; también puede presentar tonos verdes, rosados o azulados (labradorita, con iridiscencia).
+
+- **Transparencia:** Generalmente translúcidas a opacas; cristales puros pueden ser casi transparentes.
+
+- **Brillo:** No metálico vítreo a nacarado en superficies frescas.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema triclínico. Los cristales típicos son tabulares o prismáticos; muy frecuentes en masas granulares.
+
+- **Hábito:**
+
+  - Cristales tabulares en pegmatitas.
+
+  - Granular masivo en rocas ígneas.
+
+  - Con frecuencia presentan maclas visibles (macla polisintética o “estriaciones” finas en las caras de clivaje).
+
+- **Dureza:** 6 – 6,5 (Mohs). Raya el vidrio y puede ser rayada por el cuarzo (7).
+
+- **Peso específico:** Medio, entre 2,6 – 2,8 g/cm³, aumentando hacia el extremo cálcico (anortita).
+
+- **Clivaje:** Dos direcciones bien marcadas que se cruzan en ángulo de ~86°, lo que las distingue de los feldespatos potásicos (clivaje a 90°).
+
+- **Fractura:** Irregular a concoidea en superficies fuera del clivaje.
+
+- **Magnetismo:** No presentan magnetismo.
+
+- **Efervescencia con HCl:** No reaccionan.
+
+- **Origen y ocurrencia:** Minerales muy abundantes, presentes en casi todas las rocas ígneas (basaltos, andesitas, granitos, gabros, dioritas), en muchas rocas metamórficas (gneises, esquistos) y en rocas sedimentarias detríticas (como feldespatos en areniscas). Son los feldespatos dominantes en la corteza oceánica.
+
+- **Variedades (serie):**
+
+  - Albita (NaAlSi₃O₈) — extremo sódico, común en granitos y pegmatitas.
+
+  - Oligoclasa — intermedio rico en Na, frecuente en granitos y dioritas.
+
+  - Andesina — intermedio, típica de andesitas y dioritas.
+
+  - Labradorita — rica en Ca, presenta iridiscencia azulada (labradorescencia), común en basaltos y gabros.
+
+  - Bytownita — intermedio cálcico, en rocas máficas.
+
+  - Anortita (CaAl₂Si₂O₈) — extremo cálcico, típico de gabros, basaltos y anortositas.
+
+- **Alteración:** Se alteran fácilmente a caolinita, sericita o arcillas; en meteorización avanzada producen minerales arcillosos y óxidos de hierro.
+
+- **Usos:**
+
+  - Como materia prima en la industria cerámica y del vidrio.
+
+  - Labradorita se usa como gema ornamental.
+
+  - Importancia científica por ser indicadores de condiciones de cristalización magmática.
+
+- **Minerales parecidos:** Pueden confundirse con los feldespatos potásicos (diferenciables por las estriaciones y el ángulo de clivaje), y con cuarzo (sin clivaje, mayor dureza).
+
+---
+
+### **Cuarzo**
+
+```{figure} ../images/cuarzo.png
+    :width: 50%
+    :align: center
+    :alt: Cuarzo
+
+**Cuarzo Tomado de [fuente](https://es.geologyscience.com/geolog%C3%ADa/El-papel-del-cuarzo-en-la-corteza-terrestre./)**
+```
+
+```{figure} ../images/cuarzo_2.jpg
+    :width: 50%
+    :align: center
+    :alt: Cuarzo_2
+
+**Cuarzo Tomado de [fuente](https://www.jovageology.com/2014/04/cuarzo-quartz-mineral.html)**
+```
+
+- **Química:** Tectosilicato de sílice. Fórmula general SiO₂, con numerosas variedades cristalinas (cuarzo, tridimita, cristobalita) y criptocristalinas (calcedonia, ágata, jaspe).
+
+- **Color:** Típicamente incoloro o blanco lechoso; puede presentar tonalidades violeta (amatista), rosado (cuarzo rosado), gris-azulado (cuarzo ahumado), amarillo (citrino) o multicolor en variedades criptocristalinas.
+
+- **Transparencia:** Transparente a translúcido en cristales bien desarrollados; en agregados masivos suele ser opaco.
+
+- **Brillo:** No metálico vítreo, en superficies frescas; puede ser graso en cuarzo translúcido o con impurezas.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema trigonal-hexagonal. Cristales típicos prismáticos hexagonales terminados en pirámides. En rocas, se encuentra comúnmente en masas anhedrales.
+
+- **Hábito:**
+
+  - Prismático hexagonal en geodas y drusas.
+
+  - Masivo granular en cuarcitas y granitos.
+
+  - Agregados fibrosos o criptocristalinos en calcedonia y ágata.
+
+- **Dureza:** 7 (Mohs). Raya el vidrio y no puede ser rayado por cuchillo o acero común.
+
+- **Peso específico:** Medio, alrededor de 2,65 g/cm³.
+
+- **Clivaje:** Muy pobre o inexistente.
+
+- **Fractura:** Concoidea muy característica, con superficies curvas tipo concha.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona con ácido clorhídrico diluido.
+
+- **Origen y ocurrencia:** Mineral muy abundante, presente en casi todos los tipos de rocas:
+
+  - Ígneas: granitos, riolitas, pegmatitas.
+
+  - Metamórficas: cuarcitas, gneises, esquistos.
+
+  - Sedimentarias: areniscas cuarzosas, chert. Constituye más del 12 % de la corteza terrestre.
+
+- **Variedades:**
+
+  - **Cristal de roca:** incoloro y transparente.
+
+  - **Amatista:** violeta (Fe³⁺, radiación).
+
+  - **Citrino:** amarillo a anaranjado.
+
+  - **Cuarzo rosado:** rosado pálido.
+
+  - **Cuarzo ahumado:** gris a negro.
+
+  - **Ágata, calcedonia, ónix, jaspe:** variedades criptocristalinas.
+
+- **Alteración:** Muy resistente a meteorización; se acumula como arenas de cuarzo y permanece en suelos y sedimentos.
+
+- **Usos:**
+
+  - Industria del vidrio, cerámica y abrasivos.
+
+  - Óptica y electrónica (efecto piezoeléctrico).
+
+  - Joyería y ornamentación (amatista, citrino, ágata, cuarzo rosado).
+
+- **Minerales parecidos:** Puede confundirse con calcita incolora (pero la calcita tiene clivaje, menor dureza y efervescencia con HCl), con feldespatos claros (clivaje marcado, raya blanca), o con berilo (dureza mayor, 7,5–8, y hábito hexagonal más robusto).
 
 ---
 
