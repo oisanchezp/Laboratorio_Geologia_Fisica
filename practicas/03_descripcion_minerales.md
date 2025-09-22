@@ -431,11 +431,11 @@ Se describen los principales minerales que se encuentran en rocas ígneas, metam
 
 - **Hábito:**
 
-Prismático alargado, con cristales que suelen ser anhedrales a subhedrales.
+  - Prismático alargado, con cristales que suelen ser anhedrales a subhedrales.
 
-Aparece también en masas granulares o fibrosas.
+  - Aparece también en masas granulares o fibrosas.
 
-Común en agregados radiales o columnar-tabulares.
+  - Común en agregados radiales o columnar-tabulares.
 
 - **Dureza:** 5 – 6 (Mohs). Puede ser rayado por el cuarzo (7), pero raya al vidrio y al cuchillo de acero.
 
@@ -527,11 +527,11 @@ Común en agregados radiales o columnar-tabulares.
 
 - **Usos:**
 
-Crisotilo se explotó como asbesto (uso hoy restringido por riesgos a la salud).
+  - Crisotilo se explotó como asbesto (uso hoy restringido por riesgos a la salud).
 
-Antigorita y lizardita como piedras ornamentales y de revestimiento.
+  - Antigorita y lizardita como piedras ornamentales y de revestimiento.
 
-Importante en geología petrológica como indicador de serpentinización y procesos tectónicos en zonas de subducción.
+  - Importante en geología petrológica como indicador de serpentinización y procesos tectónicos en zonas de subducción.
 
 - **Minerales parecidos:** Puede confundirse con clorita (similar color y hábito laminar, pero distinta dureza y birrefringencia en lámina delgada), o con talco (más blando, tacto jabonoso).
 
@@ -595,13 +595,13 @@ Importante en geología petrológica como indicador de serpentinización y proce
 
 - **Usos:**
 
-Principal componente del caolín usado en la industria cerámica (porcelana, loza, refractarios).
+  - Principal componente del caolín usado en la industria cerámica (porcelana, loza, refractarios).
 
-Papel (recubrimiento y carga).
+  - Papel (recubrimiento y carga).
 
-Pinturas, caucho, plásticos y cosméticos como material de relleno.
+  - Pinturas, caucho, plásticos y cosméticos como material de relleno.
 
-Importante en geología ambiental como indicador de meteorización intensa.
+  - Importante en geología ambiental como indicador de meteorización intensa.
 
 - **Minerales parecidos:** Puede confundirse con tiza o yeso pulverulento (pero yeso reacciona al raspar con HCl y es más blando). También con talco (tacto jabonoso, brillo nacarado más evidente).
 
@@ -666,11 +666,11 @@ Importante en geología ambiental como indicador de meteorización intensa.
 
 - **Usos:**
 
-Como lubricante sólido y en polvos cosméticos (talco industrial).
+  - Como lubricante sólido y en polvos cosméticos (talco industrial).
 
-Carga y relleno en papel, pinturas, plásticos y cauchos.
+  - Carga y relleno en papel, pinturas, plásticos y cauchos.
 
-Piedra ornamental y escultórica (esteatita).
+  - Piedra ornamental y escultórica (esteatita).
 
 - **Minerales parecidos:** Puede confundirse con caolinita (más terrosa, menos grasa al tacto), yeso (más blando pero sin tacto jabonoso, reacciona ligeramente con HCl en polvo), o serpentina (más dura, hábito masivo y color verde más intenso).
 
@@ -826,9 +826,7 @@ Piedra ornamental y escultórica (esteatita).
 
 - **Forma cristalina:** Sistema monoclínico o triclínico según la especie. Los cristales bien formados son muy raros; aparece casi siempre en masas laminares o escamosas.
 
-- **Hábito:** Laminar y hojoso, parecido a una mica. Escamoso o micáceo, en agregados.
-
-A menudo en masas terrosas verdosas.
+- **Hábito:** Laminar y hojoso, parecido a una mica. Escamoso o micáceo, en agregados. A menudo en masas terrosas verdosas.
 
 - **Dureza:** 2 – 2,5 (Mohs). Se raya fácilmente con la uña.
 
@@ -890,7 +888,7 @@ A menudo en masas terrosas verdosas.
 
 - **Forma cristalina:** Sistema monoclínico o triclínico según el polimorfo. Cristales típicos tabulares a prismáticos, a veces con formas macladas características (maclas de Carlsbad, Baveno o Manebach).
 
-**Hábito:**
+- **Hábito:**
 
   - Cristales tabulares o prismáticos en pegmatitas.
 
@@ -924,11 +922,11 @@ A menudo en masas terrosas verdosas.
 
 - **Usos:**
 
-En la industria cerámica y del vidrio como fundente.
+  - En la industria cerámica y del vidrio como fundente.
 
-Como materia prima para porcelana y esmaltes.
+  - Como materia prima para porcelana y esmaltes.
 
-Piedra ornamental en granitos y sienitas.
+  - Piedra ornamental en granitos y sienitas.
 
 - **Minerales parecidos:** Puede confundirse con plagioclasas (ángulo de clivaje distinto y estriaciones microscópicas), con cuarzo (sin clivaje, fractura concoidea), y con nefelina (menor dureza y diferente contexto geológico).
 
@@ -1100,9 +1098,738 @@ Piedra ornamental en granitos y sienitas.
 
 ---
 
-## Carbonatos
+## **Carbonatos**
+
+### **Calcita** 
 
 
+```{figure} ../images/calcita.png
+    :width: 50%
+    :align: center
+    :alt: Calcita
+
+**Calcita Tomado de [fuente](https://es.geologyscience.com/minerales/calcita/)**
+```
+
+- **Química:** Carbonato de calcio. Fórmula general CaCO₃. Pertenece al grupo de los carbonatos, polimorfo de la aragonita.
+
+- **Color:** Usualmente incoloro o blanco; también puede ser amarillento, grisáceo, rosado, verdoso o marrón según impurezas.
+
+- **Transparencia:** Transparente a translúcida en cristales puros; en agregados masivos suele ser opaca.
+
+- **Brillo:** No metálico vítreo a nacarado; en superficies terrosas puede ser mate.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema trigonal (romboédrico). Cristales típicos romboédricos, a veces en formas escalenoédricas o prismáticas.
+
+- **Hábito:** Cristales romboédricos bien formados. Masiva y granular en calizas.
+
+  - Estalactitas y estalagmitas en cuevas.
+
+- **Dureza:** 3 (Mohs). Se raya fácilmente con una moneda de cobre o un cuchillo.
+
+- **Peso específico:** Relativamente bajo, 2,7 g/cm³.
+
+- **Clivaje:** Perfecto en tres direcciones, formando romboedros característicos.
+
+- **Fractura:** Concoidea a irregular, aunque menos evidente por el clivaje marcado.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** Sí; efervescencia intensa e inmediata con ácido clorhídrico diluido, incluso en fragmentos pequeños y pulverizados.
+
+- **Origen y ocurrencia:** Mineral muy común:
+
+  - **Sedimentarias:** principal constituyente de calizas, mármoles y travertinos.
+
+  - **Metamórficas:** en mármoles y skarns.
+
+  - **Hidrotermales:** en vetas junto a otros carbonatos y sulfuros.
+
+  - **Biogénicos:** en depósitos biogénicos (conchas, corales, caparazones).
+
+- **Variedades:**
+
+  - **Espato de Islandia:** calcita incolora y transparente, con fuerte birrefringencia.
+
+  - **Dogtooth spar:** cristales escalenoédricos puntiagudos.
+
+  - **Travertino:** variedad por precipitación en aguas termales o cuevas.
+
+- **Alteración:** Puede transformarse en dolomita por reemplazo metasomático (dolomitización). Meteorización superficial produce arcillas y óxidos residuales.
+
+- **Usos:**
+
+  - Construcción (cemento, cal, áridos).
+
+  - Industria química (producción de cal viva, carbonato de calcio).
+
+  - Óptica (espato de Islandia por su birrefringencia).
+
+  - Piedra ornamental y escultórica (mármol).
+
+- **Minerales parecidos:** Puede confundirse con aragonita (polimorfo más denso y de hábito acicular o fibroso), con dolomita (similar reacción con HCl en polvo, mayor dureza 3,5–4), o con cuarzo incoloro (mucho más duro y sin efervescencia).
+
+---
+
+### **Dolomita**
 
 
+```{figure} ../images/dolomita.png
+    :width: 50%
+    :align: center
+    :alt: Dolomita
+
+**Dolomita Tomado de [fuente](https://geologiaweb.com/minerales/dolomita/)**
+```
+
+- **Química:** Carbonato doble de calcio y magnesio. Fórmula general CaMg(CO₃)₂. Pertenece al grupo de los carbonatos y forma una serie isomórfica con la ankerita (CaFe(CO₃)₂).
+
+- **Color:** Generalmente blanca, incolora o gris clara; puede presentar tonalidades rosadas, amarillentas, pardas o verdosas debido a impurezas de hierro o manganeso.
+
+- **Transparencia:** Usualmente translúcida a opaca; raramente transparente en cristales puros.
+
+- **Brillo:** No metálico vítreo a nacarado en superficies frescas.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema trigonal (romboédrico). Cristales típicos romboédricos semejantes a los de la calcita, aunque con caras más curvadas o ligeramente arqueadas.
+
+- **Hábito:** Cristales romboédricos bien formados. Masivo y granular en dolomías. Puede presentarse en agregados sacaroides (textura azucarada).
+
+  - Masivo y granular en dolomías.
+
+  - Puede presentarse en agregados sacaroides (textura azucarada).
+
+- **Dureza:** 3,5 – 4 (Mohs). Más dura que la calcita, puede rayar una moneda de cobre pero no el vidrio.
+
+- **Peso específico:** Medio, 2,8 – 2,9 g/cm³, ligeramente mayor que el de la calcita.
+
+- **Clivaje:** Perfecto en tres direcciones, formando romboedros característicos.
+
+- **Fractura:** Concoidea a irregular, aunque en general domina el clivaje.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** Reacciona débilmente en frío, pero efervescencia fuerte si está pulverizada o si se calienta. Diferencia clave frente a la calcita.
+
+- **Origen y ocurrencia:** Mineral principal de la roca dolomía, formada por procesos de dolomitización (reemplazo de calcita por dolomita en calizas).
+
+  - También presente en mármoles dolomíticos.
+
+  - Puede formarse en ambientes sedimentarios marinos o por precipitación hidrotermal.
+
+- **Variedades:**
+
+  - Ankerita: variedad rica en Fe (CaFe(CO₃)₂).
+
+  - Kutnahorita: variedad con Mn.
+
+- **Alteración:** Puede descomponerse a calcita y liberar óxidos/hidróxidos de Mg y Fe durante la meteorización.
+
+- **Usos:**
+
+  - Construcción (piedra triturada, áridos, cemento).
+
+  - Industria química (fuente de Mg y Ca).
+
+  - Piedra ornamental en dolomías cristalinas.
+
+- **Minerales parecidos:** Muy similar a la calcita (diferenciable por dureza ligeramente mayor y reacción más débil con HCl). Puede confundirse con magnesita (más densa, mayor dureza 4–4,5) y con ankerita (rica en Fe, color pardo-amarillento).
+
+---
+
+### **Aragonito**
+
+
+```{figure} ../images/aragonito.png
+    :width: 50%
+    :align: center
+    :alt: Aragonito
+
+**Aragonito Tomado de [fuente](https://geologiaweb.com/minerales/aragonito-aragonita/)**
+```
+
+- **Química:** Carbonato de calcio. Fórmula general CaCO₃. Es polimorfo de la calcita y la vaterita, estable a alta presión y temperatura.
+
+- **Color:** Usualmente incoloro o blanco; puede presentar tonos amarillentos, pardos, verdosos, azulados o rosados según impurezas.
+
+- **Transparencia:** Transparente a translúcido en cristales puros; en agregados masivos es comúnmente opaco.
+
+- **Brillo:** No metálico vítreo a nacarado.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema ortorrómbico. Cristales típicos aciculares, prismáticos o tabulares, a menudo en agregados radiales o columnar-fibrosos.
+
+- **Hábito:** Columnar o acicular en cristales. Fibroso o radial en agregados.
+
+  - Fibroso o radial en agregados.
+
+  - Forma estalactitas y agregados globulares en cuevas y manantiales.
+
+- **Dureza:** 3,5 – 4 (Mohs). Se raya con una moneda de cobre, pero es algo más duro que la calcita.
+
+- **Peso específico:** Medio, alrededor de 2,9 – 3,0 g/cm³, ligeramente mayor que la calcita.
+
+- **Clivaje:** Pobre a indistinto, a diferencia de la calcita (que presenta clivaje perfecto romboédrico).
+
+- **Fractura:** Concoidea a irregular.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** Sí, efervescencia intensa e inmediata, igual que la calcita.
+
+- **Origen y ocurrencia:** Común en depósitos sedimentarios de carbonato, especialmente en ambientes marinos y de aguas termales.
+
+  - Forma estalactitas, estalagmitas y concreciones en cuevas.
+
+  - Es componente de conchas, corales y esqueletos marinos (biogénico).
+
+  - Se encuentra en rocas metamórficas carbonáticas y en depósitos hidrotermales.
+
+- **Variedades:**
+
+  - Aragonito coraloide (en cuevas, con aspecto botroidal).
+
+  - Aragonito acicular (cristales delgados).
+
+  - Flos ferri (variedad fibrosa y delicada).
+
+- **Alteración:** Metastable a condiciones superficiales; tiende a transformarse lentamente en calcita, el polimorfo más estable.
+
+- **Usos:**
+
+  - Piedra ornamental en colecciones y decoración.
+
+  - Importante en biología marina (estructura de conchas y esqueletos).
+
+  - Se estudia en geología ambiental y paleoclimatología como indicador de condiciones de formación.
+
+- **Minerales parecidos:** Muy similar a la calcita (se diferencia por hábito acicular o fibroso, menor clivaje y densidad ligeramente mayor). También puede confundirse con yeso fibroso (yeso es más blando, dureza 2).
+
+---
+### **Azurita**
+
+```{figure} ../images/azurita.png
+    :width: 50%
+    :align: center
+    :alt: Azurita
+
+**Azurita Tomado de [fuente](https://materialoteca.azc.uam.mx/index.php/catalogo-de-materiales/item/41-de-origen-mineral/3908-mineral-azurita)**
+```
+
+- **Química:** Carbonato básico de cobre. Fórmula general Cu₃(CO₃)₂(OH)₂.
+
+- **Color:** Muy característico, azul intenso a azul celeste; uno de los minerales más fácilmente identificables por su color.
+
+- **Transparencia:** Usualmente translúcida a opaca; en cristales pequeños y finos puede ser transparente.
+
+- **Brillo:** No metálico vítreo a submetálico, a veces terroso en agregados pulverulentos.
+
+- **Raya:** Azul claro (coincide con el color del mineral, diagnóstico importante).
+
+- **Forma cristalina:** Sistema monoclínico. Cristales típicos prismáticos o tabulares, aunque bien formados son poco comunes.
+
+- **Hábito:** Masivo, terroso o botroidal.
+
+  - Cristales prismáticos raros pero distintivos.
+
+  - A menudo en agregados radiales o estalactíticos.
+
+- **Dureza:** 3,5 – 4 (Mohs). Se raya con un cuchillo de acero, más dura que la calcita pero más blanda que el cuarzo.
+
+- **Peso específico:** Relativamente alto, 3,7 – 3,9 g/cm³, por su contenido en cobre. Se siente pesada en mano.
+
+- **Clivaje:** Perfecto en una dirección, aunque no siempre fácil de observar.
+
+- **Fractura:** Concoidea a desigual.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** Sí, efervescencia moderada en frío, más evidente si está pulverizada.
+
+- **Origen y ocurrencia:** Mineral secundario que se forma por alteración y meteorización de sulfuros de cobre (especialmente calcopirita y bornita) en ambientes oxidados. Se encuentra asociado a malaquita, cuprita, crisocola y limonita. Común en la zona de oxidación de yacimientos de cobre.
+
+- **Variedades:** Generalmente se distingue por el hábito: azurita masiva (terrosa o botroidal) y azurita cristalina (raros cristales prismáticos azules de gran belleza).
+
+- **Alteración:** Tiende a alterarse a malaquita (verde) por hidratación y oxidación adicional.
+
+- **Usos:**
+
+  - Pigmento azul en la antigüedad (aunque se altera fácilmente).
+
+  - Mineral de cobre (menor importancia económica frente a sulfuros).
+
+  - Muy apreciada como gema y piedra ornamental en joyería y tallado.
+
+- **Minerales parecidos:** Se confunde principalmente con la malaquita (verde intenso, mismo grupo y asociación), con lapislázuli (azul más opaco y no efervescente con HCl), y con azurita-malaquita (mezcla de ambos minerales en bandas verdes y azules).
+
+---
+
+### **Malaquita**
+
+```{figure} ../images/malaquita.png
+    :width: 50%
+    :align: center
+    :alt: Malaquita
+
+**Malaquita Tomado de [fuente](https://www.jovageology.com/2014/04/malaquita-malachite-mineral.html#google_vignette)**
+```
+
+- **Química:** Carbonato básico de cobre. Fórmula general Cu₂(CO₃)(OH)₂. Es polimorfo con la azurita, pero con diferente proporción de cobre y disposición estructural.
+
+- **Color:** Muy característico, verde intenso a verde esmeralda, a veces con tonalidades verde claro o verde negruzco. Su color es diagnóstico.
+
+- **Transparencia:** Usualmente opaca; en fragmentos muy delgados puede ser translúcida.
+
+- **Brillo:** No metálico vítreo a sedoso, a veces mate o terroso en agregados pulverulentos.
+
+- **Raya:** Verde claro, coincidente con su color.
+
+- **Forma cristalina:** Sistema monoclínico. Cristales definidos son aciculares o prismáticos, pero son raros; lo más común son formas masivas.
+
+- **Hábito:**
+
+  - Masivo, botroidal, estalactítico o fibroso.
+
+  - Frecuentemente con bandas concéntricas verde claro y oscuro, muy distintivas.
+
+  - Puede aparecer en agregados terrosos de color verde vivo.
+
+- **Dureza:** 3,5 – 4 (Mohs). Se raya con cuchillo de acero, similar a la azurita.
+
+- **Peso específico:** Relativamente alto, 3,9 – 4,0 g/cm³, por su contenido en cobre. Se siente pesada en mano.
+
+- **Clivaje:** Perfecto en una dirección, pero difícil de observar en masas botroidales.
+
+- **Fractura:** Irregular a astillosa, en ocasiones concoidea.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** Sí, efervescencia moderada en frío, más evidente en polvo.
+
+- **Origen y ocurrencia:** Mineral secundario de cobre, producto de la alteración y meteorización de sulfuros de cobre (como calcopirita y bornita) en la zona de oxidación. Aparece comúnmente asociado a azurita, cuprita, crisocola y limonita.
+
+- **Variedades:** Se reconocen principalmente por su hábito: malaquita botroidal (la más común), fibrosa (con aspecto sedoso) y estalactítica.
+
+- **Alteración:** Puede deshidratarse o transformarse en cuprita y otros óxidos de cobre en condiciones más oxidadas.
+
+- **Usos:**
+
+  - Piedra ornamental muy apreciada (jarrones, cajas, cabujones de joyería).
+
+  - Pigmento verde usado históricamente en pintura.
+
+  - Mineral de cobre (importante en la antigüedad, hoy menor frente a sulfuros).
+
+- **Minerales parecidos:** Se confunde con azurita (azul intenso, suele encontrarse junto a ella), con crisocola (verde azulado, más blanda y terrosa), y con turquesa (azul verdosa, más dura y sin efervescencia fuerte con HCl).
+
+---
+
+## **Haluros**
+
+### **Halita**
+
+```{figure} ../images/halita_2.png
+    :width: 50%
+    :align: center
+    :alt: Halita
+
+**Halita Tomado de [fuente](https://es.geologyscience.com/minerales/h%C3%A1lito/)**
+```
+
+- **Química:** Cloruro de sodio. Fórmula general NaCl. Es el principal mineral del grupo de los halogenuros.
+
+- **Color:** Generalmente incolora o blanca; puede ser rosada, rojiza, azulada o amarillenta por impurezas.
+
+- **Transparencia:** Transparente a translúcida en cristales puros; en agregados masivos suele ser opaca.
+
+- **Brillo:** No metálico vítreo en superficies frescas; puede volverse mate por meteorización.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales típicos en forma de cubos perfectos; a veces en agregados granulares o masivos.
+
+- **Hábito:**
+
+  - Cristales cúbicos bien formados en ambientes evaporíticos.
+
+  - Masivo granular o terroso en grandes depósitos salinos.
+
+- **Dureza:** 2 – 2,5 (Mohs). Se raya fácilmente con la uña.
+
+- **Peso específico:** Bajo, alrededor de 2,1 – 2,2 g/cm³. Se siente muy ligera en mano.
+
+- **Clivaje:** Perfecto en tres direcciones a 90°, produciendo cubos característicos.
+
+- **Fractura:** Concoidea a desigual, pero raramente visible por su clivaje marcado.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Propiedad diagnóstica:** Sabor salado muy característico (⚠️ en laboratorio educativo se menciona, pero no se recomienda probar minerales desconocidos).
+
+- **Origen y ocurrencia:** Se forma por evaporación de aguas salinas en lagos cerrados, salares y mares epicontinentales.
+
+  - Constituye yacimientos evaporíticos masivos junto con yeso y anhidrita.
+
+  - También aparece como eflorescencias salinas en climas áridos y en minas.
+
+- **Variedades:** Puede encontrarse en distintas coloraciones según impurezas: halita azul (inclusiones de electrones atrapados), halita rosada (óxidos de hierro).
+
+- **Alteración:** Altamente soluble en agua; se disuelve fácilmente en ambientes húmedos.
+
+- **Usos:**
+
+  - Sal común (cloruro de sodio) para consumo humano e industrial.
+
+  - Materia prima química en la obtención de cloro, sosa cáustica y ácido clorhídrico.
+
+  - Deshielo de carreteras y múltiples usos industriales.
+
+- **Minerales parecidos:** Puede confundirse con la silvita (KCl), que es similar pero tiene sabor amargo; también con el yeso transparente (selenita), pero el yeso es más blando (dureza 2) y no tiene sabor salado.
+
+---
+
+### **Silvina (Silvita)**
+
+```{figure} ../images/silvina.png
+    :width: 50%
+    :align: center
+    :alt: Silvina
+
+**Silvina Tomado de [fuente](https://es.wikipedia.org/wiki/Silvita)**
+```
+
+- **Química:** Cloruro de potasio. Fórmula general KCl. Mineral análogo a la halita, pero con potasio en lugar de sodio.
+
+- **Color:** Generalmente incolora o blanca; puede presentar tonalidades rosadas, rojizas, grises o azuladas por impurezas (óxidos de hierro, inclusiones).
+
+- **Transparencia:** Transparente a translúcida en cristales puros; en agregados masivos suele ser opaca.
+
+- **Brillo:** No metálico vítreo en superficies frescas; a veces mate en muestras alteradas.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales típicos cúbicos o granulares, semejantes a los de la halita.
+
+- **Hábito:**
+
+  - Cristales cúbicos bien formados en depósitos evaporíticos.
+
+  - Masivo granular en asociaciones con halita y otros minerales salinos.
+
+- **Dureza:** 2 – 2,5 (Mohs). Se raya fácilmente con la uña, igual que la halita.
+
+- **Peso específico:** Bajo, alrededor de 1,9 – 2,0 g/cm³, ligeramente menor que la halita.
+
+- **Clivaje:** Perfecto cúbico en tres direcciones a 90°, típico de los halogenuros.
+
+- **Fractura:** Concoidea a irregular, aunque normalmente domina el clivaje.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Propiedad diagnóstica:** Sabor amargo-picante (⚠️ se menciona como diagnóstico histórico, pero no se recomienda probar minerales desconocidos). Es la principal diferencia práctica frente a la halita (sabor salado).
+
+- **Origen y ocurrencia:**
+
+  - Se forma en ambientes evaporíticos junto con halita, carnalita, anhidrita y otros minerales salinos.
+
+  - Común en yacimientos de sales potásicas explotados para fertilizantes.
+
+- **Variedades:** Puede presentarse en agregados fibrosos, compactos o masivos; no posee variedades gemológicas importantes.
+
+- **Alteración:** Altamente soluble en agua; se desintegra fácilmente en ambientes húmedos.
+
+- **Usos:**
+
+  - Fuente principal de potasio para la producción de fertilizantes.
+
+  - También usada en la industria química (fabricación de sales de potasio).
+
+- **Minerales parecidos:** Muy similar a la halita (NaCl); la diferencia está en el sabor (halita = salado, silvina = amargo/picante), el peso específico más bajo de la silvina y la asociación con minerales potásicos (carnalita, langbeinita).
+
+---
+
+### **Fluorita**
+
+```{figure} ../images/fluorita.png
+    :width: 50%
+    :align: center
+    :alt: Fluorita
+
+**Fluorita Tomado de [fuente](https://www.geovirtual2.cl/Mineral/Fluorita-03.htm)**
+```
+
+- **Química:** Fluoruro de calcio. Fórmula general CaF₂.
+
+- **Color:** Muy variable. Comúnmente violeta o púrpura, pero también puede ser verde, azul, amarillo, rosa, incolora o multicolor en bandas.
+
+- **Transparencia:** Transparente a translúcida en cristales puros; en agregados masivos puede ser opaca.
+
+- **Brillo:** No metálico vítreo en superficies frescas.
+
+- **Raya:** Blanca.
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales típicos cúbicos bien formados, a veces octaédricos.
+
+- **Hábito:**
+
+  - Cristales cúbicos y bien definidos.
+
+  - Masivo o granular en vetas.
+
+  - Puede formar agregados bandeados multicolores (fluorita arcoíris).
+
+- **Dureza:** 4 (Mohs). Se raya fácilmente con un cuchillo de acero, pero no con la uña.
+
+- **Peso específico:** Medio, alrededor de 3,1 – 3,2 g/cm³.
+
+- **Clivaje:** Perfecto en cuatro direcciones (octaédrico), propiedad diagnóstica.
+
+- **Fractura:** Concoidea a irregular, aunque suele dominar el clivaje.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Propiedades ópticas:** Presenta a menudo fluorescencia bajo luz ultravioleta, de donde proviene su nombre.
+
+- **Origen y ocurrencia:**
+
+  - Mineral común en vetas hidrotermales asociado a sulfuros, barita y cuarzo.
+
+  - También en rocas sedimentarias (calizas, dolomitas) y en cavidades de basaltos.
+
+  - Presente en depósitos pegmatíticos y en venas de fluorita masiva.
+
+- **Variedades:**
+
+  - Fluorita arcoíris: con bandas multicolores.
+
+  - Fluorita azul, verde o amarilla: denominadas por su color.
+
+- **Alteración:** Generalmente estable; en meteorización se puede descomponer liberando Ca y F.
+
+- **Usos:**
+
+  - Industria metalúrgica como fundente.
+
+  - Industria química (producción de ácido fluorhídrico y compuestos de flúor).
+
+  - Óptica: lentes especiales por su baja dispersión.
+
+  - Piedra ornamental y coleccionismo.
+
+- **Minerales parecidos:** Puede confundirse con cuarzo (más duro, fractura concoidea, sin clivaje), con calcita (efervescente con HCl y menor dureza 3), o con halita (más blanda, sabor salado, sin fluorescencia).
+
+---
+
+## **Oxidos**
+
+### **Hematita**
+
+```{figure} ../images/hematita.png
+    :width: 50%
+    :align: center
+    :alt: Hematita
+
+**Hematita Tomado de [fuente](https://www.jovageology.com/2014/04/hematita-hematite-mineral.html)**
+```
+
+- **Química:** Óxido de hierro. Fórmula general Fe₂O₃.
+
+- **Color:** Usualmente rojo oscuro, pardo rojizo, gris metálico o negro.
+
+- **Transparencia:** Generalmente opaca; en láminas muy delgadas puede ser rojiza translúcida.
+
+- **Brillo:** Metálico a submetálico en variedades cristalinas; terroso o mate en hematita pulverulenta.
+
+- **Raya:** Rojo sangre, propiedad diagnóstica.
+
+- **Forma cristalina:** Sistema hexagonal (trigonal). Cristales tabulares, romboédricos o laminares; también masivos.
+
+- **Hábito:**
+
+  - Masivo terroso o botroidal (hematita roja).
+
+  - Cristales laminares metálicos (“especularita”).
+
+- **Dureza:** 5,5 – 6,5 (Mohs). Raya el vidrio, pero no tan duro como el cuarzo.
+
+- **Peso específico:** Relativamente alto, 5,0 – 5,3 g/cm³.
+
+- **Clivaje:** Indistinto.
+
+- **Fractura:** Irregular a subconcoidea.
+
+- **Magnetismo:** Generalmente no magnética, pero puede adquirir magnetismo débil si se calienta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Común en rocas sedimentarias (formaciones ferríferas), metamórficas (bandas de óxido), y como mineral de alteración de minerales de Fe.
+
+- **Variedades:** Especularita (brillante metálica), hematita terrosa (ocre rojo).
+
+- **Usos:** Principal mena de hierro; pigmento rojo natural.
+
+- **Minerales parecidos:** Puede confundirse con magnetita (pero hematita tiene raya roja, no negra) y con ilmenita (raya negra, densidad menor).
+
+---
+
+### **Rutilo**
+
+```{figure} ../images/rutilo.png
+    :width: 50%
+    :align: center
+    :alt: Rutilo
+
+**Rutilo Tomado de [fuente](https://es.wikipedia.org/wiki/Rutilo)**
+```
+
+- **Química:** Óxido de titanio. Fórmula general TiO₂.
+
+- **Color:** Típicamente rojizo a pardo rojizo, también amarillo, negro o dorado.
+
+- **Transparencia:** Transparente a translúcido en cristales delgados; masivo suele ser opaco.
+
+- **Brillo:** Adamántino a vítreo en cristales, resinoso en agregados.
+
+- **Raya:** Marrón pálido.
+
+- **Forma cristalina:** Sistema tetragonal. Cristales típicos prismáticos o aciculares, con secciones cuadradas.
+
+- **Hábito:**
+
+  - Cristales prismáticos o aciculares.
+
+  - Masivo granular o radiado.
+
+- **Dureza:** 6 – 6,5 (Mohs). Raya el vidrio.
+
+- **Peso específico:** Alto, 4,2 – 4,3 g/cm³.
+
+- **Clivaje:** Bueno en dos direcciones.
+
+- **Fractura:** Concoidea a irregular.
+
+- **Magnetismo:** No presenta.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Mineral accesorio común en ígneas (granitos, pegmatitas), metamórficas (gneises, esquistos) y en sedimentos detríticos por su alta resistencia.
+
+- **Variedades:** Rutilo acicular en cuarzo (“cabello de Venus”).
+
+- **Usos:** Principal mena de titanio (pigmentos, metal). También como gema coleccionable.
+
+- **Minerales parecidos:** Puede confundirse con ilmenita (más blanda, raya negra) y con hematita (raya roja).
+
+---
+
+### **Magnetita**
+
+```{figure} ../images/magnetita.png
+    :width: 50%
+    :align: center
+    :alt: Magnetita
+
+**Magnetita Tomado de [fuente](https://www.jovageology.com/2014/04/magnetita-magnetite-mineral.html)**
+```
+
+- **Química:** Óxido mixto de hierro. Fórmula general Fe₃O₄ (Fe²⁺Fe³⁺₂O₄).
+
+- **Color:** Negro intenso.
+
+- **Transparencia:** Opaca.
+
+- **Brillo:** Metálico a submetálico.
+
+- **Raya:** Negra.
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales típicos octaédricos o dodecaédricos.
+
+- **Hábito:**
+
+  - Cristales octaédricos bien formados.
+
+  - Masivo granular.
+
+- **Dureza:** 5,5 – 6,5 (Mohs). Raya el vidrio.
+
+- **Peso específico:** Alto, 5,1 – 5,2 g/cm³.
+
+- **Clivaje:** Indistinto.
+
+- **Fractura:** Irregular a subconcoidea.
+
+- **Magnetismo:** Sí, fuertemente magnética, propiedad diagnóstica.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Mineral común en ígneas máficas y ultramáficas, metamórficas (bandas ferríferas) y como mineral detrítico en sedimentos.
+
+- **Variedades:** Puede presentarse como magnetita titanífera (con Ti).
+
+- **Usos:** Principal mena de hierro. Mineral clave en brújulas naturales (lodestone).
+
+- **Minerales parecidos:** Puede confundirse con hematita (pero hematita no es fuertemente magnética), o con ilmenita (menos magnética, raya negra parda).
+
+---
+
+### **Cromita**
+
+```{figure} ../images/cromita.png
+    :width: 50%
+    :align: center
+    :alt: Cromita
+
+**Cromita Tomado de [fuente](https://www.gemrockauctions.com/es/learn/a-z-of-gemstones/chromite?srsltid=AfmBOoqJ5EnRr1N2qiZZEv1KQHojthS6JSAOLriJYTzS93Mo_fhr3JWq)**
+```
+
+
+- **Química:** Óxido de hierro y cromo. Fórmula general FeCr₂O₄. Pertenece al grupo del espinelo.
+
+- **Color:** Negro a marrón oscuro.
+
+- **Transparencia:** Opaca.
+
+- **Brillo:** Metálico a submetálico.
+
+- **Raya:** Pardo oscura a negra.
+
+- **Forma cristalina:** Sistema cúbico (isométrico). Cristales raros, generalmente octaédricos; más común en masas.
+
+- **Hábito:**
+
+  - Masivo granular.
+
+  - Cristales octaédricos pequeños en rocas ultramáficas.
+
+- **Dureza:** 5,5 (Mohs). Similar a la del vidrio.
+
+- **Peso específico:** Alto, 4,5 – 4,8 g/cm³.
+
+- **Clivaje:** Indistinto.
+
+- **Fractura:** Irregular a subconcoidea.
+
+- **Magnetismo:** Débil a moderado, menos evidente que en la magnetita.
+
+- **Efervescencia con HCl:** No reacciona.
+
+- **Origen y ocurrencia:** Mineral típico de rocas ultramáficas (peridotitas, dunitas) y en yacimientos estratiformes de cromita. Aparece asociado a olivino, piroxenos y serpentina.
+
+- **Variedades:** No posee variedades gemológicas; se clasifica según la proporción de Fe y Mg (magnesiocromita, ferrocromita).
+
+- **Usos:** Principal mena de cromo, fundamental en la fabricación de aceros inoxidables, pigmentos y refractarios.
+
+- **Minerales parecidos:** Puede confundirse con magnetita (más magnética, raya negra) y con ilmenita (más liviana y con raya negra parda).
+
+---
 
