@@ -10,4 +10,6 @@ En la siguiente tabla se presentan los horarios de clases y monitorías del seme
 ```
 
 
-[Grupo Laboratorio Geología Física Estudiantes y Monitores:](https://chat.whatsapp.com/F9fvox0LLch7znFAZJ8x7s?mode=ac_t)
+
+
+[Grupo de Whatsapp Laboratorio Geología Física Estudiantes y Monitores:](https://chat.whatsapp.com/F9fvox0LLch7znFAZJ8x7s?mode=ac_t)
