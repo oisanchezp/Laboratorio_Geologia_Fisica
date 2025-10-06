@@ -326,5 +326,3 @@ Hoy se propone un origen mixto:
 
 - Piani et al. (2020), Science – Condritas enstatita y agua “local”; debates recientes sobre el origen del agua.
 
-
-## Teoría Tectónica de Placas
