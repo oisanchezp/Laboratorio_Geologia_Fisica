@@ -7,4 +7,6 @@ Se debe entregar un informe escrito a mano hasta el día 8 de octubre de 2025, q
 - El formulario de Google Forms con las fotos de las muestras descritas en el labatorio: [link para adjuntar foto muestra](https://docs.google.com/forms/d/e/1FAIpQLSfUx5-t200T9Leu7mOz8fqQ6ztwdkpCj3uiucUbbB2RxcAyqQ/viewform)
 
 
-[**Taller 1 - Identificación de Minerales**](docs/taller_1_identificacion_minerales.pdf)
+<object data="docs/taller_1_identificacion_minerales.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Tu navegador no puede mostrar el PDF. <a href="docs/taller_1_identificacion_minerales.pdf">Descargar archivo</a>.</p>
+</object>
