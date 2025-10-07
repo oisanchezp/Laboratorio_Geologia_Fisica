@@ -19,14 +19,14 @@ Grupo 11
 Semestre 2025-2
 Profesor: Oscar Iván Sánchez P.
 
-1. **Isótopos y desintegración radiactiva**
+**1. Isótopos y desintegración radiactiva**
 
 a. ¿Por qué los isótopos y la desintegración radiactiva son herramientas clave en geología? Mencione tres aplicaciones.
 
 b. ¿Se relaciona esto con la bomba atómica? Explique una similitud y dos diferencias.
 
 
-2. **Identificación de minerales en muestra de mano**
+**2. Identificación de minerales en muestra de mano**
   
 Describan las 5 muestras asignadas por el monitor del laboratorio utilizando las propiedades físicas vistas en clase. Realicen las pruebas en el siguiente orden:
    - Dibujo del contorno del mineral
@@ -37,14 +37,18 @@ Describan las 5 muestras asignadas por el monitor del laboratorio utilizando las
    - Densidad relativa (“peso en mano”).
    - Reacción con ácido (efervescencia, si aplica).
    - Magnetismo (si lo presenta).
-   - 
+  
    Luego, para cada muestra:
+
    a. Asignen un nombre al mineral
+
    b. Indiquen a qué grupo mineral pertenece (Silicatos, Carbonatos, Haluros, Óxidos e Hidróxidos, Sulfatos, Sulfuros o Elementos Nativos).
+
    c. Señalen en qué rocas se puede encontrar comúnmente ese mineral (Rocas Ígneas, Rocas Sedimentarias o Rocas Metamórficas).
+
    d. Expliquen cuál es su posible ambiente o ambientes de formación (cristalización a partir de magma, precipitación/evaporación de soluciones acuosas, metamorfismo de rocas o actividad biológica).
 
-3. **Aplicación y uso de minerales**
+**3. Aplicación y uso de minerales**
 
 Elija **4 minerales** del listado y complete la tabla (propiedades clave, ambiente/rocas, uso principal):
 
@@ -55,11 +59,10 @@ Tabla de ejemplo:
 | Mineral         | Propiedades clave                          | Ambiente/Rocas comunes               | Uso principal                        |
 |-----------------|-------------------------------------------|-------------------------------------|-------------------------------------|
 | Cuarzo          | Dureza 7, fractura concoidea, incoloro | Rocas ígneas y metamórficas         | Fabricación de vidrio y electrónicas |
-| Yeso           | Dureza muy baja (H=2, raya con la uña) habito tabular o fibroso brillo sedoso  |Se forma por precipitación y evaporación en ambientes sedimentarios evaporíticos (lagos salinos, cuencas marinas sedimentarias restringidas).
-Común en rocas sedimentarias.  | Yeso de construcción (drywall, estuco), cemento, fertilizantes (fuente de Ca y S)            |
+| Yeso            | Dureza muy baja (H=2, raya con la uña) habito tabular o fibroso brillo sedoso  |Se forma por precipitación y evaporación en ambientes sedimentarios evaporíticos (lagos salinos, cuencas marinas sedimentarias restringidas) | Yeso de construcción (drywall, estuco), cemento, fertilizantes (fuente de Ca y S)            |
 
 
-4. **Casos de estudio**
+**4. Casos de estudio**
 
 a. El **polimorfismo** ocurre cuando dos minerales tienen la misma composición química, pero sus átomos se organizan de manera distinta en la estructura cristalina, lo que provoca propiedades físicas muy diferentes. Un ejemplo común son los minerales grafito y diamante, ambos formados por carbono:
 
@@ -83,7 +86,7 @@ En el laboratorio se requiere realizar una primera diferenciación de estos mine
 - Yeso vs. Biotita
 - Hematita vs. Goethita
 
-5. **Pregunta adional**
+**5. Pregunta adicional**
 
 a. Revise los objetos que haya en su casa o los que usted utilice a diario y haga un cuadro en donde identifique cuáles fueron fabricados a partir de los siguientes minerales:
 

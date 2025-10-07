@@ -16,7 +16,7 @@ En la siguiente figura se muestra un diagrama simplificado del ciclo de las roca
 
 ```{figure} ../images/rock_cycle.png
     :name: fig:rock_cycle
-    :width: 70%
+    :width: 80%
     :align: center
     :alt: Ciclo de las Rocas
 
