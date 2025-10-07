@@ -12,6 +12,17 @@ Si las rocas sedimentarias (o ígneas) son enterradas profundamente en la cortez
 
 Cuando las rocas metamórficas (o ígneas o sedimentarias) son expuestas a temperaturas extremadamente altas, pueden fundirse y convertirse nuevamente en magma, cerrando así el ciclo de las rocas.
 
+En la siguiente figura se muestra un diagrama simplificado del ciclo de las rocas:
+
+```{figure} ../images/rock_cycle.png
+    :name: fig:rock_cycle
+    :width: 70%
+    :align: center
+    :alt: Ciclo de las Rocas
+
+**Tomado de **
+```
+
 
 ## ¿De donde procede la energía que impulsa el ciclo de las rocas?
 
