@@ -77,11 +77,12 @@ Se realizará una práctica de campo en la Facultad de Minas.**
 
 | Semana | Actividad evaluativa                                                     | Porcentaje |
 |:------:|---------------------------------------------------------------------------|:----------:|
-| 4      | Taller 1: Identificación de minerales                                     | 15 %       |
-| 7      | Taller 2: Identificación de rocas ígneas                                   | 15 %       |
-| 8      | Taller 3: Identificación de rocas sedimentarias                            | 20 %       |
-| 11     | Taller 4: Identificación de rocas metamórficas                             | 20 %       |
-| 14     | Taller 5: Mapas geológicos, cortes e interpretación con brújula            | 10 %       |
+| 4      | Taller 1: Identificación de minerales                                     | 10 %       |
+| 7      | Taller 2: Identificación de rocas ígneas                                   | 10 %       |
+| 8      | Taller 3: Identificación de rocas sedimentarias                            | 10 %       |
+| 11     | Taller 4: Identificación de rocas metamórficas                             | 10 %       |
+| 14     | Taller 5: Mapas geológicos, cortes e interpretación con brújula            | 20 %       |
+| 14     | Quiz: Brujula y rocas                                                      | 20 %       |
 | 15     | Taller 6: Mapas geológicos, cortes y columna estratigráfica                | 20 %       |
 | **—**  | **Total**                                                                 | **100 %**  |
 
