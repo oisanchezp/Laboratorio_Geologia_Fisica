@@ -48,28 +48,29 @@ Al finalizar el laboratorio de Geología Física, los estudiantes estarán en ca
     - Interpretación de columnas estratigráficas
     - Discusión: ¿Para que me sirve todo lo aprendido?
 
-## Calendario semestre 2025-02
+## Calendario semestre 2026-01
 
 **Las clases serán todos los miércoles de 2:00 a 4:00 p.m. en el Bloque M1-210.  
 Se realizará una práctica de campo en la Facultad de Minas.**
 
-| **Semana** | **Fecha**        | **Tema / Actividad**                                                |
-|:----------:|:----------------:|---------------------------------------------------------------------|
-| **1**      | 11 de febrero    | Introducción al laboratorio de Geología                             |
-| **2**      | 18 de febrero    | Minerales                                                           |
-| **3**      | 25 de febrero    | Identificación de minerales en muestra de mano                      |
-| **4**      | 4 de marzo       | **Taller 1: Identificación de minerales**                           |
-| **5**      | 11 de marzo      | Rocas Ígneas                                                        |
-| **6**      | 18 de marzo      | Identificación de rocas ígneas en muestra de mano                   |
-| **7**      | 25 de marzo      | **Taller 2: Identificación de rocas ígneas**                        |
-| **8**      | 8 de abril       | Rocas Sedimentarias                                                 |
-| **9**      | 19 de abril      | Identificación de rocas sedimentarias en muestra de mano            |
-| **10**     | 22 de abril      | **Taller 3: Identificación de rocas sedimentarias**                 |
-| **11**     | 29 de abril      | Rocas Metamórficas                                                  |
-| **12**     | 6 de mayo        | Identificación de rocas metamórficas en muestra de mano             |
-| **13**     | 13 de mayo       | **Taller 4: Identificación de rocas metamórficas**                  |
-| **14**     | 20 de mayo       | Práctica Precampo: Ubicación, manejo de brújula y mapas geológicosMapas geológicos, cortes topográficos y columna estratigráfica /**Taller 5: Mapas geológicos, cortes, brújula**                               |
-| **15**     | 27 de mayo       | **Taller 6: Mapas geológicos, cortes y columna estratigráfica**     |
+| **Semana** | **Fecha**     | **Tema / Actividad**                                                                 |
+|:----------:|:-------------:|--------------------------------------------------------------------------------------|
+| **1**      | 11 de febrero | Introducción al laboratorio de Geología                                              |
+| **2**      | 18 de febrero | Minerales                                                                            |
+| **3**      | 25 de febrero | Identificación de minerales en muestra de mano                                       |
+| **4**      | 4 de marzo    | **Taller 1: Identificación de minerales**                                            |
+| **5**      | 11 de marzo   | Rocas ígneas                                                                         |
+| **6**      | 18 de marzo   | Identificación de rocas ígneas en muestra de mano                                    |
+| **7**      | 25 de marzo   | **Taller 2: Identificación de rocas ígneas**                                         |
+| **8**      | 8 de abril    | Rocas sedimentarias                                                                  |
+| **9**      | 19 de abril   | Identificación de rocas sedimentarias en muestra de mano                             |
+| **10**     | 22 de abril   | **Taller 3: Identificación de rocas sedimentarias**                                  |
+| **11**     | 29 de abril   | Rocas metamórficas                                                                   |
+| **12**     | 6 de mayo     | Identificación de rocas metamórficas en muestra de mano                              |
+| **13**     | 13 de mayo    | **Taller 4: Identificación de rocas metamórficas**                                   |
+| **14**     | 20 de mayo    | Práctica precampo: ubicación, manejo de brújula y mapas geológicos / **Taller 5**   |
+| **15**     | 27 de mayo    | **Taller 6: Mapas geológicos, cortes y columna estratigráfica**                      |
+
 
 
 ## Evaluación
