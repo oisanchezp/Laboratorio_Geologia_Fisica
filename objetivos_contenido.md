@@ -1,4 +1,4 @@
-# Laboratorio de Geología Física Semestre 2 - 2025
+# Laboratorio de Geología Física Semestre 1 - 2026
 
 **Universidad Nacional de Colombia - Sede Medellín**
 
@@ -55,34 +55,34 @@ Se realizará una práctica de campo en la Facultad de Minas.**
 
 | **Semana** | **Fecha**        | **Tema / Actividad**                                                |
 |:----------:|:----------------:|---------------------------------------------------------------------|
-| **1**      | 3 de septiembre  | Introducción al laboratorio de Geología                             |
-| **2**      | 10 de septiembre | Minerales                                                           |
-| **3**      | 17 de septiembre | Identificación de minerales en muestra de mano                      |
-| **4**      | 24 de septiembre | Ciclo de las rocas / **Taller 1: Identificación de minerales**      |
-| **5**      | 1 de octubre     | Rocas Ígneas                                                        |
-| **6**      | 8 de octubre     | Identificación de rocas ígneas en muestra de mano                   |
-| **7**      | 15 de octubre    | Taller de repaso Rocas Ígneas                                       |
-| **8**      | 22 de octubre    | **Quiz 1: Minerales y Rocas Ígneas**                                |
-| **9**      | 29 de octubre    | Rocas Sedimentarias / Taller Rocas Sedimentarias                    |
-| **10**     | 5 de noviembre   | Rocas Metamórficas / Taller Rocas Metamórficas                      |
-| **11**     | 12 de noviembre  | Práctica Precampo: Ubicación, manejo de brújula y mapas geológicos  |
-| **12**     | 19 de noviembre  | **Quiz 2: Sedimentarias y Metamórficas**                            |
-| **13**     | 26 de noviembre  | Mapas geológicos, cortes topográficos y columna estratigráfica      |
-| **14**     | 3 de diciembre   | **Taller 3: Mapas geológicos, cortes, brújula**                     |
-| **15**     | 10 de diciembre  | **Quiz 3**: Mapas geológicos, cortes y columna estratigráfica       |
+| **1**      | 11 de febrero    | Introducción al laboratorio de Geología                             |
+| **2**      | 18 de febrero    | Minerales                                                           |
+| **3**      | 25 de febrero    | Identificación de minerales en muestra de mano                      |
+| **4**      | 4 de marzo       | **Taller 1: Identificación de minerales**                           |
+| **5**      | 11 de marzo      | Rocas Ígneas                                                        |
+| **6**      | 18 de marzo      | Identificación de rocas ígneas en muestra de mano                   |
+| **7**      | 25 de marzo      | **Taller 2: Identificación de rocas ígneas**                        |
+| **8**      | 8 de abril       | Rocas Sedimentarias                                                 |
+| **9**      | 19 de abril      | Identificación de rocas sedimentarias en muestra de mano            |
+| **10**     | 22 de abril      | **Taller 3: Identificación de rocas sedimentarias**                 |
+| **11**     | 29 de abril      | Rocas Metamórficas                                                  |
+| **12**     | 6 de mayo        | Identificación de rocas metamórficas en muestra de mano             |
+| **13**     | 13 de mayo       | **Taller 4: Identificación de rocas metamórficas**                  |
+| **14**     | 20 de mayo       | Práctica Precampo: Ubicación, manejo de brújula y mapas geológicosMapas geológicos, cortes topográficos y columna estratigráfica /**Taller 5: Mapas geológicos, cortes, brújula**                               |
+| **15**     | 27 de mayo       | **Taller 6: Mapas geológicos, cortes y columna estratigráfica**     |
 
 
 ## Evaluación
 
-| Semana | Actividad evaluativa                     | Porcentaje |
-|--------|------------------------------------------|------------|
-| 4      | Taller 1                                 | 15 %       |
-| 7      | Taller 2                                 | 15 %       |
-| 8      | Quiz 1                                   | 20 %       |
-| 11     | Quiz 2                                   | 20 %       |
-| 14     | Taller 3                                 | 10 %       |
-| 15     | Quiz 3                                   | 20 %       |
-| **Total** |                                          | **100 %**  |
+| Semana | Actividad evaluativa                                                     | Porcentaje |
+|:------:|---------------------------------------------------------------------------|:----------:|
+| 4      | Taller 1: Identificación de minerales                                     | 15 %       |
+| 7      | Taller 2: Identificación de rocas ígneas                                   | 15 %       |
+| 8      | Taller 3: Identificación de rocas sedimentarias                            | 20 %       |
+| 11     | Taller 4: Identificación de rocas metamórficas                             | 20 %       |
+| 14     | Taller 5: Mapas geológicos, cortes e interpretación con brújula            | 10 %       |
+| 15     | Taller 6: Mapas geológicos, cortes y columna estratigráfica                | 20 %       |
+| **—**  | **Total**                                                                 | **100 %**  |
 
 ## Libros Guía
 
